@@ -1,0 +1,10 @@
+{
+  "indexer_config": "~/.config/index-cards/config.json",
+  "questions": "~/.config/index-cards/questions.jsonl",
+  "corpora": "~/.config/index-cards/corpora.json",
+  "split": "frozen",
+  "k": 5,
+  "out": "~/.cache/index-cards/nightly",
+  "log": "~/.cache/index-cards/nightly",
+  "stale_days": 90
+}

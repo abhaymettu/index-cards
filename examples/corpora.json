@@ -1,0 +1,7 @@
+{
+  "vault": {
+    "root": "vault",
+    "include": ["*.md"],
+    "exclude": ["03-Resources/Credentials/**"]
+  }
+}

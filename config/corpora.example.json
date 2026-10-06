@@ -1,0 +1,16 @@
+{
+  "vault": {
+    "root": "~/Documents/Vault",
+    "include": ["*.md"],
+    "exclude": ["03-Resources/Credentials/**", "Templates/**", "Attachments/**", ".trash/**"]
+  },
+  "audit": {
+    "root": "~/reports",
+    "include": ["*.md"]
+  },
+  "session": {
+    "root": "~/.claude/projects",
+    "include": ["*.jsonl"],
+    "exclude": []
+  }
+}

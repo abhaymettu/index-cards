@@ -1,0 +1,19 @@
+{
+  "vault": "~/Documents/Vault",
+  "audit": "~/reports",
+  "session_digests": "~/.cache/index-cards/digests/session",
+  "lock": "~/.cache/index-cards/index-cards.lock",
+  "skip_dirs": [".claude", "Templates", "Attachments", "03-Resources/Credentials"],
+  "skip_files": ["index.md", "People/_template.md"],
+  "block_dirs": ["00-Inbox/Daily/", "Journal/"],
+  "block_files": ["log.md", "Decisions.md"],
+  "person_dirs": ["People"],
+  "project_dirs": ["01-Projects"],
+  "root_project_dirs": [],
+  "area_dirs": ["02-Areas"],
+  "topic_dirs": ["Wiki"],
+  "archive_dirs": ["04-Archives"],
+  "not_entities": ["01-Projects/Meetings", "Wiki/Wiki.md"],
+  "catalog_note": "",
+  "extra_files": []
+}
