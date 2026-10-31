@@ -2,6 +2,10 @@
 
 A deterministic memory layer for coding agents over a plain markdown vault.
 
+[![Index cards: one markdown card per person, project, tool and topic, built by code](https://abhaymettu.com/og/research/index-cards.png)](https://abhaymettu.com/research/index-cards/)
+
+Write-up: [abhaymettu.com/research/index-cards](https://abhaymettu.com/research/index-cards/)
+
 Your notes, reports and session transcripts stay the source of truth. A small set of Python scripts
 (stdlib only, Python 3.9) keeps one **index card** per person, project, tool, area and topic, lists
 every source that mentions it with a date, a link and an excerpt, and lets agents find things with
