@@ -270,7 +270,11 @@ def main():
     ap.add_argument("--vault", default=indexer.VAULT)
     a = ap.parse_args()
     chunks = load_chunks(a.vault)
-    print(Cards(chunks, vault=a.vault)({"question": a.question}, a.budget))
+    out = Cards(chunks, vault=a.vault)({"question": a.question}, a.budget)
+    if not out.strip():
+        sys.exit(f"no card or note in {a.vault} matches that question ({len(chunks)} blocks searched). "
+                 "Name the person or project, or run `index-cards sweep` if the vault changed.")
+    print(out)
 
 
 if __name__ == "__main__":
