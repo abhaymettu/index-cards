@@ -2,9 +2,10 @@
 
 ## X
 
-agent memory benchmarks mostly measure chat logs. i measured memory over a markdown vault: same model, same
-4k-token budget, grep vs bm25 vs embeddings vs a claude-code-style memory file vs a deterministic entity index.
-index 89.5%, embeddings 82.1%. but let the agent grep on its own and the index stops helping.
+built a memory layer for coding agents. code keeps one card per person and project in a markdown vault, so the
+agent can follow a question across two notes. same model, same 4k-token budget, against grep, bm25, embeddings and a
+claude-code-style memory file: cards 89.5%, embeddings 82.1%. but let the agent grep on its own and the cards stop
+helping.
 github.com/abhaymettu/index-cards
 
 ## Hacker News (Show HN)

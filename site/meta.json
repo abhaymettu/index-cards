@@ -1,6 +1,6 @@
 {
   "title": "Index cards: measuring a memory layer for coding agents",
-  "summary": "A deterministic entity index over a markdown vault, benchmarked against grep, BM25, embeddings, hybrid retrieval and a Claude Code style memory file at an equal context budget.",
+  "summary": "A memory layer for coding agents: code keeps one markdown card per person and project, listing every dated note that mentions it, so an agent on a small context budget can follow a question across two notes. Benchmarked against grep, BM25, embeddings, hybrid retrieval and a Claude Code style memory file at an equal context budget.",
   "repo": "https://github.com/abhaymettu/index-cards",
   "paper_pdf": "paper/index-cards.pdf",
   "hero_image": "docs/img/accuracy-4000.png",

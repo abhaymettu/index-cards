@@ -5,6 +5,11 @@ own, what the deadline is now that it slipped twice. index-cards is the small la
 one card per person and project, listing every note that mentions it with a date, and the agent reads the cards
 first. No model is called to build them.
 
+The cards matter most when an answer sits in two notes. Ask which city the current owner of a project lives in, and
+a search finds the project's notes but not the old note where I met the owner, which has the city. The project's
+card names the owner, and the owner's card leads to that meeting. That helps when the agent can only read a fixed
+budget of context. An agent free to grep the vault as long as it likes does fine without them.
+
 Agent memory gets talked about a lot and measured very little, so I measured this one against what people actually
 use.
 

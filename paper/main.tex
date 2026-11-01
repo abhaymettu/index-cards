@@ -19,11 +19,13 @@
 
 \begin{abstract}
 Coding agents increasingly answer questions from a user's own notes: who someone is, which project they own, what
-the deadline is now. We ask which memory layer gives the best answers when the agent may read only a fixed number
-of tokens. We build a benchmark from seeded, fictional six-month markdown vaults (251 notes, about 114k tokens each)
-whose questions have known answers, including facts that later changed and questions that need two notes. At a
-4,000-token budget, with the same answering model and prompt for every system, a deterministic entity index (one
-card per person and project listing every dated mention, built by code with no model calls) answers
+the deadline is now. We propose index cards, a deterministic entity index over the notes: one card per person and
+project listing every dated mention, built by code with no model calls. A card lets the agent follow a question
+from one note to another, which similarity search misses when nothing in the question points at the second note.
+We ask which memory layer gives the best answers when the agent may read only a fixed number of tokens, and build a
+benchmark from seeded, fictional six-month markdown vaults (251 notes, about 114k tokens each) whose questions have
+known answers, including facts that later changed and questions that need two notes. At a 4,000-token budget, with
+the same answering model and prompt for every system, the index answers
 \MainCardsFourAcc\% of held-out questions on a world nothing was tuned on. Embedding retrieval answers
 \MainRagFourAcc\% (paired bootstrap $p=\MainPRagFour$), hybrid BM25 plus embeddings \MainHybridFourAcc\%, BM25
 \MainBmFourAcc\%, a Claude Code style memory file the model kept itself \MainMemoryFourAcc\%, and grep
