@@ -9,12 +9,16 @@ Code keeps one markdown **card** per person and project, listing every note that
 first. No model is called to build it. Asked a question, the agent reads the cards the question names, then the
 notes they point to.
 
-On 257 held-out questions about a fictional six-month vault (114k tokens, every person and project with a unique
-full name, benchmark designed by me), generated after the retriever was frozen, with the same model, prompt and 4,000-token budget for every system, cards answer **89.5%**. Embedding
-retrieval gets 82.1% (paired bootstrap p = 0.003), grep 73.5%, and a Claude Code style memory file 63.0%. The gap
-comes from questions that need two notes, like "which city does the current owner of Kelp-DB live in?": cards get
-70% of these and embedding retrieval 31%. The lead holds from 2,000 to 4,000 tokens. At 1,000 tokens embedding
-retrieval is ahead, and at 8,000 the two converge.
+Why it helps: plain retrieval is good at finding the note that matches a question, and weak when the answer needs two
+notes chained together, like "which city does the current owner of Kelp-DB live in?". A card already lists every note
+about Kelp-DB, so the agent can follow the trail. Given the same model, prompt and context budget, that is where cards
+pull ahead of embedding retrieval, grep and a Claude Code style memory file.
+
+The benchmark is 257 held-out questions about a fictional six-month vault (114k tokens, every person and project with a
+unique full name, benchmark designed by me), generated after the retriever was frozen. At a 4,000-token budget cards
+answer **89.5%**. Embedding retrieval gets 82.1% (paired bootstrap p = 0.003), grep 73.5%, and a Claude Code style
+memory file 63.0%. On the two-note questions cards get 70% and embedding retrieval 31%. The lead holds from 2,000 to
+4,000 tokens. At 1,000 tokens embedding retrieval is ahead, and at 8,000 the two converge.
 
 One result goes the other way, and it matters. A Sonnet agent that can grep the vault itself in as many turns as it
 likes gets 98% with or without cards, and uses fewer tokens without them. Cards pay off when the context is a
