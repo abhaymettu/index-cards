@@ -1,0 +1,6 @@
+build/
+*.egg-info/
+__pycache__/
+.remember/
+examples/vault/index-cards/*/
+examples/vault/index-cards/_catalog.md

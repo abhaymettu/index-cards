@@ -1,0 +1,11 @@
+\begin{table}[t]\centering\small
+\caption{The agent loop: Claude Code with Read, Grep and Glob in the seed-7 vault, no budget, 91 test questions. Tokens are input tokens per question.}\label{tab:agent}
+\begin{tabular}{lrrrrrr}\toprule
+& \multicolumn{3}{c}{Sonnet} & \multicolumn{3}{c}{Haiku} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+Setup & Acc. & Tokens & Turns & Acc. & Tokens & Turns \\
+\midrule
+Vault only & 98.9 & 20{,}860 & 3.9 & 97.8 & 24{,}641 & 4.6 \\
+Vault + memory file & 98.9 & 54{,}544 & 4.2 & 95.6 & 51{,}540 & 4.0 \\
+Vault + index-cards & 97.8 & 26{,}211 & 5.4 & 89.0 & 45{,}439 & 6.9 \\
+\bottomrule\end{tabular}\end{table}

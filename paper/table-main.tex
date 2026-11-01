@@ -1,0 +1,15 @@
+\begin{table*}[t]\centering\small
+\caption{Accuracy at a 4{,}000-token budget. Columns up to Stale: seed 8, the fresh held-out world, 257 test questions, Sonnet answering. Abst.\ is the share of answerable questions answered ``unknown''; Stale is the share of changed-fact questions answered with a superseded value. Seed 7 is the first world (development data for the final retriever; v1 was frozen before its test run). Haiku is seed 8 with Haiku answering.}\label{tab:main}
+\begin{tabular}{lrrrrrrrrrrr}\toprule
+System & Acc. & 95\% CI & Single & Multihop & Update & Aggr. & Temporal & Abst. & Stale & Seed 7 & Haiku \\
+\midrule
+No memory & 7.8 & 5--12 & 0 & 0 & 0 & 0 & 0 & 100.0 & 0.0 & 9.0 & 7.8 \\
+grep & 73.5 & 68--79 & 94 & 3 & 99 & 84 & 100 & 26.6 & 0.0 & 73.1 & 66.1 \\
+Memory file & 63.0 & 57--69 & 47 & 69 & 71 & 24 & 63 & 29.5 & 2.3 & 76.1 & 56.8 \\
+BM25 & 77.0 & 72--82 & 100 & 10 & 99 & 92 & 100 & 23.2 & 1.1 & 78.0 & 72.4 \\
+Hybrid & 79.8 & 74--84 & 100 & 16 & 100 & 96 & 100 & 21.5 & 0.0 & 79.1 & 75.1 \\
+Embedding RAG & 82.1 & 77--86 & 98 & 31 & 100 & 88 & 100 & 17.7 & 1.1 & 84.0 & 77.0 \\
+index-cards v1 & 88.3 & 84--92 & 94 & 69 & 95 & 92 & 95 & 10.5 & 1.1 & 89.2 &  \\
+\textbf{index-cards} & 89.5 & 85--93 & 98 & 70 & 94 & 92 & 100 & 9.3 & 1.1 & 90.7 & 80.5 \\
+Oracle & 93.8 & 90--96 & 98 & 80 & 100 & 88 & 100 & 5.1 & 0.0 & 95.5 & 88.7 \\
+\bottomrule\end{tabular}\end{table*}

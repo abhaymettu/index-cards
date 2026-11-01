@@ -1,0 +1,146 @@
+# MEMORY.md
+
+## People
+Format: role, employer, city. Met date/venue (intro). Owns. Notes. Dates 2026 MM-DD.
+Venues: OSS=OSS sprint, PDP=PyData Porto, RC=RustConf meetup, RG=reading group, DN=demo night, DP=dinner party, CG=climbing gym, HH=Halloween hackathon.
+- **Caio Kaminski**: backend, Juniper Systems, Osaka. Met 03-02 OSS. Owns Umber-Eval, Marten-DB. Dog Olive. Woodworking.
+- **Rosa Nakamura**: PhD, Verdant Grid, Cordoba. Met 03-05 DP. Owns Iris-Index. Research topic unknown (ask). Woodworking. Wants Saffron-Lens changes.
+- **Jonas Ulloa**: SRE, Brightwater AI, Madison. Met 03-06 conf. Owns Saffron-Lens, Sparrow-Sync. Dog Mochi. Woodworking. Worried about Willow-Ledger reconciliation edge cases.
+- **Wendell Aldana**: dev advocate, Brightwater AI, Ljubljana. HH. Owns Kelp-DB, Coral-Shell. Pottery. Dog Pixel. Pitched side project 08-26.
+- **Wendell Wainwright**: eng mgr, Halcyon Bio, Austin. Met 03-06 OSS. Owns Prism-Shell, Heron-Lens, Granite-DB. Dog Pepper. Film photography.
+- **Wendell Aguilar**: product designer, Tessellate, Nairobi. Met 04-17 RC. Joined Umber-Eval 06-22 (send onboarding notes). Film photography.
+- **Wendell Zielinski**: founder, Juniper Systems, Tallinn. Met 04-29 PDP. Woodworking. Reading history-of-transistor book (borrow). Prefers rubric scoring.
+- **Farah Thorsen**: security, Embergate, Osaka. Met 03-09 PDP (Wendell W.). Follow up on CI threat modeling. Film photography.
+- **Farah Vasquez**: security, Brightwater AI (left Northwind Labs 07-15; send congrats), Nairobi. Met 04-30 DP. Sourdough. Suggested I submit a conference proposal.
+- **Farah Ashdown**: ML researcher, Halcyon Bio, Valparaiso. Met 05-21 DN. Follow up on model eval; need contact details. Sourdough. Dog Waffles.
+- **Vera Varga**: backend, Ostrander Robotics, Tbilisi. KAIST. Met 03-09 RG (Jonas). Bouldering. Offered to review my talk abstract.
+- **Priya Marchetti**: security, Embergate, Madison. Waterloo. Met 03-13 DP (Caio). Owns Hollow-Sync. Reviews Ember-DB compaction; will send Granite-DB storage notes. Woodworking.
+- **Dmitri Sandoval**: SRE, Juniper Systems (left Ostrander; send congrats), Madison. Imperial. Met 03-16 OSS. Owns Wisp-Ledger. Trail running. His book on list.
+- **Marisol Mbeki**: ML researcher, Northwind Labs, Tallinn. Met 03-16 dinner (Farah T.). Owns Bramble-Lens. Sourdough. Dog Olive. Favors smaller, sharper test sets.
+- **Elif Ivanova**: tech writer, Pinecrest Data, Valparaiso. HH. Owns Lichen-DB. Dog Olive. Beekeeping. Talk outline mostly done; I offered to read draft.
+- **Kavya Engel**: eng mgr, Pinecrest Data, Leipzig. Met 03-19 PDP (Wendell W.). Owns Nimbus-Lens. Film photography.
+- **Ilse Brandt**: product designer, Northwind Labs (left Halcyon 07-23), Tbilisi. Met 03-20 RG (Caio). Owns Kestrel-Queue; handed Willow-Ledger to Anika A. Pottery.
+- **Zoltan Coelho** (Zoli): founder, Lumen Fold (left Brightwater AI 08-05; send congrats), Porto. Met 03-23 (Marisol). Woodworking. Dog Turnip. Check flights, book.
+- **Dario Esposito**: frontend, Pinecrest Data (left Marrow & Finch 07-27), Tbilisi. CMU. Met 03-24 RG. Owns Orchard-Vision. Favors usage-based pricing. Film photography.
+- **Ana Dragomir**: ML researcher, Ostrander Robotics, Osaka. Cape Town. Met 03-25 PDP (Dmitri S.). Chess. Book rec. Floated side project 08-25.
+- **Ana Fitzroy**: security, Lumen Fold, Porto. Met 07-20 DN. Dog Basil. Trail running (ask shoe recs). Pricing: write up options. Book on list.
+- **Goran Pacheco**: frontend, Cobalt Harbor (quit Tessellate 08-25), Madison. HH. Owns Sable-Vision, Tundra-CI. Dog Pixel. Trail running.
+- **Goran Pires**: frontend, Northwind Labs, Madison. Met 04-15 CG (Bilal). Owns Otter-Maps. Chess. Check flights.
+- **Goran Xiong**: eng mgr, Embergate, Porto. Met 05-14 dinner (Dmitri S.). Owns Quill-Vision. Pottery. Dog Mochi.
+- **Hana Halvorsen**: ML researcher, Northwind Labs, Madison. KAIST. Met PDP. Chess. Talk idea.
+- **Anika Achterberg**: eng mgr, Marrow & Finch, Tbilisi. Imperial. Met 04-01 OSS (Priya). Send nice-to-meet-you. Owns Falcon-Shell, Willow-Ledger. Birdwatching.
+- **Felix Moretti**: founder, Kiteline, Hobart. Imperial. HH. Write Falcon-Shell onboarding doc. Salsa.
+- **Felix Kuznetsov**: data eng, Pinecrest Data (left Brightwater ~08-18; send congrats), Osaka. Met 05-19 dinner (Anika). Joined Pebble-Lens 08-20. Email on pipeline tooling. Birdwatching; dog Juniper.
+- **Felix Castellano**: eng mgr, Embergate, Tallinn. Met 06-12 CG. Joined Granite-DB 08-20. Dog Biscuit. Fencing. Favors simpler tiers.
+- **Felix Valverde**: product designer, Northwind Labs, Austin. Met 06-25 DN (Celeste S.). Fencing (want beginner session). Early Oct trip.
+- **Zara Jaramillo**: PhD, Halcyon Bio, Bergen (from Cordoba 07-30). Met 04-06 (Dario E.). Dog Noodle. Birdwatching.
+- **Celeste Moreau**: dev advocate, Saltmarsh Studio, Cordoba (from Hobart 07-27; send note once settled). Waterloo. Met 04-07 (Marisol). Pricing: write up options. Film photography.
+- **Wren Fontaine**: backend, Quillfeather, Leipzig. Met 04-07 hackathon. Open-water swimming. Dog Noodle.
+- **Celeste Sorensen**: tech writer, Brightwater AI, Nairobi. Sciences Po. Met 04-08 board game cafe (Rosa N.). Owns Quarry-Cache (she'll send eviction notes). Talk: lessons from the rewrite. Bouldering. Team uses week-long on-call + handoff doc.
+- **Dario Rasmussen**: data eng, Brightwater AI, Leipzig. Met 04-08 OSS. Owns Cinder-Eval. Fencing. Dog Comet.
+- **Joaquin Laurent**: data eng, Juniper Systems, Hobart. Met 04-08 PDP (Celeste S.). Beekeeping. Dog Turnip.
+- **Joaquin Trevino**: frontend, Cobalt Harbor (left Embergate; send congrats), Hobart. Met 04-29 RC. Sourdough. Thinks I undercharge hosted tier.
+- **Bilal Brennan**: ML researcher, Kiteline, Ljubljana. Met 04-09 dinner. Fewer tiers. Birdwatching. Dog Noodle.
+- **Elif Petrov**: tech writer, Saltmarsh Studio, Valparaiso. Sciences Po. Met 04-10 (Felix M.). On-call: fairer handoffs. Book on list.
+- **Rafael Carvalho**: security, Marrow & Finch, Ljubljana. Hackathon (Jonas). Chess. I sketch eval metrics for him.
+- **Tamsin Szabo** (Tam): frontend, Saltmarsh Studio, Leipzig. Met 04-22 (Dario E.). Send congrats on new job. Dog Turnip. Open-water swimming.
+- **Aiko Ferreira**: dev advocate, Brightwater AI, Madison. Met 04-23 RC (Farah T.). Send thank-you. Dog Waffles. Birdwatching.
+- **Aiko Dunmore**: eng mgr, Kiteline (left Lumen Fold), Madison. Met 06-24 PDP. Dog Ziggy. Competitive chess (NOT trail running). Two book recs.
+- **Quentin Abara** (Q): security, Quillfeather, Ljubljana. Met 04-24 CG (Marisol). Birdwatching. Joined Willow-Ledger 08-11.
+- **Sven Ekwueme**: SRE, Tessellate, Cordoba. Met 04-29 PDP. Beekeeping. Dog Juniper.
+- **Bruno Oyelaran**: eng mgr, Cobalt Harbor, Cordoba. Met 04-30 PDP. Open-water swimming. Dog Olive. Book rec. Lichen-DB: write up what we agreed.
+- **Signe Yamada**: SRE, Quillfeather, Cordoba. Met 05-05 OSS. On Hollow-Sync (send setup notes). Sourdough. Pitched side project. Says job market slow, not dead.
+- **Signe Falk**: backend, Halcyon Bio, Tallinn. Met 05-18 PDP. Sourdough. Dog Mochi. Pricing: write up options.
+- **Signe Weissman**: backend, Ostrander Robotics, Madison. Met 05-25. Pottery. Good remote setup (borrow ideas).
+- **Jun Lindqvist**: dev advocate, Kiteline (left Northwind Labs), Austin. Met 05-05 dinner (Sven E.). Owns Fjord-CI. Beekeeping. Dog Pixel. Wants pricing numbers. Team fully async.
+- **Jun Delacroix**: data eng, Marrow & Finch, Hobart. Met 05-18 OSS (Priya). Open-water swimming. Joined Marten-DB 08-24 (point to contributing doc). Eval design lunch.
+- **Benedikt Cervantes**: tech writer, Halcyon Bio, Valparaiso. KAIST. Met 05-06 dinner. Open-water swimming. Book recs.
+- **Benedikt Sato**: tech writer, Lumen Fold, Montreal. Met 05-26 DN (Wendell Z.; thank him). Sourdough. Dog Basil. Book borrowable. Small CLI tool idea.
+- **Rosa Rinaldi**: backend, Tessellate, Madison. Met 05-07 PDP (Dmitri S.). Send thank-you. Owns Ember-DB (follow up open questions). Joined Prism-Shell 07-03. Birdwatching. Dog Ziggy. Eval design: write up agreement. Annual discounts matter.
+- **Rosa Wexler**: data eng, Northwind Labs, Montreal. Met 06-25 AI reading group (Joaquin L.). Send hello. Birdwatching (NOT film photography). Dog Biscuit. Book on list.
+- **Wren Novak**: PhD, Northwind Labs, Kraków (from Hobart 07-23). McGill. Met 05-08. Bouldering. Joined Quill-Vision 07-13. Fewer tiers.
+- **Wren Ortega**: dev advocate, Brightwater AI (left Embergate), Nairobi. Met 06-03 (Bilal). Chess. Dog Waffles. Async-first.
+- **Wren Haddad**: SRE, Marrow & Finch, Montreal (from Tbilisi 08-25; send note once settled). Sciences Po. Met 06-08 RC (Rosa N.). Beekeeping. Pitched side project 08-20.
+- **Zara Pellegrino**: ML researcher, Saltmarsh Studio (left Tessellate), Tbilisi. Met 05-08 (Jonas). Beekeeping. Dog Waffles. Small CLI pitch (not committed).
+- **Zara Ramires**: SRE, Juniper Systems, Osaka. Met 05-20 RC. Trail running.
+- **Oskar Grünewald**: backend, Tessellate, Ljubljana. Cape Town. Met 05-21 (Dario E.). Trail running.
+- **Oskar Lindgren**: security, Halcyon Bio, Kraków. Met 06-02. Salsa. Eval talk: noisy labels.
+- **Oskar Whitfield**: dev advocate, Juniper Systems, Osaka. Met 06-10 OSS. Bouldering. Dog Mochi. Owns Thistle-Notes. Follow-the-sun on-call idea. Prepping talk (I suggested cutting the middle).
+- **Yusuf Vogel**: backend, Juniper Systems, Valparaiso. Hackathon. Dog Waffles. Invited me bouldering weekends.
+- **Kenji Bergqvist**: data eng, Marrow & Finch, Nairobi. Hackathon. Swap pipeline notes. Open-water swimming. Dog Noodle. Book rec. Talk: 20 min, one live demo. Pitched CLI tool 08-24 (bandwidth unsure).
+- **Kenji Jansen**: PhD, Embergate, Osaka. Met 05-27 CG (Zara J.). Salsa. Two roles open next quarter. Book rec. Thinks I undercharge. Eval design: write down edge cases.
+- **Sven Jovanovic**: tech writer, Ostrander Robotics, Osaka. Met 05-26 (Goran Pires; thank him). Woodworking. Dog Ziggy.
+- **Sven Calloway**: tech writer, Cobalt Harbor, Cordoba. Met 06-11. Woodworking. Dog Mochi. Anchor top tier/per-seat pricing; keen on shared conference session. Book on list. October trip somewhere cooler.
+- **Dmitri Takahashi**: eng mgr, Marrow & Finch, Madison. Met 05-29 CG. Bouldering. Joined Ember-DB 06-23. Write up Ember-DB storage-layout disagreements.
+- **Ivo Yildiz**: dev advocate, Verdant Grid, Hobart. Met 05-29 (Ana D.). Bouldering. Prefers a couple office days.
+- **Jonas Gutierrez**: tech writer, Tessellate, Osaka. Met 05-29. Woodworking. Dog Basil. Leaning fully remote. Book on list.
+- **Jonas Eriksen**: data eng, Kiteline, Ljubljana (from Austin; send note once settled). HH. Beekeeping. Joined Heron-Lens 08-17 (walk through test fixtures).
+- **Ilse Dimitriou**: product designer, Embergate, Cordoba. Met 06-09 (Goran Pires). Trail running. Joined Gullwing-Forge 08-21 (send setup notes). Pricing chat 07-22 differed from earlier call.
+- **Kavya Olsen**: frontend, Ostrander Robotics, Kraków. Met 06-09 (Signe W.). Dog Basil. Beekeeping. Talked remote/on-call 08-25.
+- **Lior Kowalczyk**: data eng, Tessellate (left Juniper), Bergen. Imperial. Met 06-11 (Wendell W.). Sourdough (ask for starter).
+- **Umar Rahman**: backend, Pinecrest Data, Bergen. Met 06-12 PDP. Open-water swimming. Dog Juniper. Side project angles 08-26.
+- **Daria Zamora**: product designer, Marrow & Finch, Porto. Met 06-16 (Zara R.). Dog Comet. Film photography (ask about labs).
+- **Esme Tanaka**: ML researcher, Northwind Labs, Austin. Waterloo. Met 06-17 (Farah V.). Serious birdwatching.
+- **Valentin Quiroga**: tech writer, Marrow & Finch, Kraków. KAIST. Met 07-02 DN (Rafael C.). Pottery. Owns Gullwing-Forge (follow up open questions).
+- **Lior Galloway**: security, Saltmarsh Studio, Osaka. Met 07-03 DP (Farah V.). Birdwatching. Dog Olive. Autumn travel. Side project idea 08-26.
+- **Otto Nikolaidis**: SRE, Kiteline (left Marrow & Finch ~08-19; send congrats), Osaka. TU Delft. Met 07-06 OSS (Wren Haddad; thank her). Send follow-up. Birdwatching. Book rec. Thinks talk demo goes first.
+- **Freya Holloway** (not "Freya H."): tech writer, Juniper Systems (left Ostrander), Leipzig (from Madison 07-31; send note once unpacked). Sciences Po. Met 07-09 OSS. Trail running. Ask about README/API docs review. Talk outline needs stronger opening.
+- **Leila Underwood**: eng mgr, Northwind Labs, Bergen. Met 07-09 HH. Dog Noodle. Woodworking. Ask what her team does. Trains vs flights.
+- **Nadia Bachmann**: eng mgr, Quillfeather (left Northwind Labs), Porto. Met 07-09 RC (Priya). Birdwatching. Dog Juniper. Book on list.
+- **Valentin Okonkwo**: SRE, Saltmarsh Studio, Osaka. ETH Zurich. Met 07-09 PDP. Bouldering. Reading history of shipping containers. Autumn travel ideas.
+- **Yusuf Zubiri**: eng mgr, Juniper Systems, Montreal. ETH Zurich. Met 07-10 board game cafe (Zara R.). Film photography (ask about scanners). Ask what his team does. Offered to review his slides. Borrow his book. Simpler tiers. Weekend-sized side project (08-17). Hiring chat 08-25.
+- **Teodor Yilmaz**: ML researcher, Kiteline (left Northwind Labs), Porto. Met 07-14 HH (Wendell A.). Follow up. Open-water swimming. Dog Mochi. Async-first but misses whiteboards. Book he's reading (want). Sort travel dates, book.
+- **Teodor Quintero**: ML researcher, Saltmarsh Studio, Nairobi (from Kraków 08-12; check timezone overlap). Met 07-20 DP (Jonas G.). Competitive chess. Dog Mochi. Book rec.
+- **Paloma Iwasaki**: ML researcher, Verdant Grid, Madison. ETH Zurich. Met 07-15 RC. Film photography; develops own rolls. Ask about thesis. Book on list. Annotation quality over metric choice.
+- **Ivo Uchida**: product designer, Verdant Grid, Austin. Met 07-17 conf hallway (Farah T.). Sourdough. Dog Olive. Book on list. Talked 08-18 about my talk.
+
+## Projects
+(Notes in 01-Projects/<Name>.md; owner, language, host, target date, collaborators, notes)
+- **Iris-Index**: notes search. Rosa N. REWRITING IN ZIG (Clojure retired). GitLab. 05-17. Caio, Kavya.
+- **Coral-Shell**: CLI shell. Wendell A. Elixir, GitHub. Target 05-03 (08-25). CANCELLED 07-31 but 08-04/08-10 notes say active (verify). I'm reading code.
+- **Heron-Lens**: traces slow requests. Wendell W. OCaml. SourceHut. 05-21. Rosa N., Jonas U., Jonas E.
+- **Kelp-DB**: embedded LSM KV. Wendell A. Rust. GitHub. 05-19. Caio, Wendell W.
+- **Saffron-Lens**: diff image pipelines. Jonas U. PAUSED 07-29. Planned OCaml rewrite (Rust retired). GitLab. Rosa N., Caio, Dario E.
+- **Sparrow-Sync**: notes/config sync over SSH. Jonas U. Python. Codeberg. 05-11 (paused 06-22; recheck scope). Farah T., Wendell A. Waiting on Jonas for one thing.
+- **Prism-Shell**: shell with output facets. Wendell W. Python. Codeberg. 06-22. On track 08-20. Jonas, Farah T., Rosa R.
+- **Sable-Vision**: visual-regression CV. Goran Pacheco. REBUILDING IN PYTHON (TypeScript retired). Codeberg. Shipped 07-01.
+- **Pebble-Lens**: rock-type camera app. Farah T. Rust. GitHub. 06-06 (polish left). Marisol, Jonas U., Felix K.
+- **Bramble-Lens**: Android UI-state tracing. Marisol. Kotlin. GitHub. SHIPPED 07-21 (quiet check pending). Elif I., Wendell A., Dario R.
+- **Willow-Ledger**: expense ledger. Anika A. (from Ilse B.; update runbook links). TypeScript. SourceHut. SHIPPED 08-20 (watch dashboards). Zoltan, Jonas U., Quentin A.
+- **Umber-Eval**: model-output eval harness. Caio. Kotlin. GitLab. 06-18 (unchanged 08-28). Kavya, Dario E., Wendell Aguilar. Config format first; coroutine scoping messy.
+- **Gullwing-Forge**: build orchestration vs flaky CI. Valentin Q. Rust rewrite. GitHub. 07-31 (unchanged 08-28; keep scope small). Hana, Anika, Ilse D. Config-loader lifetimes.
+- **Falcon-Shell**: non-POSIX shell. Anika. Go. SourceHut. 06-17 (two packaging bugs). Jonas U., Farah T., Felix M.
+- **Marten-DB**: embedded KV. Caio. OCaml. GitLab. 06-26. Dmitri S., Farah T., Jun D. Get compaction reviewed.
+- **Wisp-Ledger**: append-only ledger. Dmitri S. OCaml. SourceHut. 07-22; BETA. Priya, Rosa N.
+- **Cinder-Eval**: load/bad-input eval harness. Dario R. Elixir. Codeberg. 06-28 (behind); BETA. Wendell A., Jonas U.
+- **Orchard-Vision**: fruit counting. Dario E. REBUILDING IN PYTHON (08-27; Clojure retired). GitHub. 06-25. Kavya, Bilal, Celeste S.
+- **Granite-DB**: embedded KV, WAL, B-tree. Wendell W. Python. GitHub. 08-03 (migration tests; flaky planner tests). Rosa N., Priya, Felix C.
+- **Thistle-Notes**: local-first note indexer. Oskar W. OCaml. GitLab. 08-05; on track 08-25. Wendell A., Zoltan, Vera. Decide what to cut.
+- **Hollow-Sync**: offline-first sync. Priya. Kotlin. Codeberg. 07-15 (past; stuck, cut next milestone). Dario E., Joaquin L., Signe Y.
+- **Lichen-DB**: embedded LSM KV. Elif I. Go. Codeberg. 07-19 (mostly cleanup). Farah T., Caio, Bruno. WAL format first.
+- **Nimbus-Lens**: cloud-usage CLI. Kavya E. Zig. SourceHut. 08-23 (holds 08-26; re-plan milestones); BETA. Ana D., Dmitri S.
+- **Quarry-Cache**: typed cache (LRU+TTL). Celeste S. OCaml. GitHub. 08-11 (flaky integration test; benchmarks missing; eviction open). Celeste M., Bilal. Write invalidation notes; send Bilal setup notes.
+- **Otter-Maps**: offline map tile renderer. Goran Pires. Zig. Codeberg. 08-14; notes conflict on shipped vs aiming (verify). Jonas U., Anika.
+- **Ember-DB**: small embedded KV. Rosa R. Python. Codeberg. 08-27. Priya, Felix M., Dmitri T.
+- **Kestrel-Queue**: iOS/macOS job queue. Ilse B. Swift. GitLab. 08-28 (retry semantics); BETA. Wendell W., Celeste S., Dmitri S.
+- **Fjord-CI**: lightweight CI runner. Jun L. TypeScript. GitHub. 09-18 (moved from 08-15). Wendell W., Rosa N. Flaky cache step.
+- **Quill-Vision**: handwritten-note OCR to markdown. Goran X. Python rewrite. GitHub. 08-07; BETA. Signe Y., Wren F., Wren Novak. Batching next.
+- **Tundra-CI**: single-binary CI runner. Goran Pacheco. Rust. GitHub. 09-05 (aiming 08-27; tight; pipeline long pole; flaky tests). Zara R., Zara P.
+
+## User context
+- Software engineer. Design reviews, on-call, systems design interview prep. Learning OCaml and Zig; also Go, Rust, Kotlin, Clojure, Elixir.
+- Habits: morning easy 5k (marathon plan 18 weeks, goal under 4:15; knee fine 08-25; calves tight 08-31, stretch more); daily notes in 00-Inbox/Daily; 10 min meditation; espresso, sourdough (want starter), gardening, bike (need new tube); errands: pharmacy, stamps, lightbulbs, dentist, parking permit, new keyboard cable (old one fraying, 08-31); always forget lemons. Sleep before midnight; screens off ~22:00. Archive inbox weekly, keep under 10. Might try bouldering, open-water swimming, film developing; want non-screen hobby.
+- Work 08-31: flaky test fix done; need to review open PRs; blocked on staging creds. Plan: pull retry logic (copy-pasted in 4 places) into one helper with backoff+jitter, configurable max attempts, small PR this week. Check DB connection pool settings (oversized pool can hurt).
+- Pricing (unresolved; write up options table for Ana F., Celeste M., Signe F., Teodor Y., Anika): fewer/simpler tiers (Bilal, Felix C., Yusuf Z., Wren N.); usage-based (Dario E.); undercharging hosted tier (Joaquin T., Kenji J.); anchor top tier/per-seat (Sven C.); annual discounts (Rosa R.); Jun L. wants numbers.
+- On-call: leaning weekly shifts with handoff doc (Celeste S.'s team), maybe split week, swapped weeks (Felix K.), or follow-the-sun (Oskar W.); fairness across timezones; less weekend burden. Proposal pending.
+- Hiring: one backend role first; tighten profile and interview loop before posting; role order still open (many people consulted, e.g. Rosa R., Yusuf Z., Kenji J., Leila).
+- Remote work: prefer a few office days, mostly async/hybrid; miss whiteboards (shared by many contacts).
+- Eval design: small, clean, hand-checked held-out set (agreed with Caio 08-19); avoid leakage; annotation quality over metric choice (Paloma); Wendell Z. prefers rubric scoring. Sketch metrics for Marisol, Goran Pires, Rosa R./W., Sven J., Rafael C., Caio, Teodor Y., Signe W., Freya, Jun D., Kenji J., Oskar L.
+- Flaky tests: shared fixture races, wall-clock sleeps; suspect teardown race in integration test (08-24); fixes: explicit waits, fake timers, isolation. Retry logic rewritten 08-21, needs a pass; grep other `sleep(`.
+- Reading: WALs/fsync, compaction, DB indexing, cache invalidation, retry budgets, backpressure, DDIA, Raft, LSM, lock-free queues, type systems, flamegraphs; currently a database internals book. Goal 24 books/year. Many book recs/borrows on list from contacts.
+- Job market: keep résumé warm; slow but not dead, tough for mid-level; infra picking up.
+- Ideas: weekly digest CLI for daily notes; auto-tidy/auto-tag daily notes; weekly review template with "who I talked to"; semantic config diff CLI; stale-notes script; shell aliases cleanup; toy log-structured store, WAL in Go, Raft; indexing benchmark; scoping checklist; unify config loaders.
+- Pending: conference talk abstract (debugging story; 20 min, one live demo, maybe demo first; many contacts offered input, e.g. Vera, Elif I., Otto); on-call proposal; eval metrics sketch; pricing write-up; side-project pitches from many contacts (Yusuf Z. weekend-sized, Kenji B. CLI, Signe Y., Wendell A., etc.). Travel: autumn/October trip undecided, check flights and book (Felix V. early Oct, Sven C., Zoli, Aiko D., Teodor Y., others).
+
+## Vault structure
+- 00-Inbox/Daily, 01-Projects, People (one note per contact), 03-Resources (CRDTs, DDIA, Postgres vacuum, SQLite, WASM, vector indexes, rate limiters, observability, LLM eval, git, RFC writing, on-call runbooks).

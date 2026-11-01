@@ -1,0 +1,29 @@
+{
+  "title": "Index cards: measuring a memory layer for coding agents",
+  "summary": "A deterministic entity index over a markdown vault, benchmarked against grep, BM25, embeddings, hybrid retrieval and a Claude Code style memory file at an equal context budget.",
+  "repo": "https://github.com/abhaymettu/index-cards",
+  "paper_pdf": "paper/index-cards.pdf",
+  "hero_image": "docs/img/accuracy-4000.png",
+  "headline_numbers": [
+    {
+      "label": "index-cards accuracy at a 4,000-token budget (fresh held-out world, 257 questions)",
+      "value": "89.5%",
+      "command": "BENCH_ROOT=bench/runs/seed8 python3 bench/score.py --split test"
+    },
+    {
+      "label": "embedding RAG on the same questions and budget (paired bootstrap p = 0.003)",
+      "value": "82.1%",
+      "command": "BENCH_ROOT=bench/runs/seed8 python3 bench/score.py --split test"
+    },
+    {
+      "label": "questions that need two notes: index-cards vs embedding RAG",
+      "value": "70% vs 31%",
+      "command": "BENCH_ROOT=bench/runs/seed8 python3 bench/score.py --split test"
+    },
+    {
+      "label": "agent loop with grep and no budget (Sonnet): bare vault vs vault + index-cards",
+      "value": "98.9% vs 97.8%",
+      "command": "BENCH_ROOT=bench/runs/main python3 bench/score.py --agent"
+    }
+  ]
+}

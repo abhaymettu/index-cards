@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "index-cards"
+version = "0.2.0"
+description = "A deterministic, measured memory layer for coding agents over a markdown vault"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Abhay Mettu" }]
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+index-cards = "index_cards.cli:main"
+
+[project.urls]
+Repository = "https://github.com/abhaymettu/index-cards"
+
+[tool.setuptools.packages.find]
+include = ["index_cards*"]
+namespaces = true
+
+[tool.setuptools.package-data]
+"*" = ["*.py", "*.sh", "*.md", "vault/**/*.md"]

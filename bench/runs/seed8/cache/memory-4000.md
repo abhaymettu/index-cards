@@ -1,0 +1,166 @@
+# MEMORY.md
+
+## User
+- Software engineer (on-call, RFCs, systems design, Postgres/K8s/observability, LLM apps). Employer/city not named.
+- Practicing systems design interviews (45-min skeleton, mock aloud 2x/week).
+- Freelance side gig (1099-NEC). Wondering if a CPA is worth it for a year with stock sales.
+
+## People (met 2026, MM-DD; "CONFLICT" = notes disagree; "i." = intro'd; hobby after role/place)
+- Freya Zamora: product designer, Verdant Grid, Kraków. 03-09 climbing gym. Beekeeping. i. Ximena G, Anika Sorensen, Hugo Z, Otto Q, Zara L. Passed Marten-Queue to Teodor O, Saffron-Sync to Jun Ivanova, Lantern-Maps to Jun Mbeki.
+- Wendell "Dell" Calloway: tech writer, Cobalt Harbor, Bergen. 03-09 demo night. Birdwatching. i. Benedikt F. Offered docs-as-code style guide. Owe Vesper-Maps status summary.
+- Umar Moretti: eng manager, Quillfeather, Madison. 03-12 conference. Dog Pixel. i. Kenji B. On Otter-Eval (send setup notes).
+- Kenji Bachmann: PhD student, Cobalt Harbor, Porto. 03-18; Umar intro (thank him). Woodworking. Eval design talk 08-26.
+- Oskar Quiroga: SRE, Embergate, Montreal. 03-19. i. Lior N, Anika Ramires, Paloma G. Hollow-Queue collab (write up retry-under-backpressure options).
+- Gideon Varga: 03-16 PyData Porto. Salsa. Dog Basil. i. Teodor O, Priya T. Kiteline. Moved Montreal to Cordoba (08-06; ask how it went).
+- Nadia Lindqvist: PhD student, Kiteline; 03-20. Open-water swimming. Dog Mochi. Moved Kraków to Madison (07-31).
+- Goran Engel: PhD student, Northwind Labs, Leipzig. 03-20. Trail running (NOT sourdough). Dog Noodle. Talked conference talk, job market, remote work (08-18/25).
+- Ximena Gutierrez: ML researcher, Pinecrest Data, Bergen. 03-20; Freya intro (thank her). Woodworking (wants a stool). Dog Waffles. i. Yara A. Owns Nimbus-Auth.
+- Goran Esposito: ML researcher, Verdant Grid, Kraków. 03-23. Salsa. Owe reading list; walk him through Mosaic-Graph.
+- Tamsin Pellegrino: data engineer, Pinecrest Data, Osaka. 03-24. Sourdough (ask starter). Hiring plans. Job market talks 08-26/27. Handed Coral-Index to Tamsin L.
+- Teodor Okonkwo: tech writer, Marrow & Finch, Kraków. 03-25; Gideon intro. Dog Comet. Chess. i. Vera Nakamura. Gullwing-Relay owner.
+- Benedikt "Ben" Ferreira: product designer, Cobalt Harbor (from Osaka; congrats). 03-26; Wendell intro. Birdwatching. Dog Noodle. Offered to review his conference slides.
+- Goran Bergqvist: security engineer, Verdant Grid, Bergen. 03-27 hackathon. Birdwatching. i. Farah Uchida. Side project idea.
+- Elif Ashdown: backend engineer, Marrow & Finch, Austin. 03-30. Salsa. Sciences Po. Tip: write held-out eval cases before model changes. i. Rafael. Passed Cinder-CI to Caio H.
+- Farah Uchida: security engineer, Kiteline, Valparaiso. 03-30; Goran B intro. Pottery. Dog Pepper. i. Ana Sato, Amara Y, Yusuf R.
+- Kenji Yildiz: frontend engineer, Kiteline, Leipzig. 03-31 climbing gym. Dog Pepper. i. Vera Zubiri, Noor H. Owns Quarry-Graph.
+- Celeste Eriksen: security engineer, Tessellate, Austin. 03-31. Send Gullwing-Relay setup notes. Side project idea coffee 08-24 (next steps list).
+- Vera Zubiri: frontend engineer, Ostrander Robotics, Ljubljana. 03-31; Kenji Y intro. Woodworking. Dog Noodle. i. Oskar Olsen. Side project walk 08-24.
+- Rafael Haddad: security engineer, Juniper Systems, Bergen. 04-01; Elif intro. Sourdough. Dog Ziggy.
+- Zoltan Nikolaidis: SRE, Saltmarsh Studio (left Marrow & Finch), Austin. 04-01. Fencing. Dog Comet. Owns Otter-Eval, Wisp-Sync; collaborator on Quill-Graph (give repo access). Will send updated metrics. Book worth borrowing.
+- Ana Sato: product designer, Ostrander Robotics, Montreal. 04-03; Farah intro. Salsa. Dog Comet. i. Hana Brandt, Bruno V. Thinks I undercharge.
+- Mateo Brennan: ML researcher, Tessellate, Nairobi. 04-03. Film photography. Orchard-Sync collab. Conference talk chat.
+- Amara Yilmaz: frontend engineer, Juniper Systems, Austin. 04-06; Farah intro. Swimming. i. Marisol, Zoltan L. Needs contact handle.
+- Hana Kaminski: founder, Lumen Fold, Cordoba. 04-07. Swimming. Owns Ember-Auth. Left Halcyon Bio (congrats).
+- Aiko Kowalczyk: product designer, Ostrander Robotics, Bergen. 04-08. Pottery. i. Bruno Rinaldi. Handed Thistle-Graph to Oskar Olsen. Helping with my talk outline. Write hiring role outline.
+- Anika Sorensen: SRE, Verdant Grid, Leipzig. 04-08; Freya intro. Birdwatching. Dog Biscuit. Pebble-Notes collab.
+- Dmitri Ortega: backend engineer, Marrow & Finch, Osaka. 04-09. Trail running. Passed Granite-DB to Anika Aguilar. Possible talk proposal.
+- Noor Holloway: founder, Pinecrest Data, Montreal. 04-13; Kenji Y intro. Woodworking (NOT salsa). ETH Zurich. Ask what Pinecrest builds.
+- Goran Pires: backend engineer, Juniper Systems, Osaka. 04-15. Chess. Dog Mochi. Owns Mosaic-Graph; handed Pebble-Notes to Felix Wexler.
+- Hana Brandt: product designer, Lumen Fold (left Northwind Labs; congrats), Porto. 04-16; Ana Sato intro. Chess. On Iris-Forge.
+- Marisol Jaramillo (not Mari): security engineer, Madison. 04-17; Amara Y intro. Chess. CONFLICT: Saltmarsh Studio vs Quillfeather.
+- Mari (separate): now Saltmarsh Studio; congrats.
+- Jun Ivanova: eng manager, Quillfeather, Madison. 04-21. Trail running. i. Bilal Iwasaki. Owns Saffron-Sync.
+- Vera Nakamura: frontend engineer, Pinecrest Data, Valparaiso. 04-21; Teodor O intro. Woodworking (building workbench; NOT film photography). Dog Noodle. Owns Tundra-Graph. i. Amara Szabo.
+- Zoltan Lindgren: eng manager, Saltmarsh Studio, Kraków. 04-21; Amara Y intro. Woodworking. i. Hana Underwood. Granite-DB collab (review WAL design). Iris-Forge summary owed. Fall CFP talk.
+- Greta Delacroix: data engineer, Kiteline (from Valparaiso). 04-22. Bouldering. Dog Biscuit. Owns Umber-Notes; on Quarry-Graph (send repo access + notes). Wants fewer back-to-back on-call weeks.
+- Ana Marchetti: security engineer, Pinecrest Data, Kraków. 04-23. Film photography. Dog Ziggy. Owns Quill-Graph; Sable-Queue collab.
+- Hugo Zielinski: backend engineer, Ostrander Robotics, Osaka (from Bergen; ping). 04-27; Freya intro. Salsa. Dog Basil.
+- Yara Achterberg: ML researcher, Saltmarsh Studio, Bergen. 04-30; Ximena intro. Open-water swimming (NOT sourdough; mention lake plans). Dog Biscuit. i. Ana Xiong. Follow up on eval work.
+- Yusuf Rahman: PhD student, Quillfeather, Tbilisi. 05-01; Farah intro. Woodworking. Owns Orchard-Sync. i. Felix W. Small CLI side project idea. On-call rotation/swap talk.
+- Tamsin Laurent: dev advocate, Marrow & Finch, Valparaiso. 05-01. Open-water swimming. Dog Juniper. i. Aiko Tanaka. Owns Coral-Index; on Ember-Auth. Talk abstract draft owed. Remote work coffee (misses office a bit).
+- Bruno Vasquez: backend engineer, Kiteline, Madison. 05-04; Ana Sato intro. Trail running. Dog Comet. i. Rosa W. Hiring: open one role first.
+- Mateo Jovanovic: tech writer, Embergate, Tbilisi. 05-04. Birdwatching. Dog Olive. Quarry-Graph collab.
+- Sven Castellano: ML researcher, Ostrander Robotics, Montreal. 05-05. Salsa. Dog Basil. Passed Sable-Queue to Hana Underwood. Write eval one-pager.
+- Lior Novak: product designer, Ostrander Robotics, Austin. 05-06; Oskar Q intro. Salsa. Dog Mochi. Thistle-Graph collab. Conference talk call.
+- Chioma Cervantes: eng manager, Tessellate, Nairobi. 05-11. Carnegie Mellon. Fencing. Needs cleaner held-out sets. Team async habits worth stealing.
+- Elif Ekwueme: dev advocate, Juniper Systems, Cordoba (from Austin 06-12; ask how it went). 05-11. Pottery. Needs contact details.
+- Rosa Whitfield: security engineer, Kiteline, Tallinn. 05-11; Bruno V intro. Dog Turnip. Pebble-Notes collab. Book on list.
+- Aiko Tanaka: dev advocate, Verdant Grid, Tbilisi. 05-13; Tamsin L intro. Open-water swimming. Granite-DB test harness. Book tempting.
+- Uma Fitzroy: tech writer, Northwind Labs, Cordoba. 05-14. Salsa. Ask about docs structure. Travel routes/budgets walk. Eval leakage chat.
+- Bruno Rinaldi: frontend engineer, Tessellate, Valparaiso (moved from Nairobi; ask about time zone shift; left Saltmarsh Studio; congratulate). 05-15; Aiko K intro. Salsa. Dog Pepper. Eval advice: small hand-labeled set, define pass.
+- Hana Underwood: tech writer, Ostrander Robotics, Cordoba (from Tallinn). 05-15; Zoltan L intro. Sourdough. Dog Mochi. Owns Sable-Queue (update runbook contacts).
+- Otto Quintero: PhD student, Cobalt Harbor (left Ostrander Robotics; congrats), Madison. 05-15; Freya intro. Dog Comet. Trail running. Liked my side project idea (I owe a one-pager); pricing: I lean flat tier over usage-based.
+- Anika Aguilar: data engineer, Verdant Grid, Porto. 05-18. Pottery. Dog Turnip. Owns Granite-DB. Get contact details. Thinks I should submit a short talk.
+- Priya Trevino: product designer, Northwind Labs (quit Ostrander Robotics), Ljubljana. 05-18; Gideon intro. Dog Waffles. Pottery. Book on list.
+- Teodor Petrov: PhD student, Saltmarsh Studio, Porto. 05-21. Bouldering. Eval write-up owed. Cares about time zone overlap.
+- Anika Ibarra: tech writer, Verdant Grid, Kraków. 05-22. Beekeeping. Hiring: sequence first two roles. Conference talk. Book added to list.
+- Felix Wexler: dev advocate, Pinecrest Data, Cordoba. 05-22; Yusuf R intro. Beekeeping. i. Farah Weissman. Owns Pebble-Notes (open: sync conflicts).
+- Kenji Wainwright: founder, Brightwater AI (left Embergate; congrats), Hobart. 05-22. Bouldering. ETH Zurich. i. Aiko Dimitriou. Wants to write up eval design. Side project idea coffee (weekend prototype?).
+- Farah Weissman: data engineer, Northwind Labs, Tallinn (from Kraków). 05-25; Felix W intro. Beekeeping. Book (ask title). Autumn travel talk.
+- Ivo Oyelaran: SRE, Ostrander Robotics (left Kiteline; congrats), Cordoba. KAIST (ask). 05-25. Open-water swimming. On Iris-Forge (add to repo). Talk: sketch outline, pick angle before CFP closes.
+- Ximena Rasmussen: tech writer, Verdant Grid, Valparaiso. 05-25. Sourdough (NOT swimming). Granite-DB collab. Trip planned together, lodging unbooked.
+- Caio Halvorsen: PhD student, Lumen Fold, Tallinn. 05-26. Beekeeping. Dog Ziggy. Owns Cinder-CI.
+- Zara Lombardi: product designer, Tessellate, Austin. 05-27; Freya intro. Open-water swimming. Dog Juniper. Joined Coral-Index (send setup notes; short doc).
+- Hugo Sandoval: PhD student, Pinecrest Data, Austin. 05-27. Open-water swimming (NOT salsa). Pushed me to submit talk.
+- Anika Ramires: frontend engineer, Kiteline, Valparaiso. 06-01; Oskar Q intro. Beekeeping. Encouraged talk. Floated a side project idea (scope it).
+- Noor Coelho: data engineer, Embergate (left Pinecrest Data), Cordoba. 06-01. Sourdough. Dog Waffles. Eval write-up owed.
+- Sven Fontaine: frontend engineer, Halcyon Bio, Kraków. 06-01. Pottery. Side project idea. Eval design call; on-call handoff coffee.
+- Oskar Olsen: tech writer, Juniper Systems, Montreal. 06-02; Vera Zubiri intro. Open-water swimming (NOT chess). Dog Comet. Owns Thistle-Graph. i. Bilal Moreau. Book I want. Prefers take-home vs pairing for hiring.
+- Chioma Galloway: SRE, Tessellate, Nairobi. 06-02. Fjord-Shell collab (send welcome note). Trail running. Fewer pricing tiers. Hiring plans (headcount unclear).
+- Bilal Moreau: security engineer, Pinecrest Data, Hobart. 06-03; Oskar Olsen intro. Open-water swimming. Dog Noodle. Owns Hollow-Queue; Lichen-CI collab.
+- Paloma Grünewald: PhD student, Pinecrest Data, Austin. 06-05; Oskar Q intro. Birdwatching. Pricing: anchor higher. Conference talk call (outline, angle).
+- Tamsin Dunmore: eng manager, Halcyon Bio, Nairobi (from Porto; ask how move went). 06-05. Birdwatching. Dog Turnip. Fall trip + remote-work talks.
+- Ivo Vogel: PhD student, Marrow & Finch, Valparaiso. 06-08. Trail running (NOT fencing). Prefers fully remote (I lean hybrid). Prepping talk. Travels in autumn. Agreed small hand-checked eval sets beat big noisy ones.
+- Jun Mbeki: frontend engineer, Brightwater AI, Hobart. 06-11. Bouldering. Owns Lantern-Maps. Univ. of Cape Town. Eval tip: small but nasty test sets. Book worth borrowing.
+- Bilal Iwasaki: dev advocate, Kiteline (left Northwind Labs), Madison. 06-12; Jun Ivanova intro. Woodworking (NOT swimming). Book rec.
+- Amara Szabo: PhD student, Embergate, Austin. 06-15; Vera N intro. Fencing. On-call: fairer weekends, shorter handoff doc. Hiring notes owed.
+- Ana Xiong: product designer, Cobalt Harbor, Nairobi (from Kraków). 06-18; Yara A intro. Fencing. Dog Pepper. CLI design feedback. Book recs.
+- Vera Dragomir: frontend engineer, Juniper Systems, Austin. 06-19. Dog Basil. Beekeeping (ask). Paper on UI agents. Hiring plans.
+- Yusuf Pacheco: security engineer, Ostrander Robotics (quit Quillfeather; send congrats), Osaka (moved from Hobart; send note). 06-19. Bouldering. Dog Mochi. May pitch joint talk. Threat modeling for robots.
+- Aiko Dimitriou: SRE, Brightwater AI, Nairobi. 06-22; Kenji W intro. Open-water swimming (wetsuit recs). KAIST. Steal on-call handoff checklist; mind time zone.
+- Cece: Wisp-Sync walk 04-06. Bouldering. Dog Biscuit. Book on list. Side project idea (sketch this weekend).
+- Felix Abara: frontend engineer, Quillfeather, Bergen. 06-30 demo night. Pottery. Component stack follow-up. Pricing floor unsure. Eval design (automated graders vs hand review; contamination). Book worth reading; job market walk.
+- Kavya Yamada: SRE, Halcyon Bio. 07-01 climbing gym. Sourdough. Moved Bergen to Kraków (send note). Talk outline.
+- Kavya Kuznetsov: data engineer, Cobalt Harbor, Madison. 07-03. Dog Pepper. Beekeeping. Bramble-Notes collab. Side project idea (maybe one-pager).
+- Gideon Falk: founder, Kiteline (left Lumen Fold), Madison. 07-07 (not Gideon Varga). Dog Comet. Weekend woodworking.
+- Quentin Carvalho: SRE, Embergate, Osaka. 07-07. Hiring plans talk (thin team). Ask on-call, reading.
+- Yara Thorsen: technical writer, Saltmarsh Studio, Hobart. 07-07 (not Yara Achterberg). Pottery. Possible README/API docs reviewer. Thinks I underprice. Travel plans call (check dates, book soon).
+- Kavya Takahashi: SRE, Saltmarsh Studio, Valparaiso. 07-08. Woodworking. Dog Pixel. On-call: rotate fortnightly.
+- Teodor Ulloa: security engineer, Marrow & Finch, Bergen (from Austin). 07-13. Open-water swimming. Dog Ziggy.
+- Yusuf Valverde: ML researcher, Tessellate, Montreal. 07-15. Bouldering (invited me). Ask paper picks. On Nimbus-Auth (give repo access + setup docs). Eval scoring rubrics. Thinks I undercharge.
+- "Q": unresolved first name. Sourdough, 2-year-old starter. ETH Zurich. Job market, hiring. Book on list.
+
+## Projects (latest statuses)
+- Falcon-Notes: CLI note indexer. Owner Wendell; Python; Codeberg. SHIPPED 06-25 (archive old branches) vs later note target still 06-17, tight (CONFLICT).
+- Marten-Queue: Owner Teodor O; Python. CANCELLED 07-22 vs 08-12 note target 06-25 (CONFLICT).
+- Bramble-Notes: Apple markdown notes. Owner Wendell; Rust; GitLab; target 06-04; collab Freya, Kavya K. Not blocked.
+- Lantern-Maps: Owner Jun Mbeki; Python; GitHub. PAUSED 07-07.
+- Lichen-CI: Owner Wendell; Kotlin; GitHub; target 07-06 (flakiness risk). PAUSED 07-23. Collab Bilal Moreau.
+- Saffron-Sync: Owner Jun Ivanova; Python; Codeberg; target 06-10 (on track 08-26); collab Wendell, Umar.
+- Umber-Notes: Owner Greta; REWRITING IN ZIG (old TypeScript retired); GitHub; target 06-24 (kept 08-25) vs PAUSED 08-05 (CONFLICT).
+- Vesper-Maps: Owner Wendell; OCaml; GitLab. SHIPPED 06-22 vs target 07-22 reaffirmed 08-11/18 (CONFLICT).
+- Nimbus-Auth: Owner Ximena G; OCaml; SourceHut; target 06-28; collab Wendell, Tamsin, Yusuf Valverde. Open: session expiry, token refresh.
+- Gullwing-Relay: Owner Teodor O; TypeScript; GitHub; target 06-28; collab Umar, Gideon, Celeste. IN BETA since 07-06. Open: in-memory vs persistent buffer. Nothing blocking.
+- Coral-Index: Owner Tamsin Laurent; Zig; GitHub; target 06-09; IN BETA since 08-11 (write up rough edges); collab Ximena G, Kenji Y, Zara L.
+- Otter-Eval: Owner Zoltan N; Go; SourceHut; target 07-19; collab Goran E, Freya, Umar. Goroutine leak.
+- Rook-Eval: chess-engine benchmark CLI. Owner Freya; OCaml; Codeberg; target 07-20; PAUSED 08-24 (no time, not dropped; CONFLICT-ish); collab Benedikt, Rafael.
+- Tidewater-Index: Owner Goran B; Swift (Elixir retired); Codeberg; deadline 08-07; collab Ana Sato, Gideon. Concern: index rebuild times.
+- Quill-Graph: Owner Ana Marchetti; Clojure; collab Zoltan N. CANCELLED 07-16 vs notes through 08-28 say on track for 08-04 (CONFLICT).
+- Cinder-CI: Owner Caio Halvorsen; TypeScript; GitHub; collab Vera Z, Goran E. CANCELLED 07-22 vs 07-28 note aiming 06-06 (CONFLICT).
+- Mosaic-Graph: Owner Goran Pires; Zig; GitHub; target 06-14 (tight but doable); IN BETA since 08-10 (write known-issues list); collab Tamsin P, Nadia, Goran E. Open: node ID scheme; flaky traversal tests.
+- Willow-DB: embedded KV (LSM). Owner Goran B; Swift; SourceHut; target 07-02 (compaction bug blocker); IN BETA since 08-14; collab Dmitri, Celeste, Zoltan N. I'm reading the storage layer.
+- Fjord-Shell: typed-object pipes shell. Owner Freya; TypeScript; GitLab; target 07-17; collab Celeste, Zoltan N, Chioma Galloway. IN BETA since 06-25. Command parser types messy.
+- Hollow-Queue: Owner Bilal Moreau; SourceHut; target 08-01; REWRITING IN TYPESCRIPT (old Python retired); collab Dmitri, Rafael, Oskar Q.
+- Iris-Forge: Owner Goran B; Python; SourceHut; deadline 07-31; collab Zoltan L, Hana Brandt, Ivo Oyelaran.
+- Tundra-Graph: Owner Vera N; Elixir; Codeberg; target 07-23 (passed); collab Elif A, Ximena G, Dima (follow-ups owed).
+- Wisp-Sync: Owner Zoltan N; Clojure rewrite; Codeberg; target 08-01 (recheck date); IN BETA since 07-30; collab Farah U, Celeste, Goran B. I'm reading the code.
+- Orchard-Sync: Owner Yusuf R; Elixir; GitLab; target 07-28; collab Tamsin L, Yara, Mateo Brennan.
+- Ember-Auth: Owner Hana K; Go; SourceHut; target 07-06; IN BETA since 07-28; collab Zoltan L, Vera N, Tamsin Laurent. Token refresh worries.
+- Sable-Queue: persistent job queue iOS/macOS. Owner Hana Underwood; Swift; Codeberg; goal 08-20; PAUSED 08-11. Collab Kenji B, Freya, Ana Marchetti. Open: ordering vs concurrency, retry.
+- Quarry-Graph: read-only CLI query layer. Owner Kenji Y; Python; GitLab; target 09-02 (tight); collab Mateo J, Goran E, Greta.
+- Thistle-Graph: dependency graph. Owner Oskar Olsen; Python; GitHub; deadline 08-13 (cut export feature); collab Nadia, Kenji Y, Lior N. IN BETA since 07-06. I'm debugging slow edge lookups on big graphs.
+- Granite-DB: embedded KV, WAL, snapshots. Owner Anika Aguilar; Go; SourceHut; deadline 08-16 (re-slice milestones); collab Zoltan L, Aiko T, Ximena Rasmussen.
+- Pebble-Notes: Clojure quick-capture. Owner Felix Wexler; GitLab; target 06-27; collab Rosa W, Anika S, Yusuf R. IN BETA since 07-01. I'm learning the REPL flow.
+
+## Daily-note patterns (2026-03-02 to 08-31)
+- Morning easy 5k most days (knee fine; stretching often skipped; calves tight 08-31; drinks too little water). Goal: hip work 3x/week. Bed ~22:30; reads before bed. Morning pages since 07-20.
+- Periodic inbox cleanups; flaky test list. 08-31: fixed CI flake (setup race assuming ordering; added explicit wait, 10x green; watching a few days). Idea: handover checklist between tasks.
+- Reads on indexing tradeoffs (composite index column order matters; revisit slowest queries; partial index trick), WAL/fsync, LSM, B-trees, DDIA; wants toy Go WAL and fsync latency measurement.
+- Errands: groceries, dry cleaning, gym renewal, parking permit (08-31 note: renew before end of week; earlier noted renewed 08-10); broken fridge shelf to fix.
+- Unbuilt ideas: daily-notes weekly summary script (shell + grep, maybe tags per block; parked to weekend); tag notes by project; env-file key diff CLI; config-tree drift diff; todo linter.
+- Frequent topics: remote work, job market (slow, cautiously picking up), on-call (fortnightly, fair weekends, handoffs), hiring, pricing (anchor higher; fewer tiers; leaning flat tier vs usage-based; I undercharge), autumn travel, eval design (held-out splits, contamination; write one-pager), side projects, conference talks.
+
+## Reference notes (03-Resources)
+- CRDTs/local-first: HLCs, OR-set, per-field merge, tombstone GC; TODO benchmark 100k edits.
+- DDIA: LSM vs B-tree, replication, isolation, CDC, idempotency.
+- GPU memory: 1B params ≈ 2GB bf16; full finetune Adam ≈ 16 B/param.
+- K8s cost: compute ~70% of bill; requests 3-5x p95; spot for stateless; ARM ~20% cheaper; TODO audit PVCs, VPA, logs.
+- Postgres vacuum: per-table scale factors, long txns; TODO dead-tuple dashboard, xmin alert. Partial indexes pay off in specific cases.
+- SQLite prod: WAL, synchronous=NORMAL, BEGIN IMMEDIATE, one writer, VACUUM INTO, STRICT.
+- Also: Thinking in Systems, Wasm components, LLM eval design, flaky tests, property testing, rate limiters, HNSW, OTel, runbooks, RFCs, git/macOS/zsh/tmux.
+
+## Personal/life
+- Marathon plan: 16 weeks, 4 runs/wk + 1 cross-train, base ~25 km/wk, peak ~60, long run 32 km. Race date not stated.
+- Meditation: 10 min after coffee, breath counting.
+- Reading 2026: goal ~12 books; at 8 (Nov note); max 5 at once. Friends' book recs on list (Oskar Olsen, Zoltan N, Aiko T, Anika Ibarra, Felix Abara, Priya T, Jun Mbeki, etc.).
+- Espresso: 18g in, 36-40g out, 25-30s, 93C.
+- Sourdough: own, ~24h weekend schedule, 450g bread + 50g whole wheat, 75% hydration. Bakers among friends: Tamsin P, Rafael, Hana U, Ximena R, Noor Coelho, Kavya Yamada, Q (not Freya, Goran Engel, Yara A).
+- Garden: zone 7ish, last frost ~Apr 15, first ~Oct 25.
+- Bike: chain swap at 0.5% wear; TODO chain checker, brake pads, light.
+- Home network: modem -> router -> managed switch; VLANs 10/20/30/99; NAS DNS (DoT); WireGuard; UPS ~20 min. TODO redo patch panel labels.
+- Checklists: apartment move (60-day lease notice), taxes (start January; keep 7 years).
+- Wants to try: salsa, pottery, woodworking, birdwatching, open-water swimming (lake July; wetsuit recs Bilal M, Aiko D), bouldering (Yusuf V invited me), beekeeping. Friends' hobbies in People.
+- Travel: autumn train trip leaning (Ivo Vogel, Tamsin Dunmore, Uma, Farah W, etc.); nothing booked. Separate trip with Ximena R: lodging unbooked.
+- Side project ideas from many friends (Yusuf R, Kavya K, Otto, Celeste, Vera Z, Anika Ramires, Cece, Kenji W): sketch over a weekend / write one-pager before committing.
+- Conference talk proposal (pushed by many: Aiko K, Goran E, Tamsin L, Ivo O, Anika Aguilar, Paloma, Lior): 20-min slot, fall CFP; write outline + abstract.
+- Hiring plans chats with many friends (Bruno V, Oskar Olsen, Quentin, Chioma G): rough role outline; open one role first / sequence first two.

@@ -1,0 +1,546 @@
+{"setup": "plain", "model": "sonnet", "id": "q020", "answer": "At a climbing gym session (2026-04-15)", "turns": 2, "wall_s": 5.2, "input_tokens": 10858, "output_tokens": 164, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q000", "answer": "Olive", "turns": 3, "wall_s": 6.7, "input_tokens": 21003, "output_tokens": 294, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q008", "answer": "ML researcher", "turns": 4, "wall_s": 7.8, "input_tokens": 19673, "output_tokens": 413, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q018", "answer": "At the open-source sprint (2026-04-08)", "turns": 3, "wall_s": 8.7, "input_tokens": 16295, "output_tokens": 286, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q022", "answer": "At a climbing gym session (introduced by Marisol Mbeki), on 2026-04-24", "turns": 2, "wall_s": 5.2, "input_tokens": 8035, "output_tokens": 209, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q016", "answer": "Competitive chess (tournaments)", "turns": 2, "wall_s": 11.7, "input_tokens": 7829, "output_tokens": 189, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q023", "answer": "At the RustConf meetup", "turns": 2, "wall_s": 6.7, "input_tokens": 8972, "output_tokens": 194, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q027", "answer": "Pixel", "turns": 3, "wall_s": 6.6, "input_tokens": 11831, "output_tokens": 270, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q035", "answer": "Ziggy", "turns": 2, "wall_s": 7.0, "input_tokens": 9538, "output_tokens": 156, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q033", "answer": "At a conference hallway track (introduced by Dario Esposito), on 2026-05-21", "turns": 4, "wall_s": 8.7, "input_tokens": 16319, "output_tokens": 514, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q036", "answer": "At the open-source sprint (introduced by Goran Pires), on 2026-05-26", "turns": 2, "wall_s": 7.9, "input_tokens": 9033, "output_tokens": 212, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q044", "answer": "Beekeeping", "turns": 2, "wall_s": 5.6, "input_tokens": 9767, "output_tokens": 166, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q040", "answer": "At a climbing gym (2026-05-29)", "turns": 2, "wall_s": 6.8, "input_tokens": 9417, "output_tokens": 219, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q049", "answer": "Film photography", "turns": 2, "wall_s": 5.1, "input_tokens": 8877, "output_tokens": 161, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q047", "answer": "At a climbing gym session (2026-06-12)", "turns": 2, "wall_s": 5.3, "input_tokens": 11698, "output_tokens": 191, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q055", "answer": "TU Delft", "turns": 2, "wall_s": 6.1, "input_tokens": 9330, "output_tokens": 155, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q052", "answer": "Pottery", "turns": 2, "wall_s": 8.1, "input_tokens": 9291, "output_tokens": 166, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q070", "answer": "Cordoba", "turns": 2, "wall_s": 7.5, "input_tokens": 9878, "output_tokens": 365, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q072", "answer": "Valparaiso", "turns": 2, "wall_s": 7.9, "input_tokens": 9315, "output_tokens": 184, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q056", "answer": "Engineering manager", "turns": 4, "wall_s": 11.1, "input_tokens": 14676, "output_tokens": 413, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q075", "answer": "Madison", "turns": 4, "wall_s": 9.1, "input_tokens": 21410, "output_tokens": 471, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q076", "answer": "Cordoba", "turns": 2, "wall_s": 7.9, "input_tokens": 9850, "output_tokens": 178, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q078", "answer": "Ljubljana", "turns": 3, "wall_s": 9.2, "input_tokens": 15112, "output_tokens": 460, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q079", "answer": "Ljubljana", "turns": 5, "wall_s": 12.1, "input_tokens": 19876, "output_tokens": 684, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q085", "answer": "2026-06-28", "turns": 4, "wall_s": 8.5, "input_tokens": 17072, "output_tokens": 537, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q077", "answer": "Hobart", "turns": 2, "wall_s": 13.8, "input_tokens": 7872, "output_tokens": 250, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q094", "answer": "2026-05-19", "turns": 4, "wall_s": 9.3, "input_tokens": 16106, "output_tokens": 480, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q096", "answer": "2026-07-19", "turns": 4, "wall_s": 9.1, "input_tokens": 15583, "output_tokens": 494, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q110", "answer": "Kiteline", "turns": 2, "wall_s": 5.1, "input_tokens": 7986, "output_tokens": 324, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q101", "answer": "2026-08-11", "turns": 4, "wall_s": 9.9, "input_tokens": 15260, "output_tokens": 608, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q102", "answer": "2026-08-07", "turns": 4, "wall_s": 11.2, "input_tokens": 15887, "output_tokens": 432, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q103", "answer": "2026-06-10", "turns": 4, "wall_s": 12.3, "input_tokens": 17251, "output_tokens": 703, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q115", "answer": "Pinecrest Data", "turns": 3, "wall_s": 7.6, "input_tokens": 13433, "output_tokens": 476, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q130", "answer": "Saltmarsh Studio", "turns": 2, "wall_s": 5.3, "input_tokens": 8824, "output_tokens": 347, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q131", "answer": "Lumen Fold", "turns": 4, "wall_s": 6.6, "input_tokens": 13051, "output_tokens": 433, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q132", "answer": "Competitive chess", "turns": 2, "wall_s": 5.4, "input_tokens": 10406, "output_tokens": 327, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q147", "answer": "Zig", "turns": 2, "wall_s": 4.7, "input_tokens": 9127, "output_tokens": 186, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q129", "answer": "Brightwater AI", "turns": 3, "wall_s": 15.1, "input_tokens": 13620, "output_tokens": 332, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q135", "answer": "Open-water swimming (per the 2026-06-25 correction; the notes don't explicitly mention weekends)", "turns": 3, "wall_s": 8.9, "input_tokens": 18708, "output_tokens": 385, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q155", "answer": "Valentin Quiroga", "turns": 3, "wall_s": 6.6, "input_tokens": 17358, "output_tokens": 327, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q149", "answer": "Python", "turns": 3, "wall_s": 7.1, "input_tokens": 14335, "output_tokens": 398, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q158", "answer": "Celeste Sorensen", "turns": 3, "wall_s": 8.8, "input_tokens": 15005, "output_tokens": 338, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q161", "answer": "Anika Achterberg", "turns": 3, "wall_s": 6.8, "input_tokens": 15826, "output_tokens": 267, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q159", "answer": "Goran Pacheco", "turns": 4, "wall_s": 8.5, "input_tokens": 20813, "output_tokens": 537, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q174", "answer": "Beta", "turns": 4, "wall_s": 9.6, "input_tokens": 16129, "output_tokens": 590, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q172", "answer": "Paused (as of the 2026-06-22 check-in with Jonas Ulloa; no later note says it resumed)", "turns": 4, "wall_s": 10.6, "input_tokens": 15211, "output_tokens": 718, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q176", "answer": "Leipzig", "turns": 7, "wall_s": 11.4, "input_tokens": 37584, "output_tokens": 755, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q178", "answer": "Madison", "turns": 8, "wall_s": 13.2, "input_tokens": 44996, "output_tokens": 940, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q179", "answer": "Pinecrest Data", "turns": 7, "wall_s": 16.1, "input_tokens": 46322, "output_tokens": 775, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q180", "answer": "Valparaiso", "turns": 5, "wall_s": 13.3, "input_tokens": 32255, "output_tokens": 667, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q181", "answer": "Embergate", "turns": 7, "wall_s": 16.7, "input_tokens": 43039, "output_tokens": 787, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q182", "answer": "Madison", "turns": 7, "wall_s": 17.9, "input_tokens": 54910, "output_tokens": 815, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q191", "answer": "Brightwater AI", "turns": 8, "wall_s": 17.5, "input_tokens": 37627, "output_tokens": 904, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q192", "answer": "Madison", "turns": 8, "wall_s": 16.8, "input_tokens": 37164, "output_tokens": 953, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q194", "answer": "Austin", "turns": 7, "wall_s": 17.1, "input_tokens": 45438, "output_tokens": 812, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q198", "answer": "Cordoba", "turns": 6, "wall_s": 16.3, "input_tokens": 31722, "output_tokens": 686, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q201", "answer": "Marrow & Finch", "turns": 6, "wall_s": 15.2, "input_tokens": 27503, "output_tokens": 605, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q216", "answer": "Krak\u00f3w", "turns": 5, "wall_s": 14.5, "input_tokens": 44987, "output_tokens": 636, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q203", "answer": "Brightwater AI", "turns": 9, "wall_s": 18.6, "input_tokens": 54134, "output_tokens": 1090, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q220", "answer": "Madison", "turns": 8, "wall_s": 16.4, "input_tokens": 38284, "output_tokens": 962, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q237", "answer": "At a friend's dinner party", "turns": 3, "wall_s": 8.3, "input_tokens": 16405, "output_tokens": 288, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q227", "answer": "Halcyon Bio", "turns": 7, "wall_s": 14.1, "input_tokens": 51977, "output_tokens": 857, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q240", "answer": "At a friend's dinner party", "turns": 3, "wall_s": 9.3, "input_tokens": 27911, "output_tokens": 388, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q229", "answer": "Juniper Systems", "turns": 8, "wall_s": 14.3, "input_tokens": 52908, "output_tokens": 908, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q226", "answer": "Porto", "turns": 8, "wall_s": 23.6, "input_tokens": 49975, "output_tokens": 1129, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q251", "answer": "PyData Porto", "turns": 3, "wall_s": 7.5, "input_tokens": 21102, "output_tokens": 273, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q245", "answer": "At a friend's dinner party", "turns": 3, "wall_s": 8.4, "input_tokens": 16672, "output_tokens": 297, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q254", "answer": "At a friend's dinner party", "turns": 3, "wall_s": 6.6, "input_tokens": 17032, "output_tokens": 333, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q267", "answer": "Farah Thorsen, Wendell Wainwright", "turns": 4, "wall_s": 9.8, "input_tokens": 19244, "output_tokens": 525, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q256", "answer": "RustConf meetup", "turns": 3, "wall_s": 10.1, "input_tokens": 16033, "output_tokens": 294, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q275", "answer": "Kavya Engel, Bilal Brennan, Celeste Sorensen", "turns": 4, "wall_s": 7.1, "input_tokens": 17252, "output_tokens": 476, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q281", "answer": "Dmitri Sandoval, Farah Thorsen, Jun Delacroix", "turns": 3, "wall_s": 7.4, "input_tokens": 14421, "output_tokens": 422, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q269", "answer": "Caio Kaminski, Wendell Wainwright", "turns": 5, "wall_s": 10.9, "input_tokens": 28277, "output_tokens": 559, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q283", "answer": "Ilse Dimitriou", "turns": 4, "wall_s": 9.5, "input_tokens": 30393, "output_tokens": 624, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q282", "answer": "Elif Ivanova, Wendell Aldana, Dario Rasmussen", "turns": 4, "wall_s": 9.7, "input_tokens": 18481, "output_tokens": 589, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q294", "answer": "Celeste Sorensen, Jonas Gutierrez, Oskar Lindgren, Yusuf Zubiri", "turns": 2, "wall_s": 6.0, "input_tokens": 9096, "output_tokens": 287, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q287", "answer": "Zara Ramires, Zara Pellegrino", "turns": 5, "wall_s": 11.5, "input_tokens": 26610, "output_tokens": 559, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q289", "answer": "Rosa Nakamura, Priya Marchetti, Felix Castellano", "turns": 4, "wall_s": 9.1, "input_tokens": 17659, "output_tokens": 476, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q303", "answer": "2026-03-25", "turns": 2, "wall_s": 8.8, "input_tokens": 9433, "output_tokens": 183, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q310", "answer": "2026-04-09", "turns": 3, "wall_s": 8.8, "input_tokens": 13698, "output_tokens": 297, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q296", "answer": "2026-07-20", "turns": 3, "wall_s": 10.9, "input_tokens": 13194, "output_tokens": 264, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q304", "answer": "2026-08-18", "turns": 3, "wall_s": 11.8, "input_tokens": 12868, "output_tokens": 335, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q317", "answer": "2026-06-03", "turns": 4, "wall_s": 11.5, "input_tokens": 19247, "output_tokens": 467, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q326", "answer": "unknown", "turns": 4, "wall_s": 10.8, "input_tokens": 21416, "output_tokens": 412, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q327", "answer": "unknown", "turns": 4, "wall_s": 10.4, "input_tokens": 21100, "output_tokens": 436, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q345", "answer": "unknown", "turns": 3, "wall_s": 7.2, "input_tokens": 17652, "output_tokens": 320, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q341", "answer": "unknown", "turns": 5, "wall_s": 10.7, "input_tokens": 34352, "output_tokens": 623, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q344", "answer": "unknown", "turns": 4, "wall_s": 11.3, "input_tokens": 16336, "output_tokens": 369, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q346", "answer": "unknown", "turns": 6, "wall_s": 13.0, "input_tokens": 36049, "output_tokens": 747, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q349", "answer": "unknown", "turns": 4, "wall_s": 11.7, "input_tokens": 24023, "output_tokens": 548, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q000", "answer": "Olive", "turns": 5, "wall_s": 11.9, "input_tokens": 75348, "output_tokens": 503, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q008", "answer": "ML researcher", "turns": 3, "wall_s": 12.3, "input_tokens": 44360, "output_tokens": 324, "subtype": "success"}
+{"setup": "plain", "model": "sonnet", "id": "q351", "answer": "unknown", "turns": 4, "wall_s": 15.0, "input_tokens": 18777, "output_tokens": 537, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q016", "answer": "Competitive chess (tournaments)", "turns": 3, "wall_s": 9.8, "input_tokens": 46853, "output_tokens": 279, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q018", "answer": "Open-source sprint (2026-04-08)", "turns": 4, "wall_s": 10.9, "input_tokens": 59094, "output_tokens": 406, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q023", "answer": "RustConf meetup (2026-04-29)", "turns": 2, "wall_s": 9.4, "input_tokens": 29827, "output_tokens": 228, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q020", "answer": "At a climbing gym session (introduced by Bilal Brennan), 2026-04-15", "turns": 3, "wall_s": 12.8, "input_tokens": 44484, "output_tokens": 340, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q022", "answer": "At a climbing gym session (2026-04-24), introduced by Marisol Mbeki", "turns": 3, "wall_s": 13.0, "input_tokens": 44346, "output_tokens": 353, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q033", "answer": "At a conference hallway track (2026-05-21), introduced by Dario Esposito", "turns": 2, "wall_s": 7.8, "input_tokens": 29988, "output_tokens": 251, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q036", "answer": "At the open-source sprint (introduced by Goran Pires), 2026-05-26", "turns": 2, "wall_s": 8.0, "input_tokens": 29833, "output_tokens": 262, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q027", "answer": "Pixel", "turns": 5, "wall_s": 12.6, "input_tokens": 75368, "output_tokens": 529, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q035", "answer": "Ziggy", "turns": 6, "wall_s": 12.6, "input_tokens": 76829, "output_tokens": 753, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q040", "answer": "At a climbing gym session (2026-05-29)", "turns": 2, "wall_s": 10.1, "input_tokens": 29994, "output_tokens": 239, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q047", "answer": "At a climbing gym session (2026-06-12)", "turns": 2, "wall_s": 6.6, "input_tokens": 30277, "output_tokens": 250, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q044", "answer": "Beekeeping", "turns": 5, "wall_s": 10.8, "input_tokens": 60615, "output_tokens": 483, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q049", "answer": "unknown", "turns": 5, "wall_s": 14.8, "input_tokens": 59676, "output_tokens": 640, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q056", "answer": "Engineering manager", "turns": 3, "wall_s": 8.9, "input_tokens": 45404, "output_tokens": 328, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q055", "answer": "TU Delft", "turns": 5, "wall_s": 12.3, "input_tokens": 75506, "output_tokens": 554, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q052", "answer": "Pottery", "turns": 4, "wall_s": 15.8, "input_tokens": 46286, "output_tokens": 395, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q070", "answer": "Cordoba", "turns": 5, "wall_s": 14.0, "input_tokens": 60597, "output_tokens": 635, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q076", "answer": "Cordoba", "turns": 3, "wall_s": 8.6, "input_tokens": 30400, "output_tokens": 434, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q075", "answer": "Madison", "turns": 3, "wall_s": 10.3, "input_tokens": 46769, "output_tokens": 373, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q072", "answer": "Valparaiso", "turns": 4, "wall_s": 11.2, "input_tokens": 46471, "output_tokens": 436, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q077", "answer": "Hobart", "turns": 4, "wall_s": 9.3, "input_tokens": 46019, "output_tokens": 524, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q078", "answer": "Ljubljana", "turns": 4, "wall_s": 10.5, "input_tokens": 45629, "output_tokens": 481, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q085", "answer": "2026-06-28", "turns": 4, "wall_s": 8.4, "input_tokens": 47875, "output_tokens": 469, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q094", "answer": "2026-05-19", "turns": 4, "wall_s": 7.6, "input_tokens": 48936, "output_tokens": 420, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q096", "answer": "2026-07-19", "turns": 4, "wall_s": 9.0, "input_tokens": 46452, "output_tokens": 494, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q101", "answer": "2026-08-11", "turns": 3, "wall_s": 7.2, "input_tokens": 47858, "output_tokens": 270, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q103", "answer": "2026-06-10", "turns": 4, "wall_s": 8.8, "input_tokens": 49221, "output_tokens": 540, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q102", "answer": "2026-08-07", "turns": 4, "wall_s": 10.4, "input_tokens": 48716, "output_tokens": 412, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q110", "answer": "Kiteline", "turns": 2, "wall_s": 6.6, "input_tokens": 31229, "output_tokens": 216, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q079", "answer": "Ljubljana", "turns": 6, "wall_s": 20.3, "input_tokens": 62238, "output_tokens": 1091, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q115", "answer": "Pinecrest Data", "turns": 3, "wall_s": 7.6, "input_tokens": 46391, "output_tokens": 447, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q129", "answer": "Brightwater AI", "turns": 2, "wall_s": 6.4, "input_tokens": 29745, "output_tokens": 324, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q131", "answer": "Lumen Fold", "turns": 2, "wall_s": 8.1, "input_tokens": 29914, "output_tokens": 287, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q130", "answer": "Saltmarsh Studio", "turns": 2, "wall_s": 8.4, "input_tokens": 29808, "output_tokens": 287, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q147", "answer": "Zig", "turns": 2, "wall_s": 5.9, "input_tokens": 31029, "output_tokens": 208, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q135", "answer": "Open-water swimming", "turns": 5, "wall_s": 9.4, "input_tokens": 62559, "output_tokens": 646, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q155", "answer": "Valentin Quiroga", "turns": 2, "wall_s": 7.0, "input_tokens": 32160, "output_tokens": 229, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q149", "answer": "Python", "turns": 4, "wall_s": 8.1, "input_tokens": 47619, "output_tokens": 595, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q158", "answer": "Celeste Sorensen", "turns": 3, "wall_s": 6.5, "input_tokens": 47863, "output_tokens": 356, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q159", "answer": "Goran Pacheco", "turns": 2, "wall_s": 5.5, "input_tokens": 31526, "output_tokens": 207, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q161", "answer": "Anika Achterberg", "turns": 2, "wall_s": 5.1, "input_tokens": 31171, "output_tokens": 219, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q132", "answer": "Competitive chess", "turns": 6, "wall_s": 23.6, "input_tokens": 79212, "output_tokens": 702, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q176", "answer": "Leipzig", "turns": 5, "wall_s": 7.5, "input_tokens": 65810, "output_tokens": 601, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q174", "answer": "Beta (owned by Dmitri Sandoval; target date 2026-07-22 has passed with no ship recorded)", "turns": 4, "wall_s": 8.7, "input_tokens": 47909, "output_tokens": 811, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q172", "answer": "Paused (since 2026-06-22); last check-in 2026-08-25, waiting on Jonas Ulloa for one thing", "turns": 4, "wall_s": 10.1, "input_tokens": 48039, "output_tokens": 858, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q182", "answer": "Madison", "turns": 5, "wall_s": 7.0, "input_tokens": 64709, "output_tokens": 513, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q180", "answer": "Valparaiso", "turns": 5, "wall_s": 9.1, "input_tokens": 66274, "output_tokens": 626, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q181", "answer": "Embergate", "turns": 5, "wall_s": 8.7, "input_tokens": 64815, "output_tokens": 600, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q178", "answer": "Madison", "turns": 7, "wall_s": 15.0, "input_tokens": 101191, "output_tokens": 1162, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q179", "answer": "Pinecrest Data", "turns": 8, "wall_s": 11.3, "input_tokens": 84449, "output_tokens": 871, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q201", "answer": "Marrow & Finch", "turns": 4, "wall_s": 6.6, "input_tokens": 65711, "output_tokens": 509, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q192", "answer": "Madison", "turns": 6, "wall_s": 9.1, "input_tokens": 65524, "output_tokens": 698, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q191", "answer": "Brightwater AI", "turns": 6, "wall_s": 10.4, "input_tokens": 65420, "output_tokens": 684, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q198", "answer": "Cordoba", "turns": 5, "wall_s": 8.9, "input_tokens": 48332, "output_tokens": 633, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q194", "answer": "Austin", "turns": 7, "wall_s": 12.0, "input_tokens": 105355, "output_tokens": 890, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q216", "answer": "Krak\u00f3w", "turns": 7, "wall_s": 10.5, "input_tokens": 85101, "output_tokens": 834, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q220", "answer": "Madison", "turns": 8, "wall_s": 13.2, "input_tokens": 107655, "output_tokens": 1075, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q226", "answer": "Porto", "turns": 8, "wall_s": 13.9, "input_tokens": 104635, "output_tokens": 1097, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q203", "answer": "Brightwater AI", "turns": 9, "wall_s": 19.8, "input_tokens": 105343, "output_tokens": 1224, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q227", "answer": "Halcyon Bio", "turns": 7, "wall_s": 15.9, "input_tokens": 81946, "output_tokens": 1088, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q237", "answer": "A friend's dinner party (2026-03-16)", "turns": 2, "wall_s": 5.9, "input_tokens": 29556, "output_tokens": 372, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q229", "answer": "Juniper Systems", "turns": 7, "wall_s": 9.3, "input_tokens": 66154, "output_tokens": 680, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q245", "answer": "At a friend's dinner party (2026-03-16)", "turns": 3, "wall_s": 6.0, "input_tokens": 44865, "output_tokens": 401, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q251", "answer": "PyData Porto", "turns": 4, "wall_s": 6.3, "input_tokens": 46207, "output_tokens": 459, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q240", "answer": "At a friend's dinner party (2026-03-05)", "turns": 7, "wall_s": 11.3, "input_tokens": 60519, "output_tokens": 730, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q254", "answer": "At a friend's dinner party (2026-04-09)", "turns": 6, "wall_s": 7.6, "input_tokens": 60566, "output_tokens": 588, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q256", "answer": "RustConf meetup", "turns": 4, "wall_s": 8.6, "input_tokens": 44917, "output_tokens": 469, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q269", "answer": "Caio Kaminski and Wendell Wainwright", "turns": 3, "wall_s": 5.7, "input_tokens": 44361, "output_tokens": 284, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q281", "answer": "Dmitri Sandoval, Farah Thorsen, Jun Delacroix", "turns": 4, "wall_s": 7.5, "input_tokens": 61856, "output_tokens": 581, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q275", "answer": "Kavya Engel, Bilal Brennan, Celeste Sorensen", "turns": 5, "wall_s": 10.4, "input_tokens": 76687, "output_tokens": 669, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q282", "answer": "Elif Ivanova, Wendell Aldana, Dario Rasmussen", "turns": 3, "wall_s": 8.9, "input_tokens": 46698, "output_tokens": 509, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q283", "answer": "Hana Halvorsen, Anika Achterberg, Ilse Dimitriou", "turns": 4, "wall_s": 7.9, "input_tokens": 62349, "output_tokens": 472, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q267", "answer": "Farah Thorsen and Wendell Wainwright", "turns": 6, "wall_s": 15.1, "input_tokens": 80031, "output_tokens": 851, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q287", "answer": "Zara Ramires and Zara Pellegrino", "turns": 3, "wall_s": 5.8, "input_tokens": 44286, "output_tokens": 252, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q289", "answer": "Rosa Nakamura, Priya Marchetti, Felix Castellano", "turns": 3, "wall_s": 6.1, "input_tokens": 46299, "output_tokens": 438, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q294", "answer": "Celeste Sorensen, Jonas Gutierrez, Oskar Lindgren, Yusuf Zubiri", "turns": 2, "wall_s": 5.4, "input_tokens": 29988, "output_tokens": 394, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q296", "answer": "2026-07-20", "turns": 2, "wall_s": 3.8, "input_tokens": 30132, "output_tokens": 217, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q303", "answer": "2026-03-25", "turns": 2, "wall_s": 4.2, "input_tokens": 30036, "output_tokens": 260, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q310", "answer": "2026-04-09", "turns": 2, "wall_s": 4.5, "input_tokens": 29644, "output_tokens": 275, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q317", "answer": "2026-06-03", "turns": 3, "wall_s": 5.9, "input_tokens": 44429, "output_tokens": 269, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q326", "answer": "unknown", "turns": 4, "wall_s": 6.6, "input_tokens": 45364, "output_tokens": 422, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q304", "answer": "2026-08-18", "turns": 4, "wall_s": 9.7, "input_tokens": 61674, "output_tokens": 599, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q327", "answer": "unknown", "turns": 5, "wall_s": 10.1, "input_tokens": 60731, "output_tokens": 564, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q341", "answer": "unknown", "turns": 5, "wall_s": 8.0, "input_tokens": 61756, "output_tokens": 605, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q344", "answer": "unknown", "turns": 5, "wall_s": 10.0, "input_tokens": 61342, "output_tokens": 601, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q346", "answer": "unknown", "turns": 6, "wall_s": 10.9, "input_tokens": 61477, "output_tokens": 651, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q345", "answer": "unknown", "turns": 5, "wall_s": 11.4, "input_tokens": 62137, "output_tokens": 677, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q349", "answer": "unknown", "turns": 4, "wall_s": 7.1, "input_tokens": 45828, "output_tokens": 425, "subtype": "success"}
+{"setup": "memory", "model": "sonnet", "id": "q351", "answer": "unknown", "turns": 7, "wall_s": 12.0, "input_tokens": 83866, "output_tokens": 765, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q018", "answer": "At the open-source sprint (2026-04-08)", "turns": 3, "wall_s": 6.7, "input_tokens": 10494, "output_tokens": 257, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q000", "answer": "Olive", "turns": 5, "wall_s": 10.8, "input_tokens": 17887, "output_tokens": 429, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q016", "answer": "Competitive chess (tournaments)", "turns": 4, "wall_s": 8.8, "input_tokens": 14690, "output_tokens": 413, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q008", "answer": "ML researcher (at Northwind Labs)", "turns": 6, "wall_s": 13.6, "input_tokens": 30828, "output_tokens": 717, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q020", "answer": "At a climbing gym session (introduced by Bilal Brennan), 2026-04-15", "turns": 3, "wall_s": 7.4, "input_tokens": 9466, "output_tokens": 234, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q022", "answer": "At a climbing gym session (2026-04-24), introduced by Marisol Mbeki", "turns": 3, "wall_s": 7.0, "input_tokens": 8909, "output_tokens": 276, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q023", "answer": "RustConf meetup (2026-04-29)", "turns": 5, "wall_s": 8.8, "input_tokens": 15440, "output_tokens": 522, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q033", "answer": "At a conference hallway track (2026-05-21), introduced by Dario Esposito", "turns": 3, "wall_s": 5.8, "input_tokens": 10048, "output_tokens": 260, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q036", "answer": "At the open-source sprint (2026-05-26), introduced by Goran Pires", "turns": 3, "wall_s": 5.5, "input_tokens": 9875, "output_tokens": 271, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q027", "answer": "Pixel", "turns": 5, "wall_s": 12.8, "input_tokens": 14973, "output_tokens": 407, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q035", "answer": "Ziggy", "turns": 6, "wall_s": 8.6, "input_tokens": 19115, "output_tokens": 538, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q040", "answer": "At a climbing gym session (2026-05-29)", "turns": 5, "wall_s": 8.1, "input_tokens": 13679, "output_tokens": 414, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q047", "answer": "At a climbing gym session (2026-06-12)", "turns": 3, "wall_s": 7.2, "input_tokens": 15357, "output_tokens": 247, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q044", "answer": "Beekeeping", "turns": 7, "wall_s": 10.1, "input_tokens": 29938, "output_tokens": 621, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q052", "answer": "Pottery", "turns": 5, "wall_s": 9.1, "input_tokens": 23345, "output_tokens": 528, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q049", "answer": "Film photography", "turns": 6, "wall_s": 13.5, "input_tokens": 20127, "output_tokens": 554, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q056", "answer": "Engineering manager", "turns": 4, "wall_s": 9.4, "input_tokens": 15397, "output_tokens": 331, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q070", "answer": "Cordoba", "turns": 3, "wall_s": 8.3, "input_tokens": 10017, "output_tokens": 344, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q055", "answer": "TU Delft", "turns": 6, "wall_s": 13.1, "input_tokens": 19911, "output_tokens": 607, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q072", "answer": "Valparaiso", "turns": 6, "wall_s": 11.7, "input_tokens": 24226, "output_tokens": 741, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q076", "answer": "Cordoba", "turns": 5, "wall_s": 7.8, "input_tokens": 15327, "output_tokens": 441, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q077", "answer": "Hobart", "turns": 4, "wall_s": 9.5, "input_tokens": 16601, "output_tokens": 473, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q075", "answer": "Madison", "turns": 6, "wall_s": 16.1, "input_tokens": 24845, "output_tokens": 720, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q078", "answer": "Ljubljana", "turns": 4, "wall_s": 15.1, "input_tokens": 20074, "output_tokens": 362, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q085", "answer": "2026-06-28", "turns": 6, "wall_s": 11.3, "input_tokens": 22484, "output_tokens": 598, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q079", "answer": "Ljubljana", "turns": 7, "wall_s": 13.4, "input_tokens": 22251, "output_tokens": 800, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q094", "answer": "2026-05-19", "turns": 9, "wall_s": 15.7, "input_tokens": 35259, "output_tokens": 1091, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q096", "answer": "2026-07-19", "turns": 6, "wall_s": 12.4, "input_tokens": 26074, "output_tokens": 1028, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q101", "answer": "2026-08-11", "turns": 6, "wall_s": 10.9, "input_tokens": 24179, "output_tokens": 746, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q102", "answer": "2026-08-07", "turns": 6, "wall_s": 11.6, "input_tokens": 26812, "output_tokens": 561, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q110", "answer": "Kiteline", "turns": 3, "wall_s": 5.5, "input_tokens": 9344, "output_tokens": 285, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q103", "answer": "2026-06-10", "turns": 8, "wall_s": 12.8, "input_tokens": 26301, "output_tokens": 855, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q115", "answer": "Pinecrest Data", "turns": 3, "wall_s": 6.8, "input_tokens": 11188, "output_tokens": 292, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q130", "answer": "Saltmarsh Studio", "turns": 3, "wall_s": 6.6, "input_tokens": 8324, "output_tokens": 347, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q129", "answer": "Brightwater AI", "turns": 5, "wall_s": 11.1, "input_tokens": 25236, "output_tokens": 559, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q132", "answer": "Competitive chess", "turns": 6, "wall_s": 11.6, "input_tokens": 23429, "output_tokens": 635, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q131", "answer": "Lumen Fold", "turns": 6, "wall_s": 12.3, "input_tokens": 26324, "output_tokens": 791, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q135", "answer": "Open-water swimming", "turns": 7, "wall_s": 13.7, "input_tokens": 22950, "output_tokens": 710, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q147", "answer": "Zig", "turns": 7, "wall_s": 11.1, "input_tokens": 36974, "output_tokens": 779, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q149", "answer": "Python", "turns": 4, "wall_s": 11.3, "input_tokens": 17468, "output_tokens": 485, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q158", "answer": "Celeste Sorensen", "turns": 2, "wall_s": 8.1, "input_tokens": 12786, "output_tokens": 223, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q155", "answer": "Valentin Quiroga", "turns": 3, "wall_s": 8.4, "input_tokens": 15129, "output_tokens": 273, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q161", "answer": "Anika Achterberg", "turns": 2, "wall_s": 7.3, "input_tokens": 13910, "output_tokens": 211, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q159", "answer": "Goran Pacheco", "turns": 3, "wall_s": 8.1, "input_tokens": 13514, "output_tokens": 298, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q174", "answer": "In beta (since 2026-07-10), with a target date of 2026-07-22 that has passed without a recorded release.", "turns": 6, "wall_s": 11.9, "input_tokens": 23868, "output_tokens": 870, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q172", "answer": "In progress, waiting on Jonas Ulloa for one item as of 2026-08-25. Target date 2026-05-11, which has passed with no note saying it shipped.", "turns": 8, "wall_s": 15.4, "input_tokens": 24844, "output_tokens": 867, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q178", "answer": "Madison", "turns": 5, "wall_s": 11.2, "input_tokens": 42337, "output_tokens": 620, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q176", "answer": "Leipzig", "turns": 7, "wall_s": 15.4, "input_tokens": 53202, "output_tokens": 977, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q179", "answer": "Saltmarsh Studio", "turns": 6, "wall_s": 14.0, "input_tokens": 39661, "output_tokens": 1165, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q180", "answer": "Valparaiso", "turns": 7, "wall_s": 12.9, "input_tokens": 54676, "output_tokens": 1009, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q191", "answer": "Brightwater AI", "turns": 5, "wall_s": 11.2, "input_tokens": 38588, "output_tokens": 686, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q192", "answer": "Madison", "turns": 6, "wall_s": 12.2, "input_tokens": 43405, "output_tokens": 746, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q182", "answer": "Madison", "turns": 8, "wall_s": 15.7, "input_tokens": 53683, "output_tokens": 1079, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q181", "answer": "Embergate", "turns": 9, "wall_s": 20.5, "input_tokens": 52923, "output_tokens": 1259, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q194", "answer": "Austin", "turns": 7, "wall_s": 13.8, "input_tokens": 39576, "output_tokens": 908, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q201", "answer": "Marrow & Finch", "turns": 4, "wall_s": 11.3, "input_tokens": 40962, "output_tokens": 459, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q203", "answer": "Brightwater AI", "turns": 7, "wall_s": 12.5, "input_tokens": 38633, "output_tokens": 863, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q198", "answer": "Cordoba", "turns": 9, "wall_s": 15.9, "input_tokens": 64816, "output_tokens": 1184, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q216", "answer": "Krak\u00f3w", "turns": 5, "wall_s": 14.7, "input_tokens": 39311, "output_tokens": 514, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q227", "answer": "Halcyon Bio", "turns": 7, "wall_s": 10.8, "input_tokens": 43377, "output_tokens": 1003, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q220", "answer": "Madison", "turns": 6, "wall_s": 15.0, "input_tokens": 55174, "output_tokens": 981, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q226", "answer": "Porto", "turns": 7, "wall_s": 13.5, "input_tokens": 55350, "output_tokens": 859, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q237", "answer": "At a friend's dinner party (2026-03-16)", "turns": 4, "wall_s": 8.1, "input_tokens": 18207, "output_tokens": 411, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q229", "answer": "Juniper Systems", "turns": 8, "wall_s": 14.3, "input_tokens": 55661, "output_tokens": 916, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q245", "answer": "At a friend's dinner party (2026-03-16)", "turns": 5, "wall_s": 7.9, "input_tokens": 24357, "output_tokens": 448, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q240", "answer": "At a friend's dinner party", "turns": 5, "wall_s": 9.7, "input_tokens": 20404, "output_tokens": 527, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q254", "answer": "At a friend's dinner party", "turns": 4, "wall_s": 9.9, "input_tokens": 14954, "output_tokens": 353, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q256", "answer": "RustConf meetup", "turns": 5, "wall_s": 9.7, "input_tokens": 18781, "output_tokens": 418, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q251", "answer": "PyData Porto", "turns": 5, "wall_s": 15.9, "input_tokens": 24234, "output_tokens": 536, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q267", "answer": "Farah Thorsen and Wendell Wainwright", "turns": 7, "wall_s": 13.9, "input_tokens": 36192, "output_tokens": 718, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q269", "answer": "Caio Kaminski, Wendell Wainwright", "turns": 5, "wall_s": 15.6, "input_tokens": 26696, "output_tokens": 700, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q275", "answer": "Kavya Engel, Bilal Brennan, Celeste Sorensen", "turns": 5, "wall_s": 11.7, "input_tokens": 27286, "output_tokens": 671, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q281", "answer": "Dmitri Sandoval, Farah Thorsen, Jun Delacroix", "turns": 6, "wall_s": 14.7, "input_tokens": 28425, "output_tokens": 767, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q282", "answer": "Elif Ivanova, Wendell Aldana, Dario Rasmussen", "turns": 7, "wall_s": 16.7, "input_tokens": 43371, "output_tokens": 1097, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q294", "answer": "Celeste Sorensen, Jonas Gutierrez, Oskar Lindgren, Yusuf Zubiri", "turns": 2, "wall_s": 6.1, "input_tokens": 9645, "output_tokens": 277, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q289", "answer": "Rosa Nakamura, Priya Marchetti, Felix Castellano", "turns": 6, "wall_s": 10.8, "input_tokens": 23123, "output_tokens": 686, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q287", "answer": "Zara Ramires and Zara Pellegrino", "turns": 5, "wall_s": 11.4, "input_tokens": 24587, "output_tokens": 519, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q283", "answer": "Hana Halvorsen, Anika Achterberg, Ilse Dimitriou", "turns": 5, "wall_s": 14.2, "input_tokens": 28169, "output_tokens": 998, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q303", "answer": "2026-03-25", "turns": 3, "wall_s": 9.0, "input_tokens": 10089, "output_tokens": 232, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q296", "answer": "2026-07-20", "turns": 6, "wall_s": 11.6, "input_tokens": 22614, "output_tokens": 447, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q304", "answer": "2026-08-18", "turns": 6, "wall_s": 13.5, "input_tokens": 19856, "output_tokens": 690, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q317", "answer": "2026-06-03", "turns": 4, "wall_s": 13.1, "input_tokens": 20546, "output_tokens": 373, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q310", "answer": "2026-04-09", "turns": 5, "wall_s": 13.7, "input_tokens": 14249, "output_tokens": 315, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q327", "answer": "unknown", "turns": 4, "wall_s": 8.8, "input_tokens": 20812, "output_tokens": 425, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q326", "answer": "unknown", "turns": 9, "wall_s": 16.5, "input_tokens": 41389, "output_tokens": 1132, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q345", "answer": "unknown", "turns": 6, "wall_s": 10.4, "input_tokens": 22270, "output_tokens": 686, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q344", "answer": "unknown", "turns": 5, "wall_s": 11.7, "input_tokens": 24218, "output_tokens": 682, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q341", "answer": "unknown", "turns": 9, "wall_s": 14.3, "input_tokens": 42912, "output_tokens": 996, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q346", "answer": "unknown", "turns": 5, "wall_s": 11.7, "input_tokens": 34830, "output_tokens": 546, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q349", "answer": "unknown", "turns": 6, "wall_s": 11.0, "input_tokens": 19676, "output_tokens": 658, "subtype": "success"}
+{"setup": "cards", "model": "sonnet", "id": "q351", "answer": "unknown", "turns": 7, "wall_s": 14.9, "input_tokens": 32764, "output_tokens": 880, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q016", "answer": "Competitive chess, including tournaments (per the 2026-04-02 note)", "turns": 2, "wall_s": 11.1, "input_tokens": 7914, "output_tokens": 302, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q000", "answer": "Olive", "turns": 3, "wall_s": 11.3, "input_tokens": 14367, "output_tokens": 342, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q008", "answer": "ML researcher (Northwind Labs)", "turns": 3, "wall_s": 12.2, "input_tokens": 13997, "output_tokens": 377, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q018", "answer": "2026-04-08", "turns": 4, "wall_s": 13.2, "input_tokens": 14170, "output_tokens": 439, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q020", "answer": "At a climbing gym session on 2026-04-15 (introduced by Bilal Brennan)", "turns": 3, "wall_s": 14.4, "input_tokens": 14122, "output_tokens": 477, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q023", "answer": "At the RustConf meetup, on 2026-04-29", "turns": 2, "wall_s": 9.6, "input_tokens": 9091, "output_tokens": 471, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q022", "answer": "A climbing gym session on 2026-04-24 (introduced by Marisol Mbeki)", "turns": 3, "wall_s": 11.8, "input_tokens": 12157, "output_tokens": 561, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q035", "answer": "Ziggy", "turns": 4, "wall_s": 8.7, "input_tokens": 24066, "output_tokens": 455, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q027", "answer": "Pixel", "turns": 4, "wall_s": 11.2, "input_tokens": 21584, "output_tokens": 536, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q033", "answer": "A conference hallway track (met 2026-05-21, introduced by Dario Esposito)", "turns": 4, "wall_s": 11.6, "input_tokens": 14256, "output_tokens": 646, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q036", "answer": "At the open-source sprint, on 2026-05-26", "turns": 3, "wall_s": 11.2, "input_tokens": 12799, "output_tokens": 471, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q047", "answer": "A climbing gym session, on 2026-06-12", "turns": 3, "wall_s": 9.9, "input_tokens": 13656, "output_tokens": 430, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q049", "answer": "Film photography (per the 2026-07-02 daily note)", "turns": 3, "wall_s": 9.1, "input_tokens": 12425, "output_tokens": 404, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q040", "answer": "At a climbing gym session on 2026-05-29", "turns": 5, "wall_s": 12.0, "input_tokens": 16010, "output_tokens": 904, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q044", "answer": "Beekeeping (per the 2026-06-22 daily note)", "turns": 5, "wall_s": 14.4, "input_tokens": 22621, "output_tokens": 756, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q052", "answer": "Pottery", "turns": 2, "wall_s": 10.1, "input_tokens": 7902, "output_tokens": 289, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q056", "answer": "Engineering manager (at Northwind Labs)", "turns": 4, "wall_s": 11.2, "input_tokens": 17875, "output_tokens": 604, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q055", "answer": "TU Delft", "turns": 4, "wall_s": 12.2, "input_tokens": 18677, "output_tokens": 634, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q070", "answer": "Cordoba", "turns": 3, "wall_s": 13.3, "input_tokens": 13450, "output_tokens": 634, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q072", "answer": "Valparaiso", "turns": 5, "wall_s": 11.1, "input_tokens": 21253, "output_tokens": 925, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q075", "answer": "Madison", "turns": 3, "wall_s": 11.4, "input_tokens": 14198, "output_tokens": 463, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q077", "answer": "Hobart", "turns": 2, "wall_s": 9.8, "input_tokens": 8055, "output_tokens": 536, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q076", "answer": "Cordoba", "turns": 3, "wall_s": 10.9, "input_tokens": 14019, "output_tokens": 624, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q078", "answer": "Ljubljana", "turns": 4, "wall_s": 10.2, "input_tokens": 17597, "output_tokens": 847, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q079", "answer": "Ljubljana", "turns": 4, "wall_s": 12.2, "input_tokens": 18998, "output_tokens": 768, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q085", "answer": "2026-06-28", "turns": 5, "wall_s": 9.9, "input_tokens": 23035, "output_tokens": 874, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q094", "answer": "2026-05-19", "turns": 5, "wall_s": 11.0, "input_tokens": 16769, "output_tokens": 962, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q102", "answer": "2026-08-07", "turns": 6, "wall_s": 13.9, "input_tokens": 17947, "output_tokens": 1018, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q096", "answer": "2026-07-19", "turns": 9, "wall_s": 19.2, "input_tokens": 39331, "output_tokens": 1703, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q110", "answer": "Kiteline", "turns": 2, "wall_s": 9.1, "input_tokens": 8062, "output_tokens": 301, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q103", "answer": "2026-06-10", "turns": 3, "wall_s": 12.2, "input_tokens": 16396, "output_tokens": 822, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q101", "answer": "2026-08-11", "turns": 8, "wall_s": 19.2, "input_tokens": 42457, "output_tokens": 1778, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q129", "answer": "Brightwater AI", "turns": 2, "wall_s": 5.9, "input_tokens": 7905, "output_tokens": 308, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q115", "answer": "Pinecrest Data", "turns": 3, "wall_s": 9.8, "input_tokens": 13592, "output_tokens": 484, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q130", "answer": "Saltmarsh Studio", "turns": 2, "wall_s": 9.5, "input_tokens": 7941, "output_tokens": 332, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q131", "answer": "Lumen Fold", "turns": 4, "wall_s": 13.7, "input_tokens": 18729, "output_tokens": 914, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q132", "answer": "Competitive chess (per the 2026-08-28 correction; the notes don't specifically say it's a weekend activity)", "turns": 5, "wall_s": 14.2, "input_tokens": 16516, "output_tokens": 888, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q149", "answer": "Python", "turns": 5, "wall_s": 9.5, "input_tokens": 12860, "output_tokens": 622, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q147", "answer": "Zig", "turns": 4, "wall_s": 10.4, "input_tokens": 15676, "output_tokens": 504, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q135", "answer": "Open-water swimming (per the 2026-06-25 correction); the notes don't say anything about weekends specifically.", "turns": 5, "wall_s": 17.8, "input_tokens": 26232, "output_tokens": 1048, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q155", "answer": "Valentin Quiroga (since 2026-07-14)", "turns": 4, "wall_s": 10.4, "input_tokens": 18728, "output_tokens": 1042, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q158", "answer": "Celeste Sorensen", "turns": 3, "wall_s": 10.0, "input_tokens": 15272, "output_tokens": 568, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q161", "answer": "Anika Achterberg (since 2026-08-03)", "turns": 4, "wall_s": 11.0, "input_tokens": 21018, "output_tokens": 726, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q159", "answer": "Goran Pacheco", "turns": 3, "wall_s": 11.6, "input_tokens": 16396, "output_tokens": 567, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q174", "answer": "In beta (as of 2026-07-10); target 2026-07-22 was still pointed at as of 2026-08-18, with no later status recorded.", "turns": 5, "wall_s": 14.7, "input_tokens": 15873, "output_tokens": 1353, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q172", "answer": "Paused as of 2026-06-22 (latest explicit status), though later notes still cite a May 11 target and you were waiting on Jonas Ulloa as of 2026-08-25.", "turns": 5, "wall_s": 17.1, "input_tokens": 17879, "output_tokens": 1705, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q176", "answer": "Leipzig", "turns": 7, "wall_s": 16.3, "input_tokens": 46107, "output_tokens": 1091, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q179", "answer": "Pinecrest Data", "turns": 8, "wall_s": 16.6, "input_tokens": 53483, "output_tokens": 1567, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q178", "answer": "Madison", "turns": 7, "wall_s": 18.2, "input_tokens": 43974, "output_tokens": 1249, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q182", "answer": "Madison", "turns": 7, "wall_s": 12.7, "input_tokens": 44728, "output_tokens": 1361, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q181", "answer": "Embergate", "turns": 7, "wall_s": 16.6, "input_tokens": 64128, "output_tokens": 1087, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q191", "answer": "Brightwater AI", "turns": 6, "wall_s": 10.5, "input_tokens": 46045, "output_tokens": 1035, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q180", "answer": "Valparaiso", "turns": 8, "wall_s": 18.4, "input_tokens": 76253, "output_tokens": 1795, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q192", "answer": "Madison", "turns": 7, "wall_s": 12.8, "input_tokens": 44830, "output_tokens": 1319, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q203", "answer": "Brightwater AI", "turns": 4, "wall_s": 10.2, "input_tokens": 26044, "output_tokens": 852, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q201", "answer": "Marrow & Finch", "turns": 7, "wall_s": 12.1, "input_tokens": 37459, "output_tokens": 1007, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q194", "answer": "Austin", "turns": 8, "wall_s": 14.7, "input_tokens": 54178, "output_tokens": 1615, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q216", "answer": "Krak\u00f3w", "turns": 7, "wall_s": 9.1, "input_tokens": 39468, "output_tokens": 1223, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q198", "answer": "Cordoba", "turns": 6, "wall_s": 13.7, "input_tokens": 44528, "output_tokens": 1185, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q237", "answer": "At a friend's dinner party, on 2026-03-16 (introduced by Farah Thorsen)", "turns": 5, "wall_s": 7.9, "input_tokens": 19883, "output_tokens": 882, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q229", "answer": "Juniper Systems", "turns": 8, "wall_s": 13.9, "input_tokens": 58659, "output_tokens": 1430, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q220", "answer": "Madison", "turns": 7, "wall_s": 17.1, "input_tokens": 84990, "output_tokens": 1414, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q227", "answer": "Halcyon Bio", "turns": 7, "wall_s": 15.0, "input_tokens": 59331, "output_tokens": 1532, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q226", "answer": "Porto", "turns": 9, "wall_s": 17.3, "input_tokens": 56354, "output_tokens": 1935, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q240", "answer": "At a friend's dinner party, on 2026-03-05 (Rosa Nakamura, who introduced you to Celeste Sorensen)", "turns": 5, "wall_s": 11.7, "input_tokens": 30215, "output_tokens": 837, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q245", "answer": "A friend's dinner party (2026-03-16)", "turns": 5, "wall_s": 8.5, "input_tokens": 19675, "output_tokens": 609, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q254", "answer": "A friend's dinner party, 2026-04-09", "turns": 4, "wall_s": 9.0, "input_tokens": 19926, "output_tokens": 739, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q251", "answer": "PyData Porto", "turns": 5, "wall_s": 9.9, "input_tokens": 20887, "output_tokens": 685, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q256", "answer": "2026-05-20 (at the RustConf meetup)", "turns": 5, "wall_s": 9.5, "input_tokens": 19322, "output_tokens": 829, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q267", "answer": "Farah Thorsen, Wendell Wainwright", "turns": 5, "wall_s": 7.9, "input_tokens": 18813, "output_tokens": 733, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q269", "answer": "Caio Kaminski, Wendell Wainwright", "turns": 5, "wall_s": 9.6, "input_tokens": 29762, "output_tokens": 985, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q275", "answer": "Kavya Engel, Bilal Brennan, Celeste Sorensen", "turns": 6, "wall_s": 11.7, "input_tokens": 35233, "output_tokens": 952, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q281", "answer": "Dmitri Sandoval, Farah Thorsen, Jun Delacroix", "turns": 5, "wall_s": 12.1, "input_tokens": 23149, "output_tokens": 1084, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q283", "answer": "Hana Halvorsen, Anika Achterberg, Ilse Dimitriou", "turns": 7, "wall_s": 11.1, "input_tokens": 31956, "output_tokens": 1253, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q282", "answer": "Elif Ivanova, Wendell Aldana, Dario Rasmussen", "turns": 6, "wall_s": 13.1, "input_tokens": 26118, "output_tokens": 1448, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q294", "answer": "Celeste Sorensen (first met 2026-04-08)", "turns": 2, "wall_s": 7.9, "input_tokens": 8101, "output_tokens": 418, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q287", "answer": "Zara Ramires, Zara Pellegrino", "turns": 6, "wall_s": 13.6, "input_tokens": 34515, "output_tokens": 1015, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q289", "answer": "Rosa Nakamura, Priya Marchetti, Felix Castellano", "turns": 6, "wall_s": 12.0, "input_tokens": 30842, "output_tokens": 1101, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q303", "answer": "2026-03-25", "turns": 2, "wall_s": 9.9, "input_tokens": 8159, "output_tokens": 347, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q296", "answer": "2026-07-20", "turns": 4, "wall_s": 10.2, "input_tokens": 14731, "output_tokens": 520, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q304", "answer": "2026-08-18", "turns": 3, "wall_s": 10.0, "input_tokens": 13087, "output_tokens": 613, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q310", "answer": "2026-04-09", "turns": 3, "wall_s": 10.0, "input_tokens": 13957, "output_tokens": 385, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q326", "answer": "unknown", "turns": 4, "wall_s": 7.4, "input_tokens": 14059, "output_tokens": 530, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q327", "answer": "unknown", "turns": 4, "wall_s": 7.8, "input_tokens": 14450, "output_tokens": 509, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q317", "answer": "2026-06-03", "turns": 3, "wall_s": 11.6, "input_tokens": 15793, "output_tokens": 643, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q344", "answer": "unknown", "turns": 3, "wall_s": 9.7, "input_tokens": 12634, "output_tokens": 369, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q345", "answer": "unknown", "turns": 3, "wall_s": 10.1, "input_tokens": 13039, "output_tokens": 433, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q341", "answer": "unknown", "turns": 4, "wall_s": 13.2, "input_tokens": 21550, "output_tokens": 583, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q346", "answer": "unknown", "turns": 4, "wall_s": 12.5, "input_tokens": 23033, "output_tokens": 610, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q000", "answer": "Olive", "turns": 3, "wall_s": 8.3, "input_tokens": 31997, "output_tokens": 387, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q008", "answer": "ML researcher", "turns": 3, "wall_s": 8.8, "input_tokens": 47633, "output_tokens": 387, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q349", "answer": "unknown", "turns": 7, "wall_s": 17.9, "input_tokens": 26315, "output_tokens": 1233, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q016", "answer": "Competitive chess (tournaments included)", "turns": 2, "wall_s": 10.1, "input_tokens": 30336, "output_tokens": 443, "subtype": "success"}
+{"setup": "plain", "model": "haiku", "id": "q351", "answer": "unknown", "turns": 5, "wall_s": 14.5, "input_tokens": 38679, "output_tokens": 1002, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q018", "answer": "2026-04-08 at the open-source sprint (OSS)", "turns": 3, "wall_s": 12.7, "input_tokens": 46417, "output_tokens": 506, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q020", "answer": "2026-04-15", "turns": 3, "wall_s": 12.8, "input_tokens": 47161, "output_tokens": 582, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q023", "answer": "RustConf meetup, 2026-04-29", "turns": 4, "wall_s": 11.8, "input_tokens": 62377, "output_tokens": 746, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q022", "answer": "2026-04-24 (at a climbing gym session, introduced by Marisol Mbeki)", "turns": 3, "wall_s": 14.9, "input_tokens": 45598, "output_tokens": 706, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q027", "answer": "Pixel", "turns": 3, "wall_s": 14.0, "input_tokens": 60815, "output_tokens": 522, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q033", "answer": "2026-05-21 (conference hallway track, introduced by Dario Esposito)", "turns": 3, "wall_s": 9.5, "input_tokens": 46303, "output_tokens": 546, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q040", "answer": "2026-05-29 (at a climbing gym session)", "turns": 2, "wall_s": 8.3, "input_tokens": 32482, "output_tokens": 460, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q035", "answer": "Ziggy", "turns": 3, "wall_s": 11.9, "input_tokens": 45651, "output_tokens": 358, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q047", "answer": "2026-06-12 (climbing gym)", "turns": 3, "wall_s": 7.7, "input_tokens": 46598, "output_tokens": 396, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q036", "answer": "2026-05-26 (at the open-source sprint, introduced by Goran Pires)", "turns": 3, "wall_s": 13.7, "input_tokens": 45927, "output_tokens": 526, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q044", "answer": "Beekeeping", "turns": 4, "wall_s": 13.1, "input_tokens": 46773, "output_tokens": 631, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q049", "answer": "Film photography", "turns": 4, "wall_s": 10.3, "input_tokens": 45718, "output_tokens": 589, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q055", "answer": "TU Delft", "turns": 4, "wall_s": 7.8, "input_tokens": 45667, "output_tokens": 502, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q052", "answer": "Pottery", "turns": 4, "wall_s": 12.1, "input_tokens": 49752, "output_tokens": 810, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q056", "answer": "Engineering manager", "turns": 3, "wall_s": 9.0, "input_tokens": 45743, "output_tokens": 421, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q070", "answer": "Cordoba", "turns": 5, "wall_s": 14.0, "input_tokens": 48416, "output_tokens": 833, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q072", "answer": "Valparaiso", "turns": 3, "wall_s": 10.6, "input_tokens": 30575, "output_tokens": 479, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q077", "answer": "Hobart", "turns": 3, "wall_s": 11.0, "input_tokens": 46002, "output_tokens": 763, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q076", "answer": "Cordoba", "turns": 4, "wall_s": 11.9, "input_tokens": 47939, "output_tokens": 604, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q075", "answer": "Madison", "turns": 4, "wall_s": 13.5, "input_tokens": 47531, "output_tokens": 682, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q079", "answer": "Ljubljana", "turns": 4, "wall_s": 15.4, "input_tokens": 45446, "output_tokens": 678, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q078", "answer": "Ljubljana", "turns": 3, "wall_s": 19.4, "input_tokens": 46574, "output_tokens": 646, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q096", "answer": "2026-07-19", "turns": 4, "wall_s": 18.3, "input_tokens": 48364, "output_tokens": 776, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q085", "answer": "2026-06-28", "turns": 4, "wall_s": 19.4, "input_tokens": 50049, "output_tokens": 1007, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q094", "answer": "2026-05-19", "turns": 5, "wall_s": 19.3, "input_tokens": 50837, "output_tokens": 1044, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q102", "answer": "2026-08-07", "turns": 6, "wall_s": 20.7, "input_tokens": 67319, "output_tokens": 1036, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q101", "answer": "2026-08-11", "turns": 3, "wall_s": 24.8, "input_tokens": 46782, "output_tokens": 834, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q110", "answer": "Kiteline", "turns": 3, "wall_s": 17.7, "input_tokens": 30147, "output_tokens": 461, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q103", "answer": "2026-06-10", "turns": 3, "wall_s": 21.1, "input_tokens": 32198, "output_tokens": 733, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q115", "answer": "Pinecrest Data (as of 2026-08-18)", "turns": 4, "wall_s": 24.2, "input_tokens": 46970, "output_tokens": 666, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q130", "answer": "Saltmarsh Studio", "turns": 3, "wall_s": 16.8, "input_tokens": 45439, "output_tokens": 538, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q129", "answer": "Brightwater AI", "turns": 4, "wall_s": 18.2, "input_tokens": 46255, "output_tokens": 577, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q131", "answer": "Lumen Fold", "turns": 3, "wall_s": 19.0, "input_tokens": 45904, "output_tokens": 580, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q132", "answer": "Competitive chess (not trail running); the notes don't specify weekends.", "turns": 4, "wall_s": 18.7, "input_tokens": 47087, "output_tokens": 827, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q135", "answer": "Open-water swimming (the notes don't say what he does on weekends specifically)", "turns": 5, "wall_s": 17.0, "input_tokens": 50548, "output_tokens": 1150, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q147", "answer": "Zig", "turns": 3, "wall_s": 9.3, "input_tokens": 31719, "output_tokens": 536, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q149", "answer": "Python", "turns": 4, "wall_s": 12.1, "input_tokens": 47779, "output_tokens": 577, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q155", "answer": "Valentin Quiroga", "turns": 5, "wall_s": 12.7, "input_tokens": 51390, "output_tokens": 891, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q158", "answer": "Celeste Sorensen (handed over from Ilse Brandt on 2026-07-10)", "turns": 4, "wall_s": 11.9, "input_tokens": 48662, "output_tokens": 789, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q161", "answer": "Anika Achterberg", "turns": 4, "wall_s": 15.3, "input_tokens": 49365, "output_tokens": 634, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q159", "answer": "Goran Pacheco", "turns": 5, "wall_s": 17.3, "input_tokens": 70511, "output_tokens": 1016, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q172", "answer": "Paused (since 2026-06-22); waiting on Jonas Ulloa for one thing as of 2026-08-25.", "turns": 3, "wall_s": 16.7, "input_tokens": 31521, "output_tokens": 968, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q174", "answer": "In beta, owned by Dmitri Sandoval; target 2026-07-22 has passed with no shipping note.", "turns": 4, "wall_s": 18.7, "input_tokens": 50926, "output_tokens": 1395, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q176", "answer": "Leipzig", "turns": 7, "wall_s": 16.6, "input_tokens": 49083, "output_tokens": 875, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q179", "answer": "Pinecrest Data", "turns": 5, "wall_s": 17.5, "input_tokens": 50434, "output_tokens": 1079, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q178", "answer": "Madison", "turns": 9, "wall_s": 24.5, "input_tokens": 120987, "output_tokens": 1460, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q180", "answer": "Valparaiso", "turns": 8, "wall_s": 21.0, "input_tokens": 134326, "output_tokens": 1264, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q182", "answer": "Madison", "turns": 7, "wall_s": 17.5, "input_tokens": 111685, "output_tokens": 1017, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q181", "answer": "Embergate", "turns": 6, "wall_s": 20.7, "input_tokens": 83168, "output_tokens": 904, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q191", "answer": "Brightwater AI", "turns": 5, "wall_s": 18.7, "input_tokens": 67593, "output_tokens": 849, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q198", "answer": "Cordoba", "turns": 8, "wall_s": 12.6, "input_tokens": 101287, "output_tokens": 1157, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q194", "answer": "Austin", "turns": 6, "wall_s": 13.8, "input_tokens": 71796, "output_tokens": 939, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q192", "answer": "Madison", "turns": 7, "wall_s": 17.3, "input_tokens": 84038, "output_tokens": 1051, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q201", "answer": "Marrow & Finch", "turns": 5, "wall_s": 12.2, "input_tokens": 53107, "output_tokens": 900, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q203", "answer": "Brightwater AI", "turns": 4, "wall_s": 17.1, "input_tokens": 50161, "output_tokens": 1033, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q226", "answer": "Porto", "turns": 6, "wall_s": 12.2, "input_tokens": 72936, "output_tokens": 1001, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q216", "answer": "Krak\u00f3w", "turns": 6, "wall_s": 17.8, "input_tokens": 70713, "output_tokens": 1055, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q220", "answer": "Madison", "turns": 7, "wall_s": 21.8, "input_tokens": 86588, "output_tokens": 993, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q229", "answer": "Juniper Systems", "turns": 3, "wall_s": 15.9, "input_tokens": 31901, "output_tokens": 615, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q227", "answer": "Halcyon Bio", "turns": 8, "wall_s": 28.4, "input_tokens": 136859, "output_tokens": 1742, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q237", "answer": "2026-03-16", "turns": 5, "wall_s": 17.6, "input_tokens": 49834, "output_tokens": 837, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q240", "answer": "2026-03-05", "turns": 5, "wall_s": 18.4, "input_tokens": 48573, "output_tokens": 823, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q245", "answer": "At a friend's dinner party on 2026-03-16 (where Farah Thorsen introduced us to Marisol Mbeki, who introduced me to Quentin Abara).", "turns": 3, "wall_s": 14.9, "input_tokens": 47808, "output_tokens": 688, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q251", "answer": "PyData Porto (2026-04-29)", "turns": 3, "wall_s": 13.2, "input_tokens": 48174, "output_tokens": 634, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q256", "answer": "2026-05-20", "turns": 3, "wall_s": 13.7, "input_tokens": 46669, "output_tokens": 542, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q254", "answer": "2026-04-09 (a friend's dinner party, where I met Bilal Brennan)", "turns": 3, "wall_s": 15.1, "input_tokens": 48299, "output_tokens": 822, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q269", "answer": "Caio Kaminski and Wendell Wainwright", "turns": 2, "wall_s": 13.4, "input_tokens": 29818, "output_tokens": 383, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q267", "answer": "Farah Thorsen, Wendell Wainwright", "turns": 2, "wall_s": 14.8, "input_tokens": 29652, "output_tokens": 804, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q275", "answer": "Kavya Engel and Bilal Brennan (the memory summary also lists Celeste Sorensen, which the project note doesn't mention)", "turns": 2, "wall_s": 11.3, "input_tokens": 29815, "output_tokens": 572, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q282", "answer": "Elif Ivanova, Wendell Aldana, Dario Rasmussen", "turns": 3, "wall_s": 17.3, "input_tokens": 47104, "output_tokens": 994, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q281", "answer": "Dmitri Sandoval, Farah Thorsen, Jun Delacroix", "turns": 3, "wall_s": 22.4, "input_tokens": 47003, "output_tokens": 1003, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q287", "answer": "Zara Ramires and Zara Pellegrino", "turns": 2, "wall_s": 17.6, "input_tokens": 29763, "output_tokens": 324, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q283", "answer": "Hana Halvorsen, Anika Achterberg, Ilse Dimitriou", "turns": 3, "wall_s": 21.1, "input_tokens": 48203, "output_tokens": 1088, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q289", "answer": "Rosa Nakamura, Priya Marchetti, Felix Castellano (joined 2026-08-20)", "turns": 3, "wall_s": 19.8, "input_tokens": 46815, "output_tokens": 912, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q294", "answer": "Celeste Sorensen (2026-04-08), Jonas Gutierrez (2026-05-29), Oskar Lindgren (2026-06-02), Yusuf Zubiri (2026-07-10)", "turns": 2, "wall_s": 19.2, "input_tokens": 30222, "output_tokens": 882, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q296", "answer": "2026-07-20", "turns": 3, "wall_s": 21.0, "input_tokens": 46343, "output_tokens": 384, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q303", "answer": "2026-03-25", "turns": 3, "wall_s": 20.6, "input_tokens": 30254, "output_tokens": 467, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q304", "answer": "2026-08-18", "turns": 4, "wall_s": 26.2, "input_tokens": 45995, "output_tokens": 616, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q310", "answer": "2026-04-09", "turns": 5, "wall_s": 27.6, "input_tokens": 48812, "output_tokens": 737, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q317", "answer": "2026-06-03", "turns": 3, "wall_s": 21.4, "input_tokens": 29991, "output_tokens": 390, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q326", "answer": "unknown", "turns": 2, "wall_s": 22.2, "input_tokens": 30652, "output_tokens": 524, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q327", "answer": "unknown", "turns": 5, "wall_s": 23.3, "input_tokens": 46336, "output_tokens": 688, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q341", "answer": "unknown", "turns": 4, "wall_s": 18.8, "input_tokens": 47924, "output_tokens": 570, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q344", "answer": "unknown", "turns": 3, "wall_s": 18.1, "input_tokens": 45662, "output_tokens": 447, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q345", "answer": "unknown", "turns": 4, "wall_s": 19.5, "input_tokens": 46497, "output_tokens": 569, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q349", "answer": "unknown", "turns": 5, "wall_s": 21.9, "input_tokens": 47251, "output_tokens": 768, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q346", "answer": "unknown", "turns": 4, "wall_s": 26.6, "input_tokens": 45311, "output_tokens": 499, "subtype": "success"}
+{"setup": "memory", "model": "haiku", "id": "q351", "answer": "unknown", "turns": 4, "wall_s": 27.7, "input_tokens": 49509, "output_tokens": 782, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q008", "answer": "ML researcher", "turns": 5, "wall_s": 29.7, "input_tokens": 24754, "output_tokens": 666, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q000", "answer": "Olive", "turns": 7, "wall_s": 33.8, "input_tokens": 56667, "output_tokens": 1172, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q016", "answer": "Competitive chess, including tournaments (per the 2026-04-02 daily note).", "turns": 5, "wall_s": 26.9, "input_tokens": 25421, "output_tokens": 1072, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q018", "answer": "2026-04-08", "turns": 5, "wall_s": 30.9, "input_tokens": 32869, "output_tokens": 780, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q020", "answer": "At a climbing gym session, on 2026-04-15", "turns": 4, "wall_s": 24.2, "input_tokens": 30356, "output_tokens": 715, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q022", "answer": "A climbing gym session, 2026-04-24", "turns": 6, "wall_s": 22.2, "input_tokens": 20925, "output_tokens": 1035, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q023", "answer": "2026-04-29 (at the RustConf meetup)", "turns": 5, "wall_s": 22.1, "input_tokens": 26192, "output_tokens": 1166, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q027", "answer": "Pixel", "turns": 6, "wall_s": 18.4, "input_tokens": 34655, "output_tokens": 959, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q033", "answer": "2026-05-21", "turns": 5, "wall_s": 20.0, "input_tokens": 32740, "output_tokens": 766, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q035", "answer": "Ziggy", "turns": 5, "wall_s": 21.6, "input_tokens": 14628, "output_tokens": 828, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q040", "answer": "2026-05-29", "turns": 5, "wall_s": 20.5, "input_tokens": 27919, "output_tokens": 708, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q036", "answer": "At the open-source sprint, on 2026-05-26", "turns": 6, "wall_s": 24.0, "input_tokens": 30600, "output_tokens": 864, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q044", "answer": "Beekeeping", "turns": 7, "wall_s": 28.4, "input_tokens": 34896, "output_tokens": 1015, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q049", "answer": "Film photography (per the 2026-07-02 daily note)", "turns": 5, "wall_s": 25.2, "input_tokens": 25718, "output_tokens": 758, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q047", "answer": "2026-06-12", "turns": 8, "wall_s": 27.7, "input_tokens": 32154, "output_tokens": 965, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q052", "answer": "Pottery", "turns": 6, "wall_s": 29.1, "input_tokens": 37667, "output_tokens": 1176, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q056", "answer": "Engineering manager (at Northwind Labs)", "turns": 5, "wall_s": 18.0, "input_tokens": 25968, "output_tokens": 647, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q055", "answer": "TU Delft", "turns": 6, "wall_s": 29.3, "input_tokens": 40428, "output_tokens": 817, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q070", "answer": "Cordoba", "turns": 7, "wall_s": 21.4, "input_tokens": 38733, "output_tokens": 1588, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q075", "answer": "Madison", "turns": 4, "wall_s": 12.0, "input_tokens": 30528, "output_tokens": 933, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q077", "answer": "Hobart", "turns": 5, "wall_s": 12.4, "input_tokens": 26161, "output_tokens": 1532, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q072", "answer": "Valparaiso", "turns": 9, "wall_s": 25.8, "input_tokens": 51958, "output_tokens": 2179, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q076", "answer": "Cordoba", "turns": 8, "wall_s": 16.7, "input_tokens": 48260, "output_tokens": 1903, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q079", "answer": "Ljubljana", "turns": 7, "wall_s": 11.7, "input_tokens": 44541, "output_tokens": 1085, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q078", "answer": "Ljubljana", "turns": 7, "wall_s": 12.8, "input_tokens": 30079, "output_tokens": 1465, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q085", "answer": "2026-06-28", "turns": 8, "wall_s": 11.4, "input_tokens": 32098, "output_tokens": 1531, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q094", "answer": "2026-05-19", "turns": 6, "wall_s": 17.9, "input_tokens": 35881, "output_tokens": 1191, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q096", "answer": "2026-07-19", "turns": 6, "wall_s": 17.3, "input_tokens": 27028, "output_tokens": 1017, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q102", "answer": "2026-08-07", "turns": 5, "wall_s": 17.6, "input_tokens": 22516, "output_tokens": 1023, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q101", "answer": "2026-08-11", "turns": 7, "wall_s": 18.3, "input_tokens": 34313, "output_tokens": 1336, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q115", "answer": "Pinecrest Data", "turns": 3, "wall_s": 13.5, "input_tokens": 15708, "output_tokens": 575, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q110", "answer": "Kiteline", "turns": 7, "wall_s": 16.6, "input_tokens": 34520, "output_tokens": 1396, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q103", "answer": "2026-06-10", "turns": 7, "wall_s": 23.5, "input_tokens": 49947, "output_tokens": 1535, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q129", "answer": "Brightwater AI", "turns": 4, "wall_s": 11.3, "input_tokens": 23243, "output_tokens": 708, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q130", "answer": "Saltmarsh Studio", "turns": 5, "wall_s": 16.4, "input_tokens": 24554, "output_tokens": 1014, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q131", "answer": "Lumen Fold", "turns": 8, "wall_s": 16.8, "input_tokens": 32599, "output_tokens": 1412, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q147", "answer": "Zig", "turns": 4, "wall_s": 16.3, "input_tokens": 31464, "output_tokens": 927, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q132", "answer": "Competitive chess (per the 2026-08-28 correction; the notes don't say what they do on weekends specifically)", "turns": 6, "wall_s": 18.7, "input_tokens": 28801, "output_tokens": 1235, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q135", "answer": "unknown (the notes only say he is into open-water swimming, per the 2026-06-25 correction; no weekend activities are recorded)", "turns": 7, "wall_s": 20.1, "input_tokens": 47287, "output_tokens": 1387, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q149", "answer": "Python", "turns": 5, "wall_s": 15.3, "input_tokens": 30139, "output_tokens": 750, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q155", "answer": "Valentin Quiroga", "turns": 3, "wall_s": 11.6, "input_tokens": 19641, "output_tokens": 564, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q158", "answer": "Celeste Sorensen", "turns": 5, "wall_s": 13.2, "input_tokens": 25403, "output_tokens": 915, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q159", "answer": "Goran Pacheco", "turns": 6, "wall_s": 13.1, "input_tokens": 39987, "output_tokens": 1069, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q161", "answer": "Anika Achterberg", "turns": 5, "wall_s": 12.6, "input_tokens": 28206, "output_tokens": 842, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q172", "answer": "Paused (as of 2026-06-22); no resumption recorded, latest check-in 2026-08-25", "turns": 8, "wall_s": 15.2, "input_tokens": 33715, "output_tokens": 1827, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q174", "answer": "Active, with a target of 2026-07-22 (as of 2026-08-18); no completion recorded.", "turns": 7, "wall_s": 12.6, "input_tokens": 36757, "output_tokens": 1621, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q176", "answer": "Leipzig", "turns": 9, "wall_s": 17.1, "input_tokens": 64403, "output_tokens": 1596, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q181", "answer": "Embergate", "turns": 10, "wall_s": 14.0, "input_tokens": 51092, "output_tokens": 1621, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q178", "answer": "Madison", "turns": 12, "wall_s": 22.9, "input_tokens": 109718, "output_tokens": 2320, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q180", "answer": "Valparaiso", "turns": 11, "wall_s": 20.7, "input_tokens": 101102, "output_tokens": 2516, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q179", "answer": "Pinecrest Data", "turns": 17, "wall_s": 30.5, "input_tokens": 155602, "output_tokens": 3043, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q182", "answer": "Madison", "turns": 9, "wall_s": 17.3, "input_tokens": 119036, "output_tokens": 1369, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q191", "answer": "Brightwater AI", "turns": 11, "wall_s": 16.6, "input_tokens": 63894, "output_tokens": 1489, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q192", "answer": "Madison", "turns": 9, "wall_s": 15.5, "input_tokens": 66012, "output_tokens": 1679, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q194", "answer": "Austin", "turns": 11, "wall_s": 15.0, "input_tokens": 67679, "output_tokens": 1873, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q201", "answer": "Marrow & Finch", "turns": 6, "wall_s": 15.5, "input_tokens": 76342, "output_tokens": 1208, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q198", "answer": "Cordoba", "turns": 10, "wall_s": 18.7, "input_tokens": 143042, "output_tokens": 1873, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q203", "answer": "Brightwater AI", "turns": 10, "wall_s": 14.0, "input_tokens": 86058, "output_tokens": 1901, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q216", "answer": "Krak\u00f3w", "turns": 7, "wall_s": 15.8, "input_tokens": 78647, "output_tokens": 1524, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q220", "answer": "Madison", "turns": 8, "wall_s": 20.3, "input_tokens": 78607, "output_tokens": 1238, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q229", "answer": "Juniper Systems", "turns": 9, "wall_s": 13.3, "input_tokens": 70153, "output_tokens": 1414, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q227", "answer": "Halcyon Bio", "turns": 8, "wall_s": 15.4, "input_tokens": 82299, "output_tokens": 1687, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q237", "answer": "At a friend's dinner party, on 2026-03-16", "turns": 7, "wall_s": 13.3, "input_tokens": 37403, "output_tokens": 1265, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q226", "answer": "Porto", "turns": 13, "wall_s": 21.3, "input_tokens": 108053, "output_tokens": 2892, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q240", "answer": "2026-03-05", "turns": 5, "wall_s": 10.8, "input_tokens": 40262, "output_tokens": 1025, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q245", "answer": "At a friend's dinner party, on 2026-03-16", "turns": 7, "wall_s": 13.7, "input_tokens": 52639, "output_tokens": 1151, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q251", "answer": "PyData Porto (2026-04-29)", "turns": 7, "wall_s": 12.7, "input_tokens": 29613, "output_tokens": 1348, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q254", "answer": "2026-04-09", "turns": 7, "wall_s": 13.1, "input_tokens": 70306, "output_tokens": 1413, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q256", "answer": "The RustConf meetup, 2026-05-20", "turns": 5, "wall_s": 10.2, "input_tokens": 25902, "output_tokens": 882, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q267", "answer": "Farah Thorsen and Wendell Wainwright", "turns": 6, "wall_s": 14.8, "input_tokens": 54342, "output_tokens": 1236, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q275", "answer": "Kavya Engel, Bilal Brennan, Celeste Sorensen", "turns": 7, "wall_s": 10.2, "input_tokens": 31407, "output_tokens": 1297, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q269", "answer": "Caio Kaminski and Wendell Wainwright", "turns": 7, "wall_s": 14.1, "input_tokens": 63656, "output_tokens": 1461, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q282", "answer": "Dario Rasmussen, Elif Ivanova, and Wendell Aldana", "turns": 7, "wall_s": 13.1, "input_tokens": 35095, "output_tokens": 1720, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q281", "answer": "Dmitri Sandoval, Farah Thorsen", "turns": 7, "wall_s": 16.3, "input_tokens": 44344, "output_tokens": 1484, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q283", "answer": "Hana Halvorsen and Anika Achterberg", "turns": 9, "wall_s": 13.1, "input_tokens": 39525, "output_tokens": 1691, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q287", "answer": "Zara Ramires, Zara Pellegrino", "turns": 6, "wall_s": 14.3, "input_tokens": 46643, "output_tokens": 1097, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q289", "answer": "Rosa Nakamura, Priya Marchetti, Felix Castellano", "turns": 9, "wall_s": 13.7, "input_tokens": 42310, "output_tokens": 1470, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q294", "answer": "Celeste Sorensen (2026-04-08), Jonas Gutierrez (2026-05-29), Oskar Lindgren (2026-06-02), Yusuf Zubiri (2026-07-10)", "turns": 4, "wall_s": 14.1, "input_tokens": 25649, "output_tokens": 1324, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q296", "answer": "2026-07-20", "turns": 7, "wall_s": 13.2, "input_tokens": 26596, "output_tokens": 1018, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q317", "answer": "2026-06-03", "turns": 5, "wall_s": 6.7, "input_tokens": 14977, "output_tokens": 913, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q303", "answer": "2026-03-25", "turns": 7, "wall_s": 15.1, "input_tokens": 37951, "output_tokens": 1806, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q304", "answer": "2026-08-18", "turns": 5, "wall_s": 14.0, "input_tokens": 28172, "output_tokens": 1132, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q310", "answer": "2026-04-09", "turns": 6, "wall_s": 11.4, "input_tokens": 34167, "output_tokens": 1129, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q326", "answer": "unknown", "turns": 8, "wall_s": 13.4, "input_tokens": 44000, "output_tokens": 1520, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q327", "answer": "unknown", "turns": 6, "wall_s": 8.9, "input_tokens": 46671, "output_tokens": 928, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q341", "answer": "unknown", "turns": 6, "wall_s": 9.7, "input_tokens": 54114, "output_tokens": 995, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q344", "answer": "unknown", "turns": 7, "wall_s": 10.8, "input_tokens": 43016, "output_tokens": 1186, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q345", "answer": "unknown", "turns": 6, "wall_s": 11.2, "input_tokens": 44155, "output_tokens": 993, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q346", "answer": "unknown", "turns": 7, "wall_s": 7.9, "input_tokens": 32154, "output_tokens": 1206, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q349", "answer": "unknown", "turns": 5, "wall_s": 9.3, "input_tokens": 38580, "output_tokens": 804, "subtype": "success"}
+{"setup": "cards", "model": "haiku", "id": "q351", "answer": "unknown", "turns": 9, "wall_s": 12.9, "input_tokens": 50895, "output_tokens": 1939, "subtype": "success"}

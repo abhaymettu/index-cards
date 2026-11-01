@@ -1,0 +1,2792 @@
+{
+ "history": [
+  [
+   "deadline",
+   "Kestrel-Sync",
+   "2026-07-01",
+   "2026-07-18",
+   127
+  ],
+  [
+   "lang",
+   "Kestrel-Sync",
+   "Zig",
+   "Clojure",
+   143
+  ],
+  [
+   "status",
+   "Kestrel-Sync",
+   "active",
+   "in beta",
+   155
+  ],
+  [
+   "deadline",
+   "Orchard-Maps",
+   "2026-07-31",
+   "2026-08-24",
+   119
+  ],
+  [
+   "owner",
+   "Orchard-Maps",
+   "Mateo Rahman",
+   "Hugo Rasmussen",
+   129
+  ],
+  [
+   "deadline",
+   "Lantern-CI",
+   "2026-06-10",
+   "2026-06-21",
+   46
+  ],
+  [
+   "owner",
+   "Lantern-CI",
+   "Farah Pacheco",
+   "Gideon Galloway",
+   65
+  ],
+  [
+   "deadline",
+   "Bramble-DB",
+   "2026-05-23",
+   "2026-06-06",
+   35
+  ],
+  [
+   "status",
+   "Bramble-DB",
+   "active",
+   "paused",
+   151
+  ],
+  [
+   "deadline",
+   "Quarry-Vision",
+   "2026-05-14",
+   "2026-05-26",
+   65
+  ],
+  [
+   "owner",
+   "Quarry-Vision",
+   "Wendell Eriksen",
+   "Vera Abara",
+   84
+  ],
+  [
+   "status",
+   "Quarry-Vision",
+   "active",
+   "paused",
+   168
+  ],
+  [
+   "deadline",
+   "Tidewater-API",
+   "2026-07-06",
+   "2026-07-20",
+   84
+  ],
+  [
+   "lang",
+   "Tidewater-API",
+   "OCaml",
+   "Go",
+   109
+  ],
+  [
+   "status",
+   "Tidewater-API",
+   "active",
+   "shipped",
+   133
+  ],
+  [
+   "deadline",
+   "Saffron-Notes",
+   "2026-06-05",
+   "2026-07-09",
+   51
+  ],
+  [
+   "lang",
+   "Saffron-Notes",
+   "Clojure",
+   "Swift",
+   135
+  ],
+  [
+   "status",
+   "Saffron-Notes",
+   "active",
+   "in beta",
+   112
+  ],
+  [
+   "deadline",
+   "Gullwing-Auth",
+   "2026-07-02",
+   "2026-07-26",
+   60
+  ],
+  [
+   "deadline",
+   "Gullwing-Auth",
+   "2026-07-26",
+   "2026-08-26",
+   73
+  ],
+  [
+   "status",
+   "Gullwing-Auth",
+   "active",
+   "shipped",
+   149
+  ],
+  [
+   "deadline",
+   "Mosaic-Ledger",
+   "2026-05-24",
+   "2026-06-15",
+   51
+  ],
+  [
+   "deadline",
+   "Cinder-Queue",
+   "2026-06-07",
+   "2026-06-19",
+   63
+  ],
+  [
+   "deadline",
+   "Heron-Eval",
+   "2026-05-20",
+   "2026-06-13",
+   39
+  ],
+  [
+   "lang",
+   "Heron-Eval",
+   "Elixir",
+   "Swift",
+   108
+  ],
+  [
+   "owner",
+   "Heron-Eval",
+   "Ximena Brennan",
+   "Yusuf Laurent",
+   133
+  ],
+  [
+   "deadline",
+   "Pebble-Shell",
+   "2026-06-16",
+   "2026-07-01",
+   64
+  ],
+  [
+   "lang",
+   "Pebble-Shell",
+   "Go",
+   "Elixir",
+   142
+  ],
+  [
+   "employer",
+   "Ximena Brennan",
+   "Quillfeather",
+   "Juniper Systems",
+   108
+  ],
+  [
+   "employer",
+   "Mateo Rahman",
+   "Marrow & Finch",
+   "Quillfeather",
+   116
+  ],
+  [
+   "employer",
+   "Oskar Moreau",
+   "Tessellate",
+   "Pinecrest Data",
+   172
+  ],
+  [
+   "employer",
+   "Lior Fontaine",
+   "Juniper Systems",
+   "Kiteline",
+   141
+  ],
+  [
+   "employer",
+   "Ines Nakamura",
+   "Kiteline",
+   "Embergate",
+   156
+  ],
+  [
+   "employer",
+   "Sven Sato",
+   "Juniper Systems",
+   "Kiteline",
+   136
+  ],
+  [
+   "employer",
+   "Rosa Kowalczyk",
+   "Brightwater AI",
+   "Cobalt Harbor",
+   141
+  ],
+  [
+   "employer",
+   "Priya Castellano",
+   "Juniper Systems",
+   "Kiteline",
+   109
+  ],
+  [
+   "employer",
+   "Wendell Eriksen",
+   "Quillfeather",
+   "Verdant Grid",
+   172
+  ],
+  [
+   "city",
+   "Lior Fontaine",
+   "Porto",
+   "Hobart",
+   121
+  ],
+  [
+   "city",
+   "Jun Haddad",
+   "Cordoba",
+   "Krak\u00f3w",
+   178
+  ],
+  [
+   "city",
+   "Chioma Oyelaran",
+   "Leipzig",
+   "Tallinn",
+   155
+  ],
+  [
+   "city",
+   "Felix Trevino",
+   "Bergen",
+   "Porto",
+   119
+  ],
+  [
+   "city",
+   "Nadia Ashdown",
+   "Ljubljana",
+   "Cordoba",
+   73
+  ],
+  [
+   "city",
+   "Ivo Yilmaz",
+   "Leipzig",
+   "Ljubljana",
+   136
+  ],
+  [
+   "hobby",
+   "Dmitri Okonkwo",
+   "fencing",
+   "beekeeping",
+   164
+  ],
+  [
+   "hobby",
+   "Hana Wexler",
+   "film photography",
+   "beekeeping",
+   148
+  ],
+  [
+   "hobby",
+   "Rosa Kowalczyk",
+   "sourdough baking",
+   "competitive chess",
+   164
+  ],
+  [
+   "hobby",
+   "Joaquin Vasquez",
+   "sourdough baking",
+   "trail running",
+   120
+  ],
+  [
+   "hobby",
+   "Wendell Eriksen",
+   "woodworking",
+   "fencing",
+   37
+  ],
+  [
+   "hobby",
+   "Zara Szabo",
+   "film photography",
+   "woodworking",
+   149
+  ]
+ ],
+ "log": [
+  {
+   "day": 0,
+   "kind": "meet",
+   "person": "Wendell Eriksen"
+  },
+  {
+   "day": 1,
+   "kind": "meet",
+   "person": "Rosa Kowalczyk"
+  },
+  {
+   "day": 3,
+   "kind": "kickoff",
+   "project": "Bramble-DB"
+  },
+  {
+   "day": 8,
+   "kind": "hobby_wrong",
+   "person": "Wendell Eriksen",
+   "value": "woodworking"
+  },
+  {
+   "day": 11,
+   "kind": "kickoff",
+   "project": "Saffron-Notes"
+  },
+  {
+   "day": 15,
+   "kind": "meet",
+   "person": "Jun Haddad"
+  },
+  {
+   "day": 17,
+   "kind": "hobby_wrong",
+   "person": "Rosa Kowalczyk",
+   "value": "sourdough baking"
+  },
+  {
+   "day": 17,
+   "kind": "meet",
+   "person": "Vera Abara"
+  },
+  {
+   "day": 18,
+   "kind": "kickoff",
+   "project": "Quarry-Vision"
+  },
+  {
+   "day": 18,
+   "kind": "meet",
+   "person": "Farah Pacheco"
+  },
+  {
+   "day": 18,
+   "kind": "meet",
+   "person": "Ximena Brennan"
+  },
+  {
+   "day": 21,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Farah Pacheco",
+   "topic": "travel plans"
+  },
+  {
+   "day": 22,
+   "kind": "kickoff",
+   "project": "Lantern-CI"
+  },
+  {
+   "day": 22,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Wendell Eriksen",
+   "topic": "pricing"
+  },
+  {
+   "day": 22,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Jun Haddad",
+   "topic": "Orchard-Maps"
+  },
+  {
+   "day": 23,
+   "kind": "hobby",
+   "person": "Jun Haddad"
+  },
+  {
+   "day": 24,
+   "kind": "meet",
+   "person": "Bilal Varga"
+  },
+  {
+   "day": 28,
+   "kind": "hobby",
+   "person": "Farah Pacheco"
+  },
+  {
+   "day": 29,
+   "kind": "hobby",
+   "person": "Ximena Brennan"
+  },
+  {
+   "day": 30,
+   "kind": "kickoff",
+   "project": "Heron-Eval"
+  },
+  {
+   "day": 35,
+   "kind": "deadline",
+   "new": "2026-06-06",
+   "old": "2026-05-23",
+   "project": "Bramble-DB"
+  },
+  {
+   "day": 35,
+   "kind": "kickoff",
+   "project": "Pebble-Shell"
+  },
+  {
+   "day": 36,
+   "kind": "hobby",
+   "person": "Vera Abara"
+  },
+  {
+   "day": 36,
+   "kind": "kickoff",
+   "project": "Mosaic-Ledger"
+  },
+  {
+   "day": 37,
+   "kind": "hobby_fix",
+   "new": "fencing",
+   "old": "woodworking",
+   "person": "Wendell Eriksen"
+  },
+  {
+   "day": 38,
+   "kind": "kickoff",
+   "project": "Gullwing-Auth"
+  },
+  {
+   "day": 38,
+   "kind": "kickoff",
+   "project": "Tidewater-API"
+  },
+  {
+   "day": 38,
+   "kind": "meet",
+   "person": "Gideon Galloway"
+  },
+  {
+   "day": 39,
+   "kind": "deadline",
+   "new": "2026-06-13",
+   "old": "2026-05-20",
+   "project": "Heron-Eval"
+  },
+  {
+   "day": 42,
+   "kind": "meet",
+   "person": "Nadia Ashdown"
+  },
+  {
+   "day": 43,
+   "kind": "join",
+   "person": "Farah Pacheco",
+   "project": "Heron-Eval"
+  },
+  {
+   "day": 43,
+   "kind": "meet",
+   "person": "Lior Fontaine"
+  },
+  {
+   "day": 45,
+   "kind": "pet",
+   "person": "Gideon Galloway"
+  },
+  {
+   "day": 46,
+   "kind": "deadline",
+   "new": "2026-06-21",
+   "old": "2026-06-10",
+   "project": "Lantern-CI"
+  },
+  {
+   "day": 46,
+   "kind": "meet",
+   "person": "Ana Jaramillo"
+  },
+  {
+   "day": 49,
+   "kind": "hobby",
+   "person": "Nadia Ashdown"
+  },
+  {
+   "day": 51,
+   "kind": "deadline",
+   "new": "2026-06-15",
+   "old": "2026-05-24",
+   "project": "Mosaic-Ledger"
+  },
+  {
+   "day": 51,
+   "kind": "deadline",
+   "new": "2026-07-09",
+   "old": "2026-06-05",
+   "project": "Saffron-Notes"
+  },
+  {
+   "day": 52,
+   "kind": "meet",
+   "person": "Bruno Delacroix"
+  },
+  {
+   "day": 53,
+   "kind": "hobby",
+   "person": "Bilal Varga"
+  },
+  {
+   "day": 53,
+   "kind": "kickoff",
+   "project": "Cinder-Queue"
+  },
+  {
+   "day": 53,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Gideon Galloway",
+   "topic": "Lantern-CI"
+  },
+  {
+   "day": 57,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Nadia Ashdown",
+   "topic": "the job market"
+  },
+  {
+   "day": 59,
+   "kind": "meet",
+   "person": "Priya Castellano"
+  },
+  {
+   "day": 59,
+   "kind": "meet",
+   "person": "Quentin Calloway"
+  },
+  {
+   "day": 59,
+   "kind": "pet",
+   "person": "Quentin Calloway"
+  },
+  {
+   "day": 59,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Rosa Kowalczyk",
+   "topic": "pricing"
+  },
+  {
+   "day": 60,
+   "kind": "deadline",
+   "new": "2026-07-26",
+   "old": "2026-07-02",
+   "project": "Gullwing-Auth"
+  },
+  {
+   "day": 60,
+   "kind": "hobby",
+   "person": "Bruno Delacroix"
+  },
+  {
+   "day": 60,
+   "kind": "hobby",
+   "person": "Lior Fontaine"
+  },
+  {
+   "day": 60,
+   "kind": "hobby",
+   "person": "Priya Castellano"
+  },
+  {
+   "day": 60,
+   "kind": "hobby",
+   "person": "Quentin Calloway"
+  },
+  {
+   "day": 63,
+   "kind": "deadline",
+   "new": "2026-06-19",
+   "old": "2026-06-07",
+   "project": "Cinder-Queue"
+  },
+  {
+   "day": 64,
+   "kind": "deadline",
+   "new": "2026-07-01",
+   "old": "2026-06-16",
+   "project": "Pebble-Shell"
+  },
+  {
+   "day": 65,
+   "kind": "deadline",
+   "new": "2026-05-26",
+   "old": "2026-05-14",
+   "project": "Quarry-Vision"
+  },
+  {
+   "day": 65,
+   "kind": "owner",
+   "new": "Gideon Galloway",
+   "old": "Farah Pacheco",
+   "project": "Lantern-CI"
+  },
+  {
+   "day": 65,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Nadia Ashdown",
+   "topic": "Kestrel-Sync"
+  },
+  {
+   "day": 66,
+   "kind": "hobby",
+   "person": "Gideon Galloway"
+  },
+  {
+   "day": 66,
+   "kind": "meet",
+   "person": "Hugo Whitfield"
+  },
+  {
+   "day": 71,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Ximena Brennan",
+   "topic": "pricing"
+  },
+  {
+   "day": 71,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Quentin Calloway",
+   "topic": "Orchard-Maps"
+  },
+  {
+   "day": 72,
+   "kind": "meet",
+   "person": "Kavya Lindqvist"
+  },
+  {
+   "day": 72,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Ana Jaramillo",
+   "topic": "Kestrel-Sync"
+  },
+  {
+   "day": 73,
+   "kind": "city",
+   "new": "Cordoba",
+   "old": "Ljubljana",
+   "person": "Nadia Ashdown"
+  },
+  {
+   "day": 73,
+   "kind": "deadline",
+   "new": "2026-08-26",
+   "old": "2026-07-26",
+   "project": "Gullwing-Auth"
+  },
+  {
+   "day": 73,
+   "kind": "hobby",
+   "person": "Ana Jaramillo"
+  },
+  {
+   "day": 73,
+   "kind": "meet",
+   "person": "Mateo Rahman"
+  },
+  {
+   "day": 73,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Vera Abara",
+   "topic": "Quarry-Vision"
+  },
+  {
+   "day": 77,
+   "kind": "kickoff",
+   "project": "Orchard-Maps"
+  },
+  {
+   "day": 77,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Mateo Rahman",
+   "topic": "travel plans"
+  },
+  {
+   "day": 78,
+   "kind": "kickoff",
+   "project": "Kestrel-Sync"
+  },
+  {
+   "day": 78,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Mateo Rahman",
+   "topic": "Mosaic-Ledger"
+  },
+  {
+   "day": 79,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Gideon Galloway",
+   "topic": "Cinder-Queue"
+  },
+  {
+   "day": 80,
+   "kind": "hobby",
+   "person": "Kavya Lindqvist"
+  },
+  {
+   "day": 80,
+   "kind": "hobby_wrong",
+   "person": "Hana Wexler",
+   "value": "film photography"
+  },
+  {
+   "day": 80,
+   "kind": "meet",
+   "person": "Hana Wexler"
+  },
+  {
+   "day": 80,
+   "kind": "school",
+   "person": "Rosa Kowalczyk"
+  },
+  {
+   "day": 80,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Nadia Ashdown",
+   "topic": "pricing"
+  },
+  {
+   "day": 81,
+   "kind": "hobby",
+   "person": "Mateo Rahman"
+  },
+  {
+   "day": 81,
+   "kind": "meet",
+   "person": "Sven Sato"
+  },
+  {
+   "day": 81,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Quentin Calloway",
+   "topic": "a conference talk"
+  },
+  {
+   "day": 84,
+   "kind": "deadline",
+   "new": "2026-07-20",
+   "old": "2026-07-06",
+   "project": "Tidewater-API"
+  },
+  {
+   "day": 84,
+   "kind": "meet",
+   "person": "Hugo Rasmussen"
+  },
+  {
+   "day": 84,
+   "kind": "owner",
+   "new": "Vera Abara",
+   "old": "Wendell Eriksen",
+   "project": "Quarry-Vision"
+  },
+  {
+   "day": 85,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Hugo Whitfield",
+   "topic": "the job market"
+  },
+  {
+   "day": 86,
+   "kind": "hobby",
+   "person": "Hugo Rasmussen"
+  },
+  {
+   "day": 86,
+   "kind": "meet",
+   "person": "Joaquin Vasquez"
+  },
+  {
+   "day": 87,
+   "kind": "meet",
+   "person": "Ana Zielinski"
+  },
+  {
+   "day": 87,
+   "kind": "pet",
+   "person": "Sven Sato"
+  },
+  {
+   "day": 87,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Hana Wexler",
+   "topic": "on-call rotations"
+  },
+  {
+   "day": 87,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Kavya Lindqvist",
+   "topic": "Orchard-Maps"
+  },
+  {
+   "day": 88,
+   "kind": "hobby",
+   "person": "Hugo Whitfield"
+  },
+  {
+   "day": 88,
+   "kind": "meet",
+   "person": "Yusuf Laurent"
+  },
+  {
+   "day": 88,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Lior Fontaine",
+   "topic": "remote work"
+  },
+  {
+   "day": 88,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Nadia Ashdown",
+   "topic": "on-call rotations"
+  },
+  {
+   "day": 88,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Rosa Kowalczyk",
+   "topic": "Pebble-Shell"
+  },
+  {
+   "day": 91,
+   "kind": "meet",
+   "person": "Greta Quiroga"
+  },
+  {
+   "day": 92,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Farah Pacheco",
+   "topic": "on-call rotations"
+  },
+  {
+   "day": 93,
+   "kind": "hobby",
+   "person": "Ana Zielinski"
+  },
+  {
+   "day": 93,
+   "kind": "hobby",
+   "person": "Sven Sato"
+  },
+  {
+   "day": 93,
+   "kind": "meet",
+   "person": "Dario Tanaka"
+  },
+  {
+   "day": 93,
+   "kind": "meet",
+   "person": "Ines Nakamura"
+  },
+  {
+   "day": 93,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Quentin Calloway",
+   "topic": "a book they are reading"
+  },
+  {
+   "day": 93,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Joaquin Vasquez",
+   "topic": "pricing"
+  },
+  {
+   "day": 95,
+   "kind": "join",
+   "person": "Jun Haddad",
+   "project": "Orchard-Maps"
+  },
+  {
+   "day": 98,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Farah Pacheco",
+   "topic": "a side project idea"
+  },
+  {
+   "day": 98,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Hugo Whitfield",
+   "topic": "hiring plans"
+  },
+  {
+   "day": 98,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Bruno Delacroix",
+   "topic": "hiring plans"
+  },
+  {
+   "day": 99,
+   "kind": "pet",
+   "person": "Greta Quiroga"
+  },
+  {
+   "day": 99,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Dario Tanaka",
+   "topic": "a book they are reading"
+  },
+  {
+   "day": 99,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Greta Quiroga",
+   "topic": "a side project idea"
+  },
+  {
+   "day": 99,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Lior Fontaine",
+   "topic": "the job market"
+  },
+  {
+   "day": 100,
+   "kind": "meet",
+   "person": "Umar Iwasaki"
+  },
+  {
+   "day": 100,
+   "kind": "pet",
+   "person": "Kavya Lindqvist"
+  },
+  {
+   "day": 100,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Ana Zielinski",
+   "topic": "pricing"
+  },
+  {
+   "day": 101,
+   "kind": "hobby",
+   "person": "Dario Tanaka"
+  },
+  {
+   "day": 101,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Priya Castellano",
+   "topic": "hiring plans"
+  },
+  {
+   "day": 101,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Farah Pacheco",
+   "topic": "Heron-Eval"
+  },
+  {
+   "day": 101,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Dario Tanaka",
+   "topic": "pricing"
+  },
+  {
+   "day": 102,
+   "kind": "hobby_wrong",
+   "person": "Joaquin Vasquez",
+   "value": "sourdough baking"
+  },
+  {
+   "day": 102,
+   "kind": "meet",
+   "person": "Felix Trevino"
+  },
+  {
+   "day": 102,
+   "kind": "pet",
+   "person": "Mateo Rahman"
+  },
+  {
+   "day": 102,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Greta Quiroga",
+   "topic": "hiring plans"
+  },
+  {
+   "day": 102,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Lior Fontaine",
+   "topic": "travel plans"
+  },
+  {
+   "day": 105,
+   "kind": "hobby",
+   "person": "Umar Iwasaki"
+  },
+  {
+   "day": 105,
+   "kind": "pet",
+   "person": "Hugo Rasmussen"
+  },
+  {
+   "day": 106,
+   "kind": "join",
+   "person": "Mateo Rahman",
+   "project": "Mosaic-Ledger"
+  },
+  {
+   "day": 107,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Bruno Delacroix",
+   "topic": "the job market"
+  },
+  {
+   "day": 107,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Umar Iwasaki",
+   "topic": "travel plans"
+  },
+  {
+   "day": 108,
+   "kind": "employer",
+   "new": "Juniper Systems",
+   "old": "Quillfeather",
+   "person": "Ximena Brennan"
+  },
+  {
+   "day": 108,
+   "kind": "hobby",
+   "person": "Felix Trevino"
+  },
+  {
+   "day": 108,
+   "kind": "hobby",
+   "person": "Yusuf Laurent"
+  },
+  {
+   "day": 108,
+   "kind": "lang",
+   "new": "Swift",
+   "old": "Elixir",
+   "project": "Heron-Eval"
+  },
+  {
+   "day": 109,
+   "kind": "employer",
+   "new": "Kiteline",
+   "old": "Juniper Systems",
+   "person": "Priya Castellano"
+  },
+  {
+   "day": 109,
+   "kind": "hobby",
+   "person": "Ines Nakamura"
+  },
+  {
+   "day": 109,
+   "kind": "lang",
+   "new": "Go",
+   "old": "OCaml",
+   "project": "Tidewater-API"
+  },
+  {
+   "day": 109,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Hana Wexler",
+   "topic": "travel plans"
+  },
+  {
+   "day": 112,
+   "kind": "status",
+   "new": "in beta",
+   "old": "active",
+   "project": "Saffron-Notes"
+  },
+  {
+   "day": 112,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Ines Nakamura",
+   "topic": "travel plans"
+  },
+  {
+   "day": 112,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Sven Sato",
+   "topic": "pricing"
+  },
+  {
+   "day": 112,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Sven Sato",
+   "topic": "travel plans"
+  },
+  {
+   "day": 113,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Joaquin Vasquez",
+   "topic": "remote work"
+  },
+  {
+   "day": 113,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Priya Castellano",
+   "topic": "travel plans"
+  },
+  {
+   "day": 114,
+   "kind": "hobby",
+   "person": "Greta Quiroga"
+  },
+  {
+   "day": 114,
+   "kind": "school",
+   "person": "Jun Haddad"
+  },
+  {
+   "day": 114,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Felix Trevino",
+   "topic": "pricing"
+  },
+  {
+   "day": 116,
+   "kind": "employer",
+   "new": "Quillfeather",
+   "old": "Marrow & Finch",
+   "person": "Mateo Rahman"
+  },
+  {
+   "day": 116,
+   "kind": "join",
+   "person": "Farah Pacheco",
+   "project": "Bramble-DB"
+  },
+  {
+   "day": 116,
+   "kind": "meet",
+   "person": "Dmitri Okonkwo"
+  },
+  {
+   "day": 116,
+   "kind": "meet",
+   "person": "Ivo Yilmaz"
+  },
+  {
+   "day": 116,
+   "kind": "meet",
+   "person": "Tamsin Ulloa"
+  },
+  {
+   "day": 116,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Mateo Rahman",
+   "topic": "a book they are reading"
+  },
+  {
+   "day": 119,
+   "kind": "city",
+   "new": "Porto",
+   "old": "Bergen",
+   "person": "Felix Trevino"
+  },
+  {
+   "day": 119,
+   "kind": "deadline",
+   "new": "2026-08-24",
+   "old": "2026-07-31",
+   "project": "Orchard-Maps"
+  },
+  {
+   "day": 119,
+   "kind": "meet",
+   "person": "Zara Szabo"
+  },
+  {
+   "day": 119,
+   "kind": "school",
+   "person": "Farah Pacheco"
+  },
+  {
+   "day": 119,
+   "kind": "school",
+   "person": "Nadia Ashdown"
+  },
+  {
+   "day": 120,
+   "kind": "hobby_fix",
+   "new": "trail running",
+   "old": "sourdough baking",
+   "person": "Joaquin Vasquez"
+  },
+  {
+   "day": 120,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Hana Wexler",
+   "topic": "the job market"
+  },
+  {
+   "day": 121,
+   "kind": "city",
+   "new": "Hobart",
+   "old": "Porto",
+   "person": "Lior Fontaine"
+  },
+  {
+   "day": 121,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Nadia Ashdown",
+   "topic": "Kestrel-Sync"
+  },
+  {
+   "day": 122,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Hana Wexler",
+   "topic": "a book they are reading"
+  },
+  {
+   "day": 122,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Rosa Kowalczyk",
+   "topic": "a conference talk"
+  },
+  {
+   "day": 123,
+   "kind": "hobby_wrong",
+   "person": "Dmitri Okonkwo",
+   "value": "fencing"
+  },
+  {
+   "day": 126,
+   "kind": "hobby",
+   "person": "Tamsin Ulloa"
+  },
+  {
+   "day": 126,
+   "kind": "hobby_wrong",
+   "person": "Zara Szabo",
+   "value": "film photography"
+  },
+  {
+   "day": 127,
+   "kind": "deadline",
+   "new": "2026-07-18",
+   "old": "2026-07-01",
+   "project": "Kestrel-Sync"
+  },
+  {
+   "day": 127,
+   "kind": "meet",
+   "person": "Chioma Oyelaran"
+  },
+  {
+   "day": 127,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Bilal Varga",
+   "topic": "Gullwing-Auth"
+  },
+  {
+   "day": 127,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Ivo Yilmaz",
+   "topic": "a side project idea"
+  },
+  {
+   "day": 128,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Bruno Delacroix",
+   "topic": "on-call rotations"
+  },
+  {
+   "day": 128,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Mateo Rahman",
+   "topic": "pricing"
+  },
+  {
+   "day": 128,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Rosa Kowalczyk",
+   "topic": "Pebble-Shell"
+  },
+  {
+   "day": 129,
+   "kind": "join",
+   "person": "Wendell Eriksen",
+   "project": "Kestrel-Sync"
+  },
+  {
+   "day": 129,
+   "kind": "owner",
+   "new": "Hugo Rasmussen",
+   "old": "Mateo Rahman",
+   "project": "Orchard-Maps"
+  },
+  {
+   "day": 129,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Hana Wexler",
+   "topic": "a side project idea"
+  },
+  {
+   "day": 130,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Yusuf Laurent",
+   "topic": "a side project idea"
+  },
+  {
+   "day": 133,
+   "kind": "owner",
+   "new": "Yusuf Laurent",
+   "old": "Ximena Brennan",
+   "project": "Heron-Eval"
+  },
+  {
+   "day": 133,
+   "kind": "school",
+   "person": "Bilal Varga"
+  },
+  {
+   "day": 133,
+   "kind": "status",
+   "new": "shipped",
+   "old": "active",
+   "project": "Tidewater-API"
+  },
+  {
+   "day": 133,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Chioma Oyelaran",
+   "topic": "a book they are reading"
+  },
+  {
+   "day": 134,
+   "kind": "meet",
+   "person": "Elif Petrov"
+  },
+  {
+   "day": 134,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Ines Nakamura",
+   "topic": "remote work"
+  },
+  {
+   "day": 134,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Tamsin Ulloa",
+   "topic": "remote work"
+  },
+  {
+   "day": 134,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Ana Zielinski",
+   "topic": "a side project idea"
+  },
+  {
+   "day": 134,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Dario Tanaka",
+   "topic": "hiring plans"
+  },
+  {
+   "day": 134,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Umar Iwasaki",
+   "topic": "a side project idea"
+  },
+  {
+   "day": 134,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Tamsin Ulloa",
+   "topic": "remote work"
+  },
+  {
+   "day": 135,
+   "kind": "lang",
+   "new": "Swift",
+   "old": "Clojure",
+   "project": "Saffron-Notes"
+  },
+  {
+   "day": 135,
+   "kind": "meet",
+   "person": "Celeste Mbeki"
+  },
+  {
+   "day": 135,
+   "kind": "pet",
+   "person": "Ana Zielinski"
+  },
+  {
+   "day": 135,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Tamsin Ulloa",
+   "topic": "a book they are reading"
+  },
+  {
+   "day": 136,
+   "kind": "city",
+   "new": "Ljubljana",
+   "old": "Leipzig",
+   "person": "Ivo Yilmaz"
+  },
+  {
+   "day": 136,
+   "kind": "employer",
+   "new": "Kiteline",
+   "old": "Juniper Systems",
+   "person": "Sven Sato"
+  },
+  {
+   "day": 136,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Tamsin Ulloa",
+   "topic": "on-call rotations"
+  },
+  {
+   "day": 136,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Chioma Oyelaran",
+   "topic": "hiring plans"
+  },
+  {
+   "day": 136,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Joaquin Vasquez",
+   "topic": "on-call rotations"
+  },
+  {
+   "day": 137,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Hana Wexler",
+   "topic": "on-call rotations"
+  },
+  {
+   "day": 137,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Hugo Rasmussen",
+   "topic": "on-call rotations"
+  },
+  {
+   "day": 137,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Yusuf Laurent",
+   "topic": "travel plans"
+  },
+  {
+   "day": 137,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Ines Nakamura",
+   "topic": "on-call rotations"
+  },
+  {
+   "day": 140,
+   "kind": "hobby",
+   "person": "Elif Petrov"
+  },
+  {
+   "day": 140,
+   "kind": "hobby",
+   "person": "Ivo Yilmaz"
+  },
+  {
+   "day": 140,
+   "kind": "meet",
+   "person": "Oskar Moreau"
+  },
+  {
+   "day": 140,
+   "kind": "pet",
+   "person": "Yusuf Laurent"
+  },
+  {
+   "day": 141,
+   "kind": "employer",
+   "new": "Cobalt Harbor",
+   "old": "Brightwater AI",
+   "person": "Rosa Kowalczyk"
+  },
+  {
+   "day": 141,
+   "kind": "employer",
+   "new": "Kiteline",
+   "old": "Juniper Systems",
+   "person": "Lior Fontaine"
+  },
+  {
+   "day": 142,
+   "kind": "lang",
+   "new": "Elixir",
+   "old": "Go",
+   "project": "Pebble-Shell"
+  },
+  {
+   "day": 142,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Bruno Delacroix",
+   "topic": "the job market"
+  },
+  {
+   "day": 142,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Ines Nakamura",
+   "topic": "eval design"
+  },
+  {
+   "day": 142,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Dario Tanaka",
+   "topic": "pricing"
+  },
+  {
+   "day": 143,
+   "kind": "lang",
+   "new": "Clojure",
+   "old": "Zig",
+   "project": "Kestrel-Sync"
+  },
+  {
+   "day": 143,
+   "kind": "pet",
+   "person": "Ines Nakamura"
+  },
+  {
+   "day": 143,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Ana Jaramillo",
+   "topic": "Kestrel-Sync"
+  },
+  {
+   "day": 143,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Mateo Rahman",
+   "topic": "Kestrel-Sync"
+  },
+  {
+   "day": 144,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Chioma Oyelaran",
+   "topic": "travel plans"
+  },
+  {
+   "day": 144,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Chioma Oyelaran",
+   "topic": "a conference talk"
+  },
+  {
+   "day": 147,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Nadia Ashdown",
+   "topic": "the job market"
+  },
+  {
+   "day": 147,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Zara Szabo",
+   "topic": "pricing"
+  },
+  {
+   "day": 147,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Oskar Moreau",
+   "topic": "a book they are reading"
+  },
+  {
+   "day": 148,
+   "kind": "hobby_fix",
+   "new": "beekeeping",
+   "old": "film photography",
+   "person": "Hana Wexler"
+  },
+  {
+   "day": 148,
+   "kind": "school",
+   "person": "Dario Tanaka"
+  },
+  {
+   "day": 148,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Chioma Oyelaran",
+   "topic": "a book they are reading"
+  },
+  {
+   "day": 148,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Elif Petrov",
+   "topic": "travel plans"
+  },
+  {
+   "day": 148,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Farah Pacheco",
+   "topic": "travel plans"
+  },
+  {
+   "day": 149,
+   "kind": "hobby_fix",
+   "new": "woodworking",
+   "old": "film photography",
+   "person": "Zara Szabo"
+  },
+  {
+   "day": 149,
+   "kind": "status",
+   "new": "shipped",
+   "old": "active",
+   "project": "Gullwing-Auth"
+  },
+  {
+   "day": 150,
+   "kind": "pet",
+   "person": "Chioma Oyelaran"
+  },
+  {
+   "day": 150,
+   "kind": "pet",
+   "person": "Elif Petrov"
+  },
+  {
+   "day": 150,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Dmitri Okonkwo",
+   "topic": "travel plans"
+  },
+  {
+   "day": 150,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Elif Petrov",
+   "topic": "hiring plans"
+  },
+  {
+   "day": 151,
+   "kind": "pet",
+   "person": "Ana Jaramillo"
+  },
+  {
+   "day": 151,
+   "kind": "pet",
+   "person": "Ivo Yilmaz"
+  },
+  {
+   "day": 151,
+   "kind": "school",
+   "person": "Zara Szabo"
+  },
+  {
+   "day": 151,
+   "kind": "status",
+   "new": "paused",
+   "old": "active",
+   "project": "Bramble-DB"
+  },
+  {
+   "day": 151,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Yusuf Laurent",
+   "topic": "Heron-Eval"
+  },
+  {
+   "day": 154,
+   "kind": "pet",
+   "person": "Umar Iwasaki"
+  },
+  {
+   "day": 154,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Vera Abara",
+   "topic": "Gullwing-Auth"
+  },
+  {
+   "day": 154,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Oskar Moreau",
+   "topic": "eval design"
+  },
+  {
+   "day": 155,
+   "kind": "city",
+   "new": "Tallinn",
+   "old": "Leipzig",
+   "person": "Chioma Oyelaran"
+  },
+  {
+   "day": 155,
+   "kind": "pet",
+   "person": "Celeste Mbeki"
+  },
+  {
+   "day": 155,
+   "kind": "status",
+   "new": "in beta",
+   "old": "active",
+   "project": "Kestrel-Sync"
+  },
+  {
+   "day": 156,
+   "kind": "employer",
+   "new": "Embergate",
+   "old": "Kiteline",
+   "person": "Ines Nakamura"
+  },
+  {
+   "day": 156,
+   "kind": "hobby",
+   "person": "Chioma Oyelaran"
+  },
+  {
+   "day": 156,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Dario Tanaka",
+   "topic": "travel plans"
+  },
+  {
+   "day": 157,
+   "kind": "join",
+   "person": "Hugo Whitfield",
+   "project": "Saffron-Notes"
+  },
+  {
+   "day": 157,
+   "kind": "pet",
+   "person": "Wendell Eriksen"
+  },
+  {
+   "day": 158,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Elif Petrov",
+   "topic": "remote work"
+  },
+  {
+   "day": 158,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Ivo Yilmaz",
+   "topic": "a book they are reading"
+  },
+  {
+   "day": 161,
+   "kind": "hobby",
+   "person": "Celeste Mbeki"
+  },
+  {
+   "day": 161,
+   "kind": "hobby",
+   "person": "Oskar Moreau"
+  },
+  {
+   "day": 161,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Lior Fontaine",
+   "topic": "a side project idea"
+  },
+  {
+   "day": 163,
+   "kind": "school",
+   "person": "Hugo Whitfield"
+  },
+  {
+   "day": 163,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Sven Sato",
+   "topic": "travel plans"
+  },
+  {
+   "day": 163,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Hugo Rasmussen",
+   "topic": "Orchard-Maps"
+  },
+  {
+   "day": 163,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Rosa Kowalczyk",
+   "topic": "hiring plans"
+  },
+  {
+   "day": 164,
+   "kind": "hobby_fix",
+   "new": "beekeeping",
+   "old": "fencing",
+   "person": "Dmitri Okonkwo"
+  },
+  {
+   "day": 164,
+   "kind": "hobby_fix",
+   "new": "competitive chess",
+   "old": "sourdough baking",
+   "person": "Rosa Kowalczyk"
+  },
+  {
+   "day": 164,
+   "kind": "join",
+   "person": "Dmitri Okonkwo",
+   "project": "Quarry-Vision"
+  },
+  {
+   "day": 168,
+   "kind": "status",
+   "new": "paused",
+   "old": "active",
+   "project": "Quarry-Vision"
+  },
+  {
+   "day": 168,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Rosa Kowalczyk",
+   "topic": "Cinder-Queue"
+  },
+  {
+   "day": 169,
+   "kind": "join",
+   "person": "Wendell Eriksen",
+   "project": "Pebble-Shell"
+  },
+  {
+   "day": 169,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Sven Sato",
+   "topic": "hiring plans"
+  },
+  {
+   "day": 169,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Oskar Moreau",
+   "topic": "a conference talk"
+  },
+  {
+   "day": 169,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Wendell Eriksen",
+   "topic": "travel plans"
+  },
+  {
+   "day": 171,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Gideon Galloway",
+   "topic": "Cinder-Queue"
+  },
+  {
+   "day": 172,
+   "kind": "employer",
+   "new": "Pinecrest Data",
+   "old": "Tessellate",
+   "person": "Oskar Moreau"
+  },
+  {
+   "day": 172,
+   "kind": "employer",
+   "new": "Verdant Grid",
+   "old": "Quillfeather",
+   "person": "Wendell Eriksen"
+  },
+  {
+   "day": 175,
+   "kind": "pet",
+   "person": "Oskar Moreau"
+  },
+  {
+   "day": 175,
+   "kind": "touch",
+   "mode": "call",
+   "person": "Tamsin Ulloa",
+   "topic": "eval design"
+  },
+  {
+   "day": 176,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Celeste Mbeki",
+   "topic": "a book they are reading"
+  },
+  {
+   "day": 176,
+   "kind": "touch",
+   "mode": "walk",
+   "person": "Quentin Calloway",
+   "topic": "eval design"
+  },
+  {
+   "day": 177,
+   "kind": "touch",
+   "mode": "lunch",
+   "person": "Elif Petrov",
+   "topic": "eval design"
+  },
+  {
+   "day": 178,
+   "kind": "city",
+   "new": "Krak\u00f3w",
+   "old": "Cordoba",
+   "person": "Jun Haddad"
+  },
+  {
+   "day": 178,
+   "kind": "school",
+   "person": "Vera Abara"
+  },
+  {
+   "day": 178,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Oskar Moreau",
+   "topic": "travel plans"
+  },
+  {
+   "day": 179,
+   "kind": "touch",
+   "mode": "coffee",
+   "person": "Elif Petrov",
+   "topic": "hiring plans"
+  }
+ ],
+ "people": [
+  {
+   "city": "Valparaiso",
+   "employer": "Verdant Grid",
+   "first": "Wendell",
+   "has_note": true,
+   "hobby": "fencing",
+   "hobby_corrected": true,
+   "introduced_by": null,
+   "met_at": "the board game cafe",
+   "met_day": 0,
+   "name": "Wendell Eriksen",
+   "nick": "Dell",
+   "pet": "Mochi",
+   "role": "ML researcher",
+   "school": null
+  },
+  {
+   "city": "Nairobi",
+   "employer": "Cobalt Harbor",
+   "first": "Rosa",
+   "has_note": false,
+   "hobby": "competitive chess",
+   "hobby_corrected": true,
+   "introduced_by": null,
+   "met_at": "a friend's dinner party",
+   "met_day": 1,
+   "name": "Rosa Kowalczyk",
+   "nick": null,
+   "pet": null,
+   "role": "frontend engineer",
+   "school": "TU Delft"
+  },
+  {
+   "city": "Krak\u00f3w",
+   "employer": "Marrow & Finch",
+   "first": "Jun",
+   "has_note": true,
+   "hobby": "open-water swimming",
+   "introduced_by": null,
+   "met_at": "the Halloween hackathon",
+   "met_day": 15,
+   "name": "Jun Haddad",
+   "nick": null,
+   "pet": null,
+   "role": "engineering manager",
+   "school": "KAIST"
+  },
+  {
+   "city": "Porto",
+   "employer": "Halcyon Bio",
+   "first": "Vera",
+   "has_note": true,
+   "hobby": "trail running",
+   "introduced_by": null,
+   "met_at": "PyData Porto",
+   "met_day": 17,
+   "name": "Vera Abara",
+   "nick": null,
+   "pet": null,
+   "role": "PhD student",
+   "school": "McGill"
+  },
+  {
+   "city": "Nairobi",
+   "employer": "Marrow & Finch",
+   "first": "Farah",
+   "has_note": false,
+   "hobby": "sourdough baking",
+   "introduced_by": "Wendell Eriksen",
+   "met_at": "the board game cafe",
+   "met_day": 18,
+   "name": "Farah Pacheco",
+   "nick": null,
+   "pet": null,
+   "role": "developer advocate",
+   "school": "Sciences Po"
+  },
+  {
+   "city": "Valparaiso",
+   "employer": "Juniper Systems",
+   "first": "Ximena",
+   "has_note": false,
+   "hobby": "trail running",
+   "introduced_by": "Jun Haddad",
+   "met_at": "the board game cafe",
+   "met_day": 18,
+   "name": "Ximena Brennan",
+   "nick": "Xime",
+   "pet": null,
+   "role": "SRE",
+   "school": null
+  },
+  {
+   "city": "Osaka",
+   "employer": "Saltmarsh Studio",
+   "first": "Bilal",
+   "has_note": true,
+   "hobby": "birdwatching",
+   "introduced_by": null,
+   "met_at": "the local AI reading group",
+   "met_day": 24,
+   "name": "Bilal Varga",
+   "nick": null,
+   "pet": null,
+   "role": "frontend engineer",
+   "school": "ETH Zurich"
+  },
+  {
+   "city": "Bergen",
+   "employer": "Brightwater AI",
+   "first": "Gideon",
+   "has_note": true,
+   "hobby": "woodworking",
+   "introduced_by": "Ximena Brennan",
+   "met_at": "the local AI reading group",
+   "met_day": 38,
+   "name": "Gideon Galloway",
+   "nick": "Gid",
+   "pet": "Ziggy",
+   "role": "security engineer",
+   "school": null
+  },
+  {
+   "city": "Cordoba",
+   "employer": "Halcyon Bio",
+   "first": "Nadia",
+   "has_note": true,
+   "hobby": "woodworking",
+   "introduced_by": "Bilal Varga",
+   "met_at": "the open-source sprint",
+   "met_day": 42,
+   "name": "Nadia Ashdown",
+   "nick": null,
+   "pet": null,
+   "role": "backend engineer",
+   "school": "TU Delft"
+  },
+  {
+   "city": "Hobart",
+   "employer": "Kiteline",
+   "first": "Lior",
+   "has_note": false,
+   "hobby": "fencing",
+   "introduced_by": null,
+   "met_at": "the open-source sprint",
+   "met_day": 43,
+   "name": "Lior Fontaine",
+   "nick": null,
+   "pet": null,
+   "role": "PhD student",
+   "school": null
+  },
+  {
+   "city": "Leipzig",
+   "employer": "Quillfeather",
+   "first": "Ana",
+   "has_note": true,
+   "hobby": "sourdough baking",
+   "introduced_by": null,
+   "met_at": "a friend's dinner party",
+   "met_day": 46,
+   "name": "Ana Jaramillo",
+   "nick": null,
+   "pet": "Comet",
+   "role": "SRE",
+   "school": null
+  },
+  {
+   "city": "Cordoba",
+   "employer": "Embergate",
+   "first": "Bruno",
+   "has_note": true,
+   "hobby": "birdwatching",
+   "introduced_by": "Jun Haddad",
+   "met_at": "a climbing gym session",
+   "met_day": 52,
+   "name": "Bruno Delacroix",
+   "nick": null,
+   "pet": null,
+   "role": "technical writer",
+   "school": null
+  },
+  {
+   "city": "Hobart",
+   "employer": "Kiteline",
+   "first": "Priya",
+   "has_note": true,
+   "hobby": "competitive chess",
+   "introduced_by": "Ana Jaramillo",
+   "met_at": "a startup demo night",
+   "met_day": 59,
+   "name": "Priya Castellano",
+   "nick": null,
+   "pet": null,
+   "role": "security engineer",
+   "school": null
+  },
+  {
+   "city": "Montreal",
+   "employer": "Brightwater AI",
+   "first": "Quentin",
+   "has_note": true,
+   "hobby": "bouldering",
+   "introduced_by": "Priya Castellano",
+   "met_at": "PyData Porto",
+   "met_day": 59,
+   "name": "Quentin Calloway",
+   "nick": "Q",
+   "pet": "Pepper",
+   "role": "product designer",
+   "school": null
+  },
+  {
+   "city": "Nairobi",
+   "employer": "Kiteline",
+   "first": "Hugo",
+   "has_note": true,
+   "hobby": "trail running",
+   "introduced_by": null,
+   "met_at": "the open-source sprint",
+   "met_day": 66,
+   "name": "Hugo Whitfield",
+   "nick": null,
+   "pet": null,
+   "role": "data engineer",
+   "school": "the University of Cape Town"
+  },
+  {
+   "city": "Hobart",
+   "employer": "Pinecrest Data",
+   "first": "Kavya",
+   "has_note": true,
+   "hobby": "open-water swimming",
+   "introduced_by": null,
+   "met_at": "the open-source sprint",
+   "met_day": 72,
+   "name": "Kavya Lindqvist",
+   "nick": null,
+   "pet": "Ziggy",
+   "role": "PhD student",
+   "school": null
+  },
+  {
+   "city": "Porto",
+   "employer": "Quillfeather",
+   "first": "Mateo",
+   "has_note": true,
+   "hobby": "competitive chess",
+   "introduced_by": "Jun Haddad",
+   "met_at": "PyData Porto",
+   "met_day": 73,
+   "name": "Mateo Rahman",
+   "nick": null,
+   "pet": "Basil",
+   "role": "product designer",
+   "school": null
+  },
+  {
+   "city": "Tallinn",
+   "employer": "Saltmarsh Studio",
+   "first": "Hana",
+   "has_note": true,
+   "hobby": "beekeeping",
+   "hobby_corrected": true,
+   "introduced_by": null,
+   "met_at": "a conference hallway track",
+   "met_day": 80,
+   "name": "Hana Wexler",
+   "nick": null,
+   "pet": null,
+   "role": "data engineer",
+   "school": null
+  },
+  {
+   "city": "Leipzig",
+   "employer": "Kiteline",
+   "first": "Sven",
+   "has_note": true,
+   "hobby": "competitive chess",
+   "introduced_by": "Farah Pacheco",
+   "met_at": "the board game cafe",
+   "met_day": 81,
+   "name": "Sven Sato",
+   "nick": null,
+   "pet": "Basil",
+   "role": "SRE",
+   "school": null
+  },
+  {
+   "city": "Madison",
+   "employer": "Ostrander Robotics",
+   "first": "Hugo",
+   "has_note": true,
+   "hobby": "pottery",
+   "introduced_by": "Sven Sato",
+   "met_at": "a conference hallway track",
+   "met_day": 84,
+   "name": "Hugo Rasmussen",
+   "nick": null,
+   "pet": "Juniper",
+   "role": "backend engineer",
+   "school": null
+  },
+  {
+   "city": "Tbilisi",
+   "employer": "Cobalt Harbor",
+   "first": "Joaquin",
+   "has_note": false,
+   "hobby": "trail running",
+   "hobby_corrected": true,
+   "introduced_by": null,
+   "met_at": "PyData Porto",
+   "met_day": 86,
+   "name": "Joaquin Vasquez",
+   "nick": "Quino",
+   "pet": null,
+   "role": "product designer",
+   "school": null
+  },
+  {
+   "city": "Montreal",
+   "employer": "Quillfeather",
+   "first": "Ana",
+   "has_note": false,
+   "hobby": "open-water swimming",
+   "introduced_by": null,
+   "met_at": "the Halloween hackathon",
+   "met_day": 87,
+   "name": "Ana Zielinski",
+   "nick": null,
+   "pet": "Turnip",
+   "role": "engineering manager",
+   "school": null
+  },
+  {
+   "city": "Montreal",
+   "employer": "Halcyon Bio",
+   "first": "Yusuf",
+   "has_note": true,
+   "hobby": "fencing",
+   "introduced_by": "Hugo Rasmussen",
+   "met_at": "a friend's dinner party",
+   "met_day": 88,
+   "name": "Yusuf Laurent",
+   "nick": null,
+   "pet": "Waffles",
+   "role": "frontend engineer",
+   "school": null
+  },
+  {
+   "city": "Madison",
+   "employer": "Cobalt Harbor",
+   "first": "Greta",
+   "has_note": false,
+   "hobby": "open-water swimming",
+   "introduced_by": null,
+   "met_at": "the open-source sprint",
+   "met_day": 91,
+   "name": "Greta Quiroga",
+   "nick": null,
+   "pet": "Biscuit",
+   "role": "backend engineer",
+   "school": null
+  },
+  {
+   "city": "Krak\u00f3w",
+   "employer": "Verdant Grid",
+   "first": "Dario",
+   "has_note": false,
+   "hobby": "competitive chess",
+   "introduced_by": null,
+   "met_at": "a friend's dinner party",
+   "met_day": 93,
+   "name": "Dario Tanaka",
+   "nick": null,
+   "pet": null,
+   "role": "product designer",
+   "school": "the University of Cape Town"
+  },
+  {
+   "city": "Austin",
+   "employer": "Embergate",
+   "first": "Ines",
+   "has_note": true,
+   "hobby": "sourdough baking",
+   "introduced_by": "Hana Wexler",
+   "met_at": "the local AI reading group",
+   "met_day": 93,
+   "name": "Ines Nakamura",
+   "nick": null,
+   "pet": "Juniper",
+   "role": "technical writer",
+   "school": null
+  },
+  {
+   "city": "Ljubljana",
+   "employer": "Halcyon Bio",
+   "first": "Umar",
+   "has_note": false,
+   "hobby": "sourdough baking",
+   "introduced_by": null,
+   "met_at": "a startup demo night",
+   "met_day": 100,
+   "name": "Umar Iwasaki",
+   "nick": null,
+   "pet": "Pepper",
+   "role": "SRE",
+   "school": null
+  },
+  {
+   "city": "Porto",
+   "employer": "Kiteline",
+   "first": "Felix",
+   "has_note": true,
+   "hobby": "open-water swimming",
+   "introduced_by": "Ines Nakamura",
+   "met_at": "PyData Porto",
+   "met_day": 102,
+   "name": "Felix Trevino",
+   "nick": null,
+   "pet": null,
+   "role": "frontend engineer",
+   "school": null
+  },
+  {
+   "city": "Valparaiso",
+   "employer": "Kiteline",
+   "first": "Dmitri",
+   "has_note": true,
+   "hobby": "beekeeping",
+   "hobby_corrected": true,
+   "introduced_by": null,
+   "met_at": "the open-source sprint",
+   "met_day": 116,
+   "name": "Dmitri Okonkwo",
+   "nick": "Dima",
+   "pet": null,
+   "role": "security engineer",
+   "school": null
+  },
+  {
+   "city": "Ljubljana",
+   "employer": "Juniper Systems",
+   "first": "Ivo",
+   "has_note": false,
+   "hobby": "sourdough baking",
+   "introduced_by": null,
+   "met_at": "the open-source sprint",
+   "met_day": 116,
+   "name": "Ivo Yilmaz",
+   "nick": null,
+   "pet": "Pixel",
+   "role": "developer advocate",
+   "school": null
+  },
+  {
+   "city": "Hobart",
+   "employer": "Pinecrest Data",
+   "first": "Tamsin",
+   "has_note": true,
+   "hobby": "pottery",
+   "introduced_by": null,
+   "met_at": "the RustConf meetup",
+   "met_day": 116,
+   "name": "Tamsin Ulloa",
+   "nick": "Tam",
+   "pet": null,
+   "role": "SRE",
+   "school": null
+  },
+  {
+   "city": "Tallinn",
+   "employer": "Quillfeather",
+   "first": "Zara",
+   "has_note": true,
+   "hobby": "woodworking",
+   "hobby_corrected": true,
+   "introduced_by": null,
+   "met_at": "the open-source sprint",
+   "met_day": 119,
+   "name": "Zara Szabo",
+   "nick": null,
+   "pet": null,
+   "role": "technical writer",
+   "school": "McGill"
+  },
+  {
+   "city": "Tallinn",
+   "employer": "Northwind Labs",
+   "first": "Chioma",
+   "has_note": false,
+   "hobby": "pottery",
+   "introduced_by": "Priya Castellano",
+   "met_at": "PyData Porto",
+   "met_day": 127,
+   "name": "Chioma Oyelaran",
+   "nick": null,
+   "pet": "Noodle",
+   "role": "frontend engineer",
+   "school": null
+  },
+  {
+   "city": "Bergen",
+   "employer": "Cobalt Harbor",
+   "first": "Elif",
+   "has_note": true,
+   "hobby": "woodworking",
+   "introduced_by": null,
+   "met_at": "a climbing gym session",
+   "met_day": 134,
+   "name": "Elif Petrov",
+   "nick": null,
+   "pet": "Waffles",
+   "role": "engineering manager",
+   "school": null
+  },
+  {
+   "city": "Cordoba",
+   "employer": "Brightwater AI",
+   "first": "Celeste",
+   "has_note": true,
+   "hobby": "film photography",
+   "introduced_by": "Mateo Rahman",
+   "met_at": "a conference hallway track",
+   "met_day": 135,
+   "name": "Celeste Mbeki",
+   "nick": "Cece",
+   "pet": "Olive",
+   "role": "founder",
+   "school": null
+  },
+  {
+   "city": "Austin",
+   "employer": "Pinecrest Data",
+   "first": "Oskar",
+   "has_note": false,
+   "hobby": "film photography",
+   "introduced_by": "Chioma Oyelaran",
+   "met_at": "a climbing gym session",
+   "met_day": 140,
+   "name": "Oskar Moreau",
+   "nick": null,
+   "pet": "Basil",
+   "role": "SRE",
+   "school": null
+  }
+ ],
+ "projects": [
+  {
+   "collaborators": [
+    "Nadia Ashdown",
+    "Mateo Rahman",
+    "Wendell Eriksen"
+   ],
+   "deadline": "2026-07-18",
+   "host": "GitLab",
+   "lang": "Clojure",
+   "name": "Kestrel-Sync",
+   "note_updated": true,
+   "owner": "Ana Jaramillo",
+   "start_day": 78,
+   "status": "in beta"
+  },
+  {
+   "collaborators": [
+    "Quentin Calloway",
+    "Kavya Lindqvist",
+    "Jun Haddad"
+   ],
+   "deadline": "2026-08-24",
+   "host": "GitLab",
+   "lang": "Swift",
+   "name": "Orchard-Maps",
+   "note_updated": false,
+   "owner": "Hugo Rasmussen",
+   "start_day": 77,
+   "status": "active"
+  },
+  {
+   "collaborators": [
+    "Ximena Brennan",
+    "Wendell Eriksen"
+   ],
+   "deadline": "2026-06-21",
+   "host": "GitLab",
+   "lang": "OCaml",
+   "name": "Lantern-CI",
+   "note_updated": false,
+   "owner": "Gideon Galloway",
+   "start_day": 22,
+   "status": "active"
+  },
+  {
+   "collaborators": [
+    "Rosa Kowalczyk",
+    "Farah Pacheco"
+   ],
+   "deadline": "2026-06-06",
+   "host": "SourceHut",
+   "lang": "Elixir",
+   "name": "Bramble-DB",
+   "note_updated": true,
+   "owner": "Wendell Eriksen",
+   "start_day": 3,
+   "status": "paused"
+  },
+  {
+   "collaborators": [
+    "Jun Haddad",
+    "Vera Abara",
+    "Dmitri Okonkwo"
+   ],
+   "deadline": "2026-05-26",
+   "host": "GitHub",
+   "lang": "Go",
+   "name": "Quarry-Vision",
+   "note_updated": false,
+   "owner": "Vera Abara",
+   "start_day": 18,
+   "status": "paused"
+  },
+  {
+   "collaborators": [
+    "Rosa Kowalczyk",
+    "Ximena Brennan"
+   ],
+   "deadline": "2026-07-20",
+   "host": "GitHub",
+   "lang": "Go",
+   "name": "Tidewater-API",
+   "note_updated": false,
+   "owner": "Wendell Eriksen",
+   "start_day": 38,
+   "status": "shipped"
+  },
+  {
+   "collaborators": [
+    "Wendell Eriksen",
+    "Hugo Whitfield"
+   ],
+   "deadline": "2026-07-09",
+   "host": "GitLab",
+   "lang": "Swift",
+   "name": "Saffron-Notes",
+   "note_updated": true,
+   "owner": "Rosa Kowalczyk",
+   "start_day": 11,
+   "status": "in beta"
+  },
+  {
+   "collaborators": [
+    "Ximena Brennan",
+    "Bilal Varga"
+   ],
+   "deadline": "2026-08-26",
+   "host": "GitLab",
+   "lang": "OCaml",
+   "name": "Gullwing-Auth",
+   "note_updated": false,
+   "owner": "Vera Abara",
+   "start_day": 38,
+   "status": "shipped"
+  },
+  {
+   "collaborators": [
+    "Rosa Kowalczyk",
+    "Vera Abara",
+    "Mateo Rahman"
+   ],
+   "deadline": "2026-06-15",
+   "host": "SourceHut",
+   "lang": "Elixir",
+   "name": "Mosaic-Ledger",
+   "note_updated": false,
+   "owner": "Farah Pacheco",
+   "start_day": 36,
+   "status": "active"
+  },
+  {
+   "collaborators": [
+    "Ximena Brennan",
+    "Rosa Kowalczyk"
+   ],
+   "deadline": "2026-06-19",
+   "host": "SourceHut",
+   "lang": "TypeScript",
+   "name": "Cinder-Queue",
+   "note_updated": true,
+   "owner": "Gideon Galloway",
+   "start_day": 53,
+   "status": "active"
+  },
+  {
+   "collaborators": [
+    "Jun Haddad",
+    "Wendell Eriksen",
+    "Farah Pacheco"
+   ],
+   "deadline": "2026-06-13",
+   "host": "Codeberg",
+   "lang": "Swift",
+   "name": "Heron-Eval",
+   "note_updated": false,
+   "owner": "Yusuf Laurent",
+   "start_day": 30,
+   "status": "active"
+  },
+  {
+   "collaborators": [
+    "Farah Pacheco",
+    "Jun Haddad",
+    "Wendell Eriksen"
+   ],
+   "deadline": "2026-07-01",
+   "host": "SourceHut",
+   "lang": "Elixir",
+   "name": "Pebble-Shell",
+   "note_updated": false,
+   "owner": "Rosa Kowalczyk",
+   "start_day": 35,
+   "status": "active"
+  }
+ ],
+ "scale": "small",
+ "seed": 7,
+ "start": "2026-03-02",
+ "today": "2026-09-01"
+}

@@ -1,0 +1,9 @@
+{
+  "vault": "bench/runs/seed8/vault",
+  "lock": "/tmp/index-cards-bench.lock",
+  "skip_dirs": [],
+  "block_dirs": ["00-Inbox/Daily/"],
+  "person_dirs": ["People"],
+  "project_dirs": ["01-Projects"],
+  "topic_dirs": []
+}

@@ -1,0 +1,3978 @@
+{
+ "daily": {
+  "2026-03-02": [
+   {
+    "entity": "Wendell Eriksen",
+    "kind": "meet",
+    "must": [
+     "Wendell Eriksen",
+     "the board game cafe",
+     "Verdant Grid",
+     "Valparaiso"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Met Wendell Eriksen at the board game cafe. Wendell is a ML researcher at Verdant Grid, based in Valparaiso."
+   }
+  ],
+  "2026-03-03": [
+   {
+    "entity": "Rosa Kowalczyk",
+    "kind": "meet",
+    "must": [
+     "Rosa Kowalczyk",
+     "a friend's dinner party",
+     "Cobalt Harbor",
+     "Nairobi"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Met Rosa Kowalczyk at a friend's dinner party. Rosa is a frontend engineer at Cobalt Harbor, based in Nairobi."
+   }
+  ],
+  "2026-03-05": [
+   {
+    "entity": "Bramble-DB",
+    "kind": "kickoff",
+    "must": [
+     "Bramble-DB",
+     "Wendell Eriksen",
+     "Elixir",
+     "SourceHut",
+     "May 23"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Kicked off Bramble-DB today. Wendell Eriksen owns it; it is written in Elixir, hosted on SourceHut; target date May 23."
+   }
+  ],
+  "2026-03-10": [
+   {
+    "entity": "Wendell Eriksen",
+    "kind": "hobby_wrong",
+    "must": [
+     "Dell",
+     "woodworking"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Dell is really into woodworking."
+   }
+  ],
+  "2026-03-13": [
+   {
+    "entity": "Saffron-Notes",
+    "kind": "kickoff",
+    "must": [
+     "Saffron-Notes",
+     "Rosa Kowalczyk",
+     "Clojure",
+     "GitLab",
+     "June 5"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Kicked off Saffron-Notes today. Rosa Kowalczyk owns it; it is written in Clojure, hosted on GitLab; target date June 5."
+   }
+  ],
+  "2026-03-17": [
+   {
+    "entity": "Jun Haddad",
+    "kind": "meet",
+    "must": [
+     "Jun Haddad",
+     "the Halloween hackathon",
+     "Marrow & Finch",
+     "Krak\u00f3w"
+    ],
+    "people": [
+     "Jun Haddad"
+    ],
+    "text": "Met Jun Haddad at the Halloween hackathon. Jun is a engineering manager at Marrow & Finch, based in Krak\u00f3w."
+   }
+  ],
+  "2026-03-19": [
+   {
+    "entity": "Rosa Kowalczyk",
+    "kind": "hobby_wrong",
+    "must": [
+     "Rosa Kowalczyk",
+     "sourdough baking"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Rosa Kowalczyk is really into sourdough baking."
+   },
+   {
+    "entity": "Vera Abara",
+    "kind": "meet",
+    "must": [
+     "Vera Abara",
+     "PyData Porto",
+     "Halcyon Bio",
+     "Porto"
+    ],
+    "people": [
+     "Vera Abara"
+    ],
+    "text": "Met Vera Abara at PyData Porto. Vera is a PhD student at Halcyon Bio, based in Porto."
+   }
+  ],
+  "2026-03-20": [
+   {
+    "entity": "Quarry-Vision",
+    "kind": "kickoff",
+    "must": [
+     "Quarry-Vision",
+     "Wendell Eriksen",
+     "Go",
+     "GitHub",
+     "May 14"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Kicked off Quarry-Vision today. Wendell Eriksen owns it; it is written in Go, hosted on GitHub; target date May 14."
+   },
+   {
+    "entity": "Farah Pacheco",
+    "kind": "meet",
+    "must": [
+     "Farah Pacheco",
+     "the board game cafe",
+     "Marrow & Finch",
+     "Nairobi",
+     "Wendell Eriksen"
+    ],
+    "people": [
+     "Farah Pacheco",
+     "Wendell Eriksen"
+    ],
+    "text": "Met Farah Pacheco at the board game cafe. Farah is a developer advocate at Marrow & Finch, based in Nairobi. Wendell Eriksen introduced us."
+   },
+   {
+    "entity": "Ximena Brennan",
+    "kind": "meet",
+    "must": [
+     "Ximena Brennan",
+     "the board game cafe",
+     "Juniper Systems",
+     "Valparaiso",
+     "Jun Haddad"
+    ],
+    "people": [
+     "Ximena Brennan",
+     "Jun Haddad"
+    ],
+    "text": "Met Ximena Brennan at the board game cafe. Ximena is a SRE at Juniper Systems, based in Valparaiso. Jun Haddad introduced us."
+   }
+  ],
+  "2026-03-23": [
+   {
+    "entity": "Farah Pacheco",
+    "kind": "touch",
+    "must": [
+     "Farah Pacheco"
+    ],
+    "people": [
+     "Farah Pacheco"
+    ],
+    "text": "Walk with Farah Pacheco; we talked about travel plans."
+   }
+  ],
+  "2026-03-24": [
+   {
+    "entity": "Lantern-CI",
+    "kind": "kickoff",
+    "must": [
+     "Lantern-CI",
+     "Farah Pacheco",
+     "OCaml",
+     "GitLab",
+     "June 10"
+    ],
+    "people": [
+     "Farah Pacheco"
+    ],
+    "text": "Kicked off Lantern-CI today. Farah Pacheco owns it; it is written in OCaml, hosted on GitLab; target date June 10."
+   },
+   {
+    "entity": "Wendell Eriksen",
+    "kind": "touch",
+    "must": [
+     "Wendell Eriksen"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Coffee with Wendell Eriksen; we talked about pricing."
+   },
+   {
+    "entity": "Jun Haddad",
+    "kind": "touch",
+    "must": [
+     "Jun Haddad"
+    ],
+    "people": [
+     "Jun Haddad"
+    ],
+    "text": "Walk with Jun Haddad; we talked about Orchard-Maps."
+   }
+  ],
+  "2026-03-25": [
+   {
+    "entity": "Jun Haddad",
+    "kind": "hobby",
+    "must": [
+     "Jun",
+     "open-water swimming"
+    ],
+    "people": [
+     "Jun Haddad"
+    ],
+    "text": "Jun spends weekends on open-water swimming."
+   }
+  ],
+  "2026-03-26": [
+   {
+    "entity": "Bilal Varga",
+    "kind": "meet",
+    "must": [
+     "Bilal Varga",
+     "the local AI reading group",
+     "Saltmarsh Studio",
+     "Osaka"
+    ],
+    "people": [
+     "Bilal Varga"
+    ],
+    "text": "Met Bilal Varga at the local AI reading group. Bilal is a frontend engineer at Saltmarsh Studio, based in Osaka."
+   }
+  ],
+  "2026-03-30": [
+   {
+    "entity": "Farah Pacheco",
+    "kind": "hobby",
+    "must": [
+     "Farah",
+     "sourdough baking"
+    ],
+    "people": [
+     "Farah Pacheco"
+    ],
+    "text": "Farah spends weekends on sourdough baking."
+   }
+  ],
+  "2026-03-31": [
+   {
+    "entity": "Ximena Brennan",
+    "kind": "hobby",
+    "must": [
+     "Ximena Brennan",
+     "trail running"
+    ],
+    "people": [
+     "Ximena Brennan"
+    ],
+    "text": "Ximena Brennan spends weekends on trail running."
+   }
+  ],
+  "2026-04-01": [
+   {
+    "entity": "Heron-Eval",
+    "kind": "kickoff",
+    "must": [
+     "Heron-Eval",
+     "Ximena Brennan",
+     "Elixir",
+     "Codeberg",
+     "May 20"
+    ],
+    "people": [
+     "Ximena Brennan"
+    ],
+    "text": "Kicked off Heron-Eval today. Ximena Brennan owns it; it is written in Elixir, hosted on Codeberg; target date May 20."
+   }
+  ],
+  "2026-04-06": [
+   {
+    "entity": "Bramble-DB",
+    "kind": "deadline",
+    "must": [
+     "Bramble-DB",
+     "June 6"
+    ],
+    "people": [],
+    "text": "Bramble-DB deadline moved from May 23 to June 6."
+   },
+   {
+    "entity": "Pebble-Shell",
+    "kind": "kickoff",
+    "must": [
+     "Pebble-Shell",
+     "Rosa Kowalczyk",
+     "Go",
+     "SourceHut",
+     "June 16"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Kicked off Pebble-Shell today. Rosa Kowalczyk owns it; it is written in Go, hosted on SourceHut; target date June 16."
+   }
+  ],
+  "2026-04-07": [
+   {
+    "entity": "Vera Abara",
+    "kind": "hobby",
+    "must": [
+     "Vera",
+     "trail running"
+    ],
+    "people": [
+     "Vera Abara"
+    ],
+    "text": "Vera spends weekends on trail running."
+   },
+   {
+    "entity": "Mosaic-Ledger",
+    "kind": "kickoff",
+    "must": [
+     "Mosaic-Ledger",
+     "Farah Pacheco",
+     "Elixir",
+     "SourceHut",
+     "May 24"
+    ],
+    "people": [
+     "Farah Pacheco"
+    ],
+    "text": "Kicked off Mosaic-Ledger today. Farah Pacheco owns it; it is written in Elixir, hosted on SourceHut; target date May 24."
+   }
+  ],
+  "2026-04-08": [
+   {
+    "entity": "Wendell Eriksen",
+    "kind": "hobby_fix",
+    "must": [
+     "Dell",
+     "fencing"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Correction: Dell is into fencing, not woodworking; I had that wrong."
+   }
+  ],
+  "2026-04-09": [
+   {
+    "entity": "Gullwing-Auth",
+    "kind": "kickoff",
+    "must": [
+     "Gullwing-Auth",
+     "Vera Abara",
+     "OCaml",
+     "GitLab",
+     "July 2"
+    ],
+    "people": [
+     "Vera Abara"
+    ],
+    "text": "Kicked off Gullwing-Auth today. Vera Abara owns it; it is written in OCaml, hosted on GitLab; target date July 2."
+   },
+   {
+    "entity": "Tidewater-API",
+    "kind": "kickoff",
+    "must": [
+     "Tidewater-API",
+     "Wendell Eriksen",
+     "OCaml",
+     "GitHub",
+     "July 6"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Kicked off Tidewater-API today. Wendell Eriksen owns it; it is written in OCaml, hosted on GitHub; target date July 6."
+   },
+   {
+    "entity": "Gideon Galloway",
+    "kind": "meet",
+    "must": [
+     "Gideon Galloway",
+     "the local AI reading group",
+     "Brightwater AI",
+     "Bergen",
+     "Ximena Brennan"
+    ],
+    "people": [
+     "Gideon Galloway",
+     "Ximena Brennan"
+    ],
+    "text": "Met Gideon Galloway at the local AI reading group. Gideon is a security engineer at Brightwater AI, based in Bergen. Ximena Brennan introduced us."
+   }
+  ],
+  "2026-04-10": [
+   {
+    "entity": "Heron-Eval",
+    "kind": "deadline",
+    "must": [
+     "Heron-Eval",
+     "June 13"
+    ],
+    "people": [],
+    "text": "Heron-Eval deadline moved from May 20 to June 13."
+   }
+  ],
+  "2026-04-13": [
+   {
+    "entity": "Nadia Ashdown",
+    "kind": "meet",
+    "must": [
+     "Nadia Ashdown",
+     "the open-source sprint",
+     "Halcyon Bio",
+     "Cordoba",
+     "Bilal Varga"
+    ],
+    "people": [
+     "Nadia Ashdown",
+     "Bilal Varga"
+    ],
+    "text": "Met Nadia Ashdown at the open-source sprint. Nadia is a backend engineer at Halcyon Bio, based in Cordoba. Bilal Varga introduced us."
+   }
+  ],
+  "2026-04-14": [
+   {
+    "entity": "Farah Pacheco",
+    "kind": "join",
+    "must": [
+     "Farah",
+     "Heron-Eval"
+    ],
+    "people": [
+     "Farah Pacheco"
+    ],
+    "text": "Farah joined Heron-Eval as a collaborator."
+   },
+   {
+    "entity": "Lior Fontaine",
+    "kind": "meet",
+    "must": [
+     "Lior Fontaine",
+     "the open-source sprint",
+     "Kiteline",
+     "Hobart"
+    ],
+    "people": [
+     "Lior Fontaine"
+    ],
+    "text": "Met Lior Fontaine at the open-source sprint. Lior is a PhD student at Kiteline, based in Hobart."
+   }
+  ],
+  "2026-04-16": [
+   {
+    "entity": "Gideon Galloway",
+    "kind": "pet",
+    "must": [
+     "Gideon Galloway",
+     "Ziggy"
+    ],
+    "people": [
+     "Gideon Galloway"
+    ],
+    "text": "Gideon Galloway's dog is called Ziggy."
+   }
+  ],
+  "2026-04-17": [
+   {
+    "entity": "Lantern-CI",
+    "kind": "deadline",
+    "must": [
+     "Lantern-CI",
+     "June 21"
+    ],
+    "people": [],
+    "text": "Lantern-CI deadline moved from June 10 to June 21."
+   },
+   {
+    "entity": "Ana Jaramillo",
+    "kind": "meet",
+    "must": [
+     "Ana Jaramillo",
+     "a friend's dinner party",
+     "Quillfeather",
+     "Leipzig"
+    ],
+    "people": [
+     "Ana Jaramillo"
+    ],
+    "text": "Met Ana Jaramillo at a friend's dinner party. Ana is a SRE at Quillfeather, based in Leipzig."
+   }
+  ],
+  "2026-04-20": [
+   {
+    "entity": "Nadia Ashdown",
+    "kind": "hobby",
+    "must": [
+     "Nadia Ashdown",
+     "woodworking"
+    ],
+    "people": [
+     "Nadia Ashdown"
+    ],
+    "text": "Nadia Ashdown spends weekends on woodworking."
+   }
+  ],
+  "2026-04-22": [
+   {
+    "entity": "Mosaic-Ledger",
+    "kind": "deadline",
+    "must": [
+     "Mosaic-Ledger",
+     "June 15"
+    ],
+    "people": [],
+    "text": "Mosaic-Ledger deadline moved from May 24 to June 15."
+   },
+   {
+    "entity": "Saffron-Notes",
+    "kind": "deadline",
+    "must": [
+     "Saffron-Notes",
+     "July 9"
+    ],
+    "people": [],
+    "text": "Saffron-Notes deadline moved from June 5 to July 9."
+   }
+  ],
+  "2026-04-23": [
+   {
+    "entity": "Bruno Delacroix",
+    "kind": "meet",
+    "must": [
+     "Bruno Delacroix",
+     "a climbing gym session",
+     "Embergate",
+     "Cordoba",
+     "Jun Haddad"
+    ],
+    "people": [
+     "Bruno Delacroix",
+     "Jun Haddad"
+    ],
+    "text": "Met Bruno Delacroix at a climbing gym session. Bruno is a technical writer at Embergate, based in Cordoba. Jun Haddad introduced us."
+   }
+  ],
+  "2026-04-24": [
+   {
+    "entity": "Bilal Varga",
+    "kind": "hobby",
+    "must": [
+     "Bilal Varga",
+     "birdwatching"
+    ],
+    "people": [
+     "Bilal Varga"
+    ],
+    "text": "Bilal Varga spends weekends on birdwatching."
+   },
+   {
+    "entity": "Cinder-Queue",
+    "kind": "kickoff",
+    "must": [
+     "Cinder-Queue",
+     "Gideon Galloway",
+     "TypeScript",
+     "SourceHut",
+     "June 7"
+    ],
+    "people": [
+     "Gideon Galloway"
+    ],
+    "text": "Kicked off Cinder-Queue today. Gideon Galloway owns it; it is written in TypeScript, hosted on SourceHut; target date June 7."
+   },
+   {
+    "entity": "Gideon Galloway",
+    "kind": "touch",
+    "must": [
+     "Gideon Galloway"
+    ],
+    "people": [
+     "Gideon Galloway"
+    ],
+    "text": "Lunch with Gideon Galloway; we talked about Lantern-CI."
+   }
+  ],
+  "2026-04-28": [
+   {
+    "entity": "Nadia Ashdown",
+    "kind": "touch",
+    "must": [
+     "Nadia"
+    ],
+    "people": [
+     "Nadia Ashdown"
+    ],
+    "text": "Call with Nadia; we talked about the job market."
+   }
+  ],
+  "2026-04-30": [
+   {
+    "entity": "Priya Castellano",
+    "kind": "meet",
+    "must": [
+     "Priya Castellano",
+     "a startup demo night",
+     "Kiteline",
+     "Hobart",
+     "Ana Jaramillo"
+    ],
+    "people": [
+     "Priya Castellano",
+     "Ana Jaramillo"
+    ],
+    "text": "Met Priya Castellano at a startup demo night. Priya is a security engineer at Kiteline, based in Hobart. Ana Jaramillo introduced us."
+   },
+   {
+    "entity": "Quentin Calloway",
+    "kind": "meet",
+    "must": [
+     "Quentin Calloway",
+     "PyData Porto",
+     "Brightwater AI",
+     "Montreal",
+     "Priya Castellano"
+    ],
+    "people": [
+     "Quentin Calloway",
+     "Priya Castellano"
+    ],
+    "text": "Met Quentin Calloway at PyData Porto. Quentin is a product designer at Brightwater AI, based in Montreal. Priya Castellano introduced us."
+   },
+   {
+    "entity": "Quentin Calloway",
+    "kind": "pet",
+    "must": [
+     "Quentin Calloway",
+     "Pepper"
+    ],
+    "people": [
+     "Quentin Calloway"
+    ],
+    "text": "Quentin Calloway's dog is called Pepper."
+   },
+   {
+    "entity": "Rosa Kowalczyk",
+    "kind": "touch",
+    "must": [
+     "Rosa Kowalczyk"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Lunch with Rosa Kowalczyk; we talked about pricing."
+   }
+  ],
+  "2026-05-01": [
+   {
+    "entity": "Gullwing-Auth",
+    "kind": "deadline",
+    "must": [
+     "Gullwing-Auth",
+     "July 26"
+    ],
+    "people": [],
+    "text": "Gullwing-Auth deadline moved from July 2 to July 26."
+   },
+   {
+    "entity": "Bruno Delacroix",
+    "kind": "hobby",
+    "must": [
+     "Bruno",
+     "birdwatching"
+    ],
+    "people": [
+     "Bruno Delacroix"
+    ],
+    "text": "Bruno spends weekends on birdwatching."
+   },
+   {
+    "entity": "Lior Fontaine",
+    "kind": "hobby",
+    "must": [
+     "Lior",
+     "fencing"
+    ],
+    "people": [
+     "Lior Fontaine"
+    ],
+    "text": "Lior spends weekends on fencing."
+   },
+   {
+    "entity": "Priya Castellano",
+    "kind": "hobby",
+    "must": [
+     "Priya Castellano",
+     "competitive chess"
+    ],
+    "people": [
+     "Priya Castellano"
+    ],
+    "text": "Priya Castellano spends weekends on competitive chess."
+   },
+   {
+    "entity": "Quentin Calloway",
+    "kind": "hobby",
+    "must": [
+     "Q",
+     "bouldering"
+    ],
+    "people": [
+     "Quentin Calloway"
+    ],
+    "text": "Q spends weekends on bouldering."
+   }
+  ],
+  "2026-05-04": [
+   {
+    "entity": "Cinder-Queue",
+    "kind": "deadline",
+    "must": [
+     "Cinder-Queue",
+     "June 19"
+    ],
+    "people": [],
+    "text": "Cinder-Queue deadline moved from June 7 to June 19."
+   }
+  ],
+  "2026-05-05": [
+   {
+    "entity": "Pebble-Shell",
+    "kind": "deadline",
+    "must": [
+     "Pebble-Shell",
+     "July 1"
+    ],
+    "people": [],
+    "text": "Pebble-Shell deadline moved from June 16 to July 1."
+   }
+  ],
+  "2026-05-06": [
+   {
+    "entity": "Quarry-Vision",
+    "kind": "deadline",
+    "must": [
+     "Quarry-Vision",
+     "May 26"
+    ],
+    "people": [],
+    "text": "Quarry-Vision deadline moved from May 14 to May 26."
+   },
+   {
+    "entity": "Lantern-CI",
+    "kind": "owner",
+    "must": [
+     "Lantern-CI",
+     "Gideon Galloway"
+    ],
+    "people": [
+     "Farah Pacheco",
+     "Gideon Galloway"
+    ],
+    "text": "Farah Pacheco handed Lantern-CI over to Gideon Galloway, who owns it from now on."
+   },
+   {
+    "entity": "Nadia Ashdown",
+    "kind": "touch",
+    "must": [
+     "Nadia"
+    ],
+    "people": [
+     "Nadia Ashdown"
+    ],
+    "text": "Walk with Nadia; we talked about Kestrel-Sync."
+   }
+  ],
+  "2026-05-07": [
+   {
+    "entity": "Gideon Galloway",
+    "kind": "hobby",
+    "must": [
+     "Gid",
+     "woodworking"
+    ],
+    "people": [
+     "Gideon Galloway"
+    ],
+    "text": "Gid spends weekends on woodworking."
+   },
+   {
+    "entity": "Hugo Whitfield",
+    "kind": "meet",
+    "must": [
+     "Hugo Whitfield",
+     "the open-source sprint",
+     "Kiteline",
+     "Nairobi"
+    ],
+    "people": [
+     "Hugo Whitfield"
+    ],
+    "text": "Met Hugo Whitfield at the open-source sprint. Hugo is a data engineer at Kiteline, based in Nairobi."
+   }
+  ],
+  "2026-05-12": [
+   {
+    "entity": "Ximena Brennan",
+    "kind": "touch",
+    "must": [
+     "Ximena Brennan"
+    ],
+    "people": [
+     "Ximena Brennan"
+    ],
+    "text": "Lunch with Ximena Brennan; we talked about pricing."
+   },
+   {
+    "entity": "Quentin Calloway",
+    "kind": "touch",
+    "must": [
+     "Q"
+    ],
+    "people": [
+     "Quentin Calloway"
+    ],
+    "text": "Walk with Q; we talked about Orchard-Maps."
+   }
+  ],
+  "2026-05-13": [
+   {
+    "entity": "Kavya Lindqvist",
+    "kind": "meet",
+    "must": [
+     "Kavya Lindqvist",
+     "the open-source sprint",
+     "Pinecrest Data",
+     "Hobart"
+    ],
+    "people": [
+     "Kavya Lindqvist"
+    ],
+    "text": "Met Kavya Lindqvist at the open-source sprint. Kavya is a PhD student at Pinecrest Data, based in Hobart."
+   },
+   {
+    "entity": "Ana Jaramillo",
+    "kind": "touch",
+    "must": [
+     "Ana Jaramillo"
+    ],
+    "people": [
+     "Ana Jaramillo"
+    ],
+    "text": "Lunch with Ana Jaramillo; we talked about Kestrel-Sync."
+   }
+  ],
+  "2026-05-14": [
+   {
+    "entity": "Nadia Ashdown",
+    "kind": "city",
+    "must": [
+     "Nadia",
+     "Cordoba"
+    ],
+    "people": [
+     "Nadia Ashdown"
+    ],
+    "text": "Nadia moved from Ljubljana to Cordoba."
+   },
+   {
+    "entity": "Gullwing-Auth",
+    "kind": "deadline",
+    "must": [
+     "Gullwing-Auth",
+     "August 26"
+    ],
+    "people": [],
+    "text": "Gullwing-Auth deadline moved from July 26 to August 26."
+   },
+   {
+    "entity": "Ana Jaramillo",
+    "kind": "hobby",
+    "must": [
+     "Ana Jaramillo",
+     "sourdough baking"
+    ],
+    "people": [
+     "Ana Jaramillo"
+    ],
+    "text": "Ana Jaramillo spends weekends on sourdough baking."
+   },
+   {
+    "entity": "Mateo Rahman",
+    "kind": "meet",
+    "must": [
+     "Mateo Rahman",
+     "PyData Porto",
+     "Quillfeather",
+     "Porto",
+     "Jun Haddad"
+    ],
+    "people": [
+     "Mateo Rahman",
+     "Jun Haddad"
+    ],
+    "text": "Met Mateo Rahman at PyData Porto. Mateo is a product designer at Quillfeather, based in Porto. Jun Haddad introduced us."
+   },
+   {
+    "entity": "Vera Abara",
+    "kind": "touch",
+    "must": [
+     "Vera"
+    ],
+    "people": [
+     "Vera Abara"
+    ],
+    "text": "Call with Vera; we talked about Quarry-Vision."
+   }
+  ],
+  "2026-05-18": [
+   {
+    "entity": "Orchard-Maps",
+    "kind": "kickoff",
+    "must": [
+     "Orchard-Maps",
+     "Mateo Rahman",
+     "Swift",
+     "GitLab",
+     "July 31"
+    ],
+    "people": [
+     "Mateo Rahman"
+    ],
+    "text": "Kicked off Orchard-Maps today. Mateo Rahman owns it; it is written in Swift, hosted on GitLab; target date July 31."
+   },
+   {
+    "entity": "Mateo Rahman",
+    "kind": "touch",
+    "must": [
+     "Mateo"
+    ],
+    "people": [
+     "Mateo Rahman"
+    ],
+    "text": "Lunch with Mateo; we talked about travel plans."
+   }
+  ],
+  "2026-05-19": [
+   {
+    "entity": "Kestrel-Sync",
+    "kind": "kickoff",
+    "must": [
+     "Kestrel-Sync",
+     "Ana Jaramillo",
+     "Zig",
+     "GitLab",
+     "July 1"
+    ],
+    "people": [
+     "Ana Jaramillo"
+    ],
+    "text": "Kicked off Kestrel-Sync today. Ana Jaramillo owns it; it is written in Zig, hosted on GitLab; target date July 1."
+   },
+   {
+    "entity": "Mateo Rahman",
+    "kind": "touch",
+    "must": [
+     "Mateo Rahman"
+    ],
+    "people": [
+     "Mateo Rahman"
+    ],
+    "text": "Coffee with Mateo Rahman; we talked about Mosaic-Ledger."
+   }
+  ],
+  "2026-05-20": [
+   {
+    "entity": "Gideon Galloway",
+    "kind": "touch",
+    "must": [
+     "Gideon Galloway"
+    ],
+    "people": [
+     "Gideon Galloway"
+    ],
+    "text": "Walk with Gideon Galloway; we talked about Cinder-Queue."
+   }
+  ],
+  "2026-05-21": [
+   {
+    "entity": "Kavya Lindqvist",
+    "kind": "hobby",
+    "must": [
+     "Kavya Lindqvist",
+     "open-water swimming"
+    ],
+    "people": [
+     "Kavya Lindqvist"
+    ],
+    "text": "Kavya Lindqvist spends weekends on open-water swimming."
+   },
+   {
+    "entity": "Hana Wexler",
+    "kind": "hobby_wrong",
+    "must": [
+     "Hana Wexler",
+     "film photography"
+    ],
+    "people": [
+     "Hana Wexler"
+    ],
+    "text": "Hana Wexler is really into film photography."
+   },
+   {
+    "entity": "Hana Wexler",
+    "kind": "meet",
+    "must": [
+     "Hana Wexler",
+     "a conference hallway track",
+     "Saltmarsh Studio",
+     "Tallinn"
+    ],
+    "people": [
+     "Hana Wexler"
+    ],
+    "text": "Met Hana Wexler at a conference hallway track. Hana is a data engineer at Saltmarsh Studio, based in Tallinn."
+   },
+   {
+    "entity": "Rosa Kowalczyk",
+    "kind": "school",
+    "must": [
+     "Rosa Kowalczyk",
+     "TU Delft"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Rosa Kowalczyk studied at TU Delft."
+   },
+   {
+    "entity": "Nadia Ashdown",
+    "kind": "touch",
+    "must": [
+     "Nadia Ashdown"
+    ],
+    "people": [
+     "Nadia Ashdown"
+    ],
+    "text": "Walk with Nadia Ashdown; we talked about pricing."
+   }
+  ],
+  "2026-05-22": [
+   {
+    "entity": "Mateo Rahman",
+    "kind": "hobby",
+    "must": [
+     "Mateo Rahman",
+     "competitive chess"
+    ],
+    "people": [
+     "Mateo Rahman"
+    ],
+    "text": "Mateo Rahman spends weekends on competitive chess."
+   },
+   {
+    "entity": "Sven Sato",
+    "kind": "meet",
+    "must": [
+     "Sven Sato",
+     "the board game cafe",
+     "Kiteline",
+     "Leipzig",
+     "Farah Pacheco"
+    ],
+    "people": [
+     "Sven Sato",
+     "Farah Pacheco"
+    ],
+    "text": "Met Sven Sato at the board game cafe. Sven is a SRE at Kiteline, based in Leipzig. Farah Pacheco introduced us."
+   },
+   {
+    "entity": "Quentin Calloway",
+    "kind": "touch",
+    "must": [
+     "Quentin Calloway"
+    ],
+    "people": [
+     "Quentin Calloway"
+    ],
+    "text": "Walk with Quentin Calloway; we talked about a conference talk."
+   }
+  ],
+  "2026-05-25": [
+   {
+    "entity": "Tidewater-API",
+    "kind": "deadline",
+    "must": [
+     "Tidewater-API",
+     "July 20"
+    ],
+    "people": [],
+    "text": "Tidewater-API deadline moved from July 6 to July 20."
+   },
+   {
+    "entity": "Hugo Rasmussen",
+    "kind": "meet",
+    "must": [
+     "Hugo Rasmussen",
+     "a conference hallway track",
+     "Ostrander Robotics",
+     "Madison",
+     "Sven Sato"
+    ],
+    "people": [
+     "Hugo Rasmussen",
+     "Sven Sato"
+    ],
+    "text": "Met Hugo Rasmussen at a conference hallway track. Hugo is a backend engineer at Ostrander Robotics, based in Madison. Sven Sato introduced us."
+   },
+   {
+    "entity": "Quarry-Vision",
+    "kind": "owner",
+    "must": [
+     "Quarry-Vision",
+     "Vera Abara"
+    ],
+    "people": [
+     "Wendell Eriksen",
+     "Vera Abara"
+    ],
+    "text": "Wendell Eriksen handed Quarry-Vision over to Vera Abara, who owns it from now on."
+   }
+  ],
+  "2026-05-26": [
+   {
+    "entity": "Hugo Whitfield",
+    "kind": "touch",
+    "must": [
+     "Hugo Whitfield"
+    ],
+    "people": [
+     "Hugo Whitfield"
+    ],
+    "text": "Walk with Hugo Whitfield; we talked about the job market."
+   }
+  ],
+  "2026-05-27": [
+   {
+    "entity": "Hugo Rasmussen",
+    "kind": "hobby",
+    "must": [
+     "Hugo Rasmussen",
+     "pottery"
+    ],
+    "people": [
+     "Hugo Rasmussen"
+    ],
+    "text": "Hugo Rasmussen spends weekends on pottery."
+   },
+   {
+    "entity": "Joaquin Vasquez",
+    "kind": "meet",
+    "must": [
+     "Joaquin Vasquez",
+     "PyData Porto",
+     "Cobalt Harbor",
+     "Tbilisi"
+    ],
+    "people": [
+     "Joaquin Vasquez"
+    ],
+    "text": "Met Joaquin Vasquez at PyData Porto. Joaquin is a product designer at Cobalt Harbor, based in Tbilisi."
+   }
+  ],
+  "2026-05-28": [
+   {
+    "entity": "Ana Zielinski",
+    "kind": "meet",
+    "must": [
+     "Ana Zielinski",
+     "the Halloween hackathon",
+     "Quillfeather",
+     "Montreal"
+    ],
+    "people": [
+     "Ana Zielinski"
+    ],
+    "text": "Met Ana Zielinski at the Halloween hackathon. Ana is a engineering manager at Quillfeather, based in Montreal."
+   },
+   {
+    "entity": "Sven Sato",
+    "kind": "pet",
+    "must": [
+     "Sven",
+     "Basil"
+    ],
+    "people": [
+     "Sven Sato"
+    ],
+    "text": "Sven's dog is called Basil."
+   },
+   {
+    "entity": "Hana Wexler",
+    "kind": "touch",
+    "must": [
+     "Hana Wexler"
+    ],
+    "people": [
+     "Hana Wexler"
+    ],
+    "text": "Walk with Hana Wexler; we talked about on-call rotations."
+   },
+   {
+    "entity": "Kavya Lindqvist",
+    "kind": "touch",
+    "must": [
+     "Kavya Lindqvist"
+    ],
+    "people": [
+     "Kavya Lindqvist"
+    ],
+    "text": "Walk with Kavya Lindqvist; we talked about Orchard-Maps."
+   }
+  ],
+  "2026-05-29": [
+   {
+    "entity": "Hugo Whitfield",
+    "kind": "hobby",
+    "must": [
+     "Hugo Whitfield",
+     "trail running"
+    ],
+    "people": [
+     "Hugo Whitfield"
+    ],
+    "text": "Hugo Whitfield spends weekends on trail running."
+   },
+   {
+    "entity": "Yusuf Laurent",
+    "kind": "meet",
+    "must": [
+     "Yusuf Laurent",
+     "a friend's dinner party",
+     "Halcyon Bio",
+     "Montreal",
+     "Hugo Rasmussen"
+    ],
+    "people": [
+     "Yusuf Laurent",
+     "Hugo Rasmussen"
+    ],
+    "text": "Met Yusuf Laurent at a friend's dinner party. Yusuf is a frontend engineer at Halcyon Bio, based in Montreal. Hugo Rasmussen introduced us."
+   },
+   {
+    "entity": "Lior Fontaine",
+    "kind": "touch",
+    "must": [
+     "Lior"
+    ],
+    "people": [
+     "Lior Fontaine"
+    ],
+    "text": "Coffee with Lior; we talked about remote work."
+   },
+   {
+    "entity": "Nadia Ashdown",
+    "kind": "touch",
+    "must": [
+     "Nadia Ashdown"
+    ],
+    "people": [
+     "Nadia Ashdown"
+    ],
+    "text": "Lunch with Nadia Ashdown; we talked about on-call rotations."
+   },
+   {
+    "entity": "Rosa Kowalczyk",
+    "kind": "touch",
+    "must": [
+     "Rosa"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Lunch with Rosa; we talked about Pebble-Shell."
+   }
+  ],
+  "2026-06-01": [
+   {
+    "entity": "Greta Quiroga",
+    "kind": "meet",
+    "must": [
+     "Greta Quiroga",
+     "the open-source sprint",
+     "Cobalt Harbor",
+     "Madison"
+    ],
+    "people": [
+     "Greta Quiroga"
+    ],
+    "text": "Met Greta Quiroga at the open-source sprint. Greta is a backend engineer at Cobalt Harbor, based in Madison."
+   }
+  ],
+  "2026-06-02": [
+   {
+    "entity": "Farah Pacheco",
+    "kind": "touch",
+    "must": [
+     "Farah"
+    ],
+    "people": [
+     "Farah Pacheco"
+    ],
+    "text": "Call with Farah; we talked about on-call rotations."
+   }
+  ],
+  "2026-06-03": [
+   {
+    "entity": "Ana Zielinski",
+    "kind": "hobby",
+    "must": [
+     "Ana Zielinski",
+     "open-water swimming"
+    ],
+    "people": [
+     "Ana Zielinski"
+    ],
+    "text": "Ana Zielinski spends weekends on open-water swimming."
+   },
+   {
+    "entity": "Sven Sato",
+    "kind": "hobby",
+    "must": [
+     "Sven Sato",
+     "competitive chess"
+    ],
+    "people": [
+     "Sven Sato"
+    ],
+    "text": "Sven Sato spends weekends on competitive chess."
+   },
+   {
+    "entity": "Dario Tanaka",
+    "kind": "meet",
+    "must": [
+     "Dario Tanaka",
+     "a friend's dinner party",
+     "Verdant Grid",
+     "Krak\u00f3w"
+    ],
+    "people": [
+     "Dario Tanaka"
+    ],
+    "text": "Met Dario Tanaka at a friend's dinner party. Dario is a product designer at Verdant Grid, based in Krak\u00f3w."
+   },
+   {
+    "entity": "Ines Nakamura",
+    "kind": "meet",
+    "must": [
+     "Ines Nakamura",
+     "the local AI reading group",
+     "Embergate",
+     "Austin",
+     "Hana Wexler"
+    ],
+    "people": [
+     "Ines Nakamura",
+     "Hana Wexler"
+    ],
+    "text": "Met Ines Nakamura at the local AI reading group. Ines is a technical writer at Embergate, based in Austin. Hana Wexler introduced us."
+   },
+   {
+    "entity": "Quentin Calloway",
+    "kind": "touch",
+    "must": [
+     "Quentin Calloway"
+    ],
+    "people": [
+     "Quentin Calloway"
+    ],
+    "text": "Call with Quentin Calloway; we talked about a book they are reading."
+   },
+   {
+    "entity": "Joaquin Vasquez",
+    "kind": "touch",
+    "must": [
+     "Joaquin Vasquez"
+    ],
+    "people": [
+     "Joaquin Vasquez"
+    ],
+    "text": "Walk with Joaquin Vasquez; we talked about pricing."
+   }
+  ],
+  "2026-06-05": [
+   {
+    "entity": "Jun Haddad",
+    "kind": "join",
+    "must": [
+     "Jun",
+     "Orchard-Maps"
+    ],
+    "people": [
+     "Jun Haddad"
+    ],
+    "text": "Jun joined Orchard-Maps as a collaborator."
+   }
+  ],
+  "2026-06-08": [
+   {
+    "entity": "Farah Pacheco",
+    "kind": "touch",
+    "must": [
+     "Farah Pacheco"
+    ],
+    "people": [
+     "Farah Pacheco"
+    ],
+    "text": "Lunch with Farah Pacheco; we talked about a side project idea."
+   },
+   {
+    "entity": "Hugo Whitfield",
+    "kind": "touch",
+    "must": [
+     "Hugo Whitfield"
+    ],
+    "people": [
+     "Hugo Whitfield"
+    ],
+    "text": "Lunch with Hugo Whitfield; we talked about hiring plans."
+   },
+   {
+    "entity": "Bruno Delacroix",
+    "kind": "touch",
+    "must": [
+     "Bruno"
+    ],
+    "people": [
+     "Bruno Delacroix"
+    ],
+    "text": "Walk with Bruno; we talked about hiring plans."
+   }
+  ],
+  "2026-06-09": [
+   {
+    "entity": "Greta Quiroga",
+    "kind": "pet",
+    "must": [
+     "Greta Quiroga",
+     "Biscuit"
+    ],
+    "people": [
+     "Greta Quiroga"
+    ],
+    "text": "Greta Quiroga's dog is called Biscuit."
+   },
+   {
+    "entity": "Dario Tanaka",
+    "kind": "touch",
+    "must": [
+     "Dario"
+    ],
+    "people": [
+     "Dario Tanaka"
+    ],
+    "text": "Coffee with Dario; we talked about a book they are reading."
+   },
+   {
+    "entity": "Greta Quiroga",
+    "kind": "touch",
+    "must": [
+     "Greta Quiroga"
+    ],
+    "people": [
+     "Greta Quiroga"
+    ],
+    "text": "Coffee with Greta Quiroga; we talked about a side project idea."
+   },
+   {
+    "entity": "Lior Fontaine",
+    "kind": "touch",
+    "must": [
+     "Lior Fontaine"
+    ],
+    "people": [
+     "Lior Fontaine"
+    ],
+    "text": "Walk with Lior Fontaine; we talked about the job market."
+   }
+  ],
+  "2026-06-10": [
+   {
+    "entity": "Umar Iwasaki",
+    "kind": "meet",
+    "must": [
+     "Umar Iwasaki",
+     "a startup demo night",
+     "Halcyon Bio",
+     "Ljubljana"
+    ],
+    "people": [
+     "Umar Iwasaki"
+    ],
+    "text": "Met Umar Iwasaki at a startup demo night. Umar is a SRE at Halcyon Bio, based in Ljubljana."
+   },
+   {
+    "entity": "Kavya Lindqvist",
+    "kind": "pet",
+    "must": [
+     "Kavya Lindqvist",
+     "Ziggy"
+    ],
+    "people": [
+     "Kavya Lindqvist"
+    ],
+    "text": "Kavya Lindqvist's dog is called Ziggy."
+   },
+   {
+    "entity": "Ana Zielinski",
+    "kind": "touch",
+    "must": [
+     "Ana Zielinski"
+    ],
+    "people": [
+     "Ana Zielinski"
+    ],
+    "text": "Coffee with Ana Zielinski; we talked about pricing."
+   }
+  ],
+  "2026-06-11": [
+   {
+    "entity": "Dario Tanaka",
+    "kind": "hobby",
+    "must": [
+     "Dario",
+     "competitive chess"
+    ],
+    "people": [
+     "Dario Tanaka"
+    ],
+    "text": "Dario spends weekends on competitive chess."
+   },
+   {
+    "entity": "Priya Castellano",
+    "kind": "touch",
+    "must": [
+     "Priya Castellano"
+    ],
+    "people": [
+     "Priya Castellano"
+    ],
+    "text": "Call with Priya Castellano; we talked about hiring plans."
+   },
+   {
+    "entity": "Farah Pacheco",
+    "kind": "touch",
+    "must": [
+     "Farah Pacheco"
+    ],
+    "people": [
+     "Farah Pacheco"
+    ],
+    "text": "Coffee with Farah Pacheco; we talked about Heron-Eval."
+   },
+   {
+    "entity": "Dario Tanaka",
+    "kind": "touch",
+    "must": [
+     "Dario"
+    ],
+    "people": [
+     "Dario Tanaka"
+    ],
+    "text": "Lunch with Dario; we talked about pricing."
+   }
+  ],
+  "2026-06-12": [
+   {
+    "entity": "Joaquin Vasquez",
+    "kind": "hobby_wrong",
+    "must": [
+     "Joaquin Vasquez",
+     "sourdough baking"
+    ],
+    "people": [
+     "Joaquin Vasquez"
+    ],
+    "text": "Joaquin Vasquez is really into sourdough baking."
+   },
+   {
+    "entity": "Felix Trevino",
+    "kind": "meet",
+    "must": [
+     "Felix Trevino",
+     "PyData Porto",
+     "Kiteline",
+     "Porto",
+     "Ines Nakamura"
+    ],
+    "people": [
+     "Felix Trevino",
+     "Ines Nakamura"
+    ],
+    "text": "Met Felix Trevino at PyData Porto. Felix is a frontend engineer at Kiteline, based in Porto. Ines Nakamura introduced us."
+   },
+   {
+    "entity": "Mateo Rahman",
+    "kind": "pet",
+    "must": [
+     "Mateo Rahman",
+     "Basil"
+    ],
+    "people": [
+     "Mateo Rahman"
+    ],
+    "text": "Mateo Rahman's dog is called Basil."
+   },
+   {
+    "entity": "Greta Quiroga",
+    "kind": "touch",
+    "must": [
+     "Greta"
+    ],
+    "people": [
+     "Greta Quiroga"
+    ],
+    "text": "Lunch with Greta; we talked about hiring plans."
+   },
+   {
+    "entity": "Lior Fontaine",
+    "kind": "touch",
+    "must": [
+     "Lior Fontaine"
+    ],
+    "people": [
+     "Lior Fontaine"
+    ],
+    "text": "Lunch with Lior Fontaine; we talked about travel plans."
+   }
+  ],
+  "2026-06-15": [
+   {
+    "entity": "Umar Iwasaki",
+    "kind": "hobby",
+    "must": [
+     "Umar",
+     "sourdough baking"
+    ],
+    "people": [
+     "Umar Iwasaki"
+    ],
+    "text": "Umar spends weekends on sourdough baking."
+   },
+   {
+    "entity": "Hugo Rasmussen",
+    "kind": "pet",
+    "must": [
+     "Hugo Rasmussen",
+     "Juniper"
+    ],
+    "people": [
+     "Hugo Rasmussen"
+    ],
+    "text": "Hugo Rasmussen's dog is called Juniper."
+   }
+  ],
+  "2026-06-16": [
+   {
+    "entity": "Mateo Rahman",
+    "kind": "join",
+    "must": [
+     "Mateo Rahman",
+     "Mosaic-Ledger"
+    ],
+    "people": [
+     "Mateo Rahman"
+    ],
+    "text": "Mateo Rahman joined Mosaic-Ledger as a collaborator."
+   }
+  ],
+  "2026-06-17": [
+   {
+    "entity": "Bruno Delacroix",
+    "kind": "touch",
+    "must": [
+     "Bruno"
+    ],
+    "people": [
+     "Bruno Delacroix"
+    ],
+    "text": "Call with Bruno; we talked about the job market."
+   },
+   {
+    "entity": "Umar Iwasaki",
+    "kind": "touch",
+    "must": [
+     "Umar Iwasaki"
+    ],
+    "people": [
+     "Umar Iwasaki"
+    ],
+    "text": "Lunch with Umar Iwasaki; we talked about travel plans."
+   }
+  ],
+  "2026-06-18": [
+   {
+    "entity": "Ximena Brennan",
+    "kind": "employer",
+    "must": [
+     "Xime",
+     "Juniper Systems"
+    ],
+    "people": [
+     "Ximena Brennan"
+    ],
+    "text": "Xime left Quillfeather and now works at Juniper Systems."
+   },
+   {
+    "entity": "Felix Trevino",
+    "kind": "hobby",
+    "must": [
+     "Felix",
+     "open-water swimming"
+    ],
+    "people": [
+     "Felix Trevino"
+    ],
+    "text": "Felix spends weekends on open-water swimming."
+   },
+   {
+    "entity": "Yusuf Laurent",
+    "kind": "hobby",
+    "must": [
+     "Yusuf Laurent",
+     "fencing"
+    ],
+    "people": [
+     "Yusuf Laurent"
+    ],
+    "text": "Yusuf Laurent spends weekends on fencing."
+   },
+   {
+    "entity": "Heron-Eval",
+    "kind": "lang",
+    "must": [
+     "Heron-Eval",
+     "Swift"
+    ],
+    "people": [],
+    "text": "Heron-Eval is being rewritten from Elixir in Swift; the Elixir version is retired."
+   }
+  ],
+  "2026-06-19": [
+   {
+    "entity": "Priya Castellano",
+    "kind": "employer",
+    "must": [
+     "Priya Castellano",
+     "Kiteline"
+    ],
+    "people": [
+     "Priya Castellano"
+    ],
+    "text": "Priya Castellano left Juniper Systems and now works at Kiteline."
+   },
+   {
+    "entity": "Ines Nakamura",
+    "kind": "hobby",
+    "must": [
+     "Ines Nakamura",
+     "sourdough baking"
+    ],
+    "people": [
+     "Ines Nakamura"
+    ],
+    "text": "Ines Nakamura spends weekends on sourdough baking."
+   },
+   {
+    "entity": "Tidewater-API",
+    "kind": "lang",
+    "must": [
+     "Tidewater-API",
+     "Go"
+    ],
+    "people": [],
+    "text": "Tidewater-API is being rewritten from OCaml in Go; the OCaml version is retired."
+   },
+   {
+    "entity": "Hana Wexler",
+    "kind": "touch",
+    "must": [
+     "Hana Wexler"
+    ],
+    "people": [
+     "Hana Wexler"
+    ],
+    "text": "Call with Hana Wexler; we talked about travel plans."
+   }
+  ],
+  "2026-06-22": [
+   {
+    "entity": "Saffron-Notes",
+    "kind": "status",
+    "must": [
+     "Saffron-Notes",
+     "in beta"
+    ],
+    "people": [],
+    "text": "Saffron-Notes is now in beta."
+   },
+   {
+    "entity": "Ines Nakamura",
+    "kind": "touch",
+    "must": [
+     "Ines"
+    ],
+    "people": [
+     "Ines Nakamura"
+    ],
+    "text": "Call with Ines; we talked about travel plans."
+   },
+   {
+    "entity": "Sven Sato",
+    "kind": "touch",
+    "must": [
+     "Sven"
+    ],
+    "people": [
+     "Sven Sato"
+    ],
+    "text": "Lunch with Sven; we talked about pricing."
+   },
+   {
+    "entity": "Sven Sato",
+    "kind": "touch",
+    "must": [
+     "Sven"
+    ],
+    "people": [
+     "Sven Sato"
+    ],
+    "text": "Walk with Sven; we talked about travel plans."
+   }
+  ],
+  "2026-06-23": [
+   {
+    "entity": "Joaquin Vasquez",
+    "kind": "touch",
+    "must": [
+     "Joaquin Vasquez"
+    ],
+    "people": [
+     "Joaquin Vasquez"
+    ],
+    "text": "Walk with Joaquin Vasquez; we talked about remote work."
+   },
+   {
+    "entity": "Priya Castellano",
+    "kind": "touch",
+    "must": [
+     "Priya"
+    ],
+    "people": [
+     "Priya Castellano"
+    ],
+    "text": "Walk with Priya; we talked about travel plans."
+   }
+  ],
+  "2026-06-24": [
+   {
+    "entity": "Greta Quiroga",
+    "kind": "hobby",
+    "must": [
+     "Greta Quiroga",
+     "open-water swimming"
+    ],
+    "people": [
+     "Greta Quiroga"
+    ],
+    "text": "Greta Quiroga spends weekends on open-water swimming."
+   },
+   {
+    "entity": "Jun Haddad",
+    "kind": "school",
+    "must": [
+     "Jun Haddad",
+     "KAIST"
+    ],
+    "people": [
+     "Jun Haddad"
+    ],
+    "text": "Jun Haddad studied at KAIST."
+   },
+   {
+    "entity": "Felix Trevino",
+    "kind": "touch",
+    "must": [
+     "Felix"
+    ],
+    "people": [
+     "Felix Trevino"
+    ],
+    "text": "Coffee with Felix; we talked about pricing."
+   }
+  ],
+  "2026-06-26": [
+   {
+    "entity": "Mateo Rahman",
+    "kind": "employer",
+    "must": [
+     "Mateo Rahman",
+     "Quillfeather"
+    ],
+    "people": [
+     "Mateo Rahman"
+    ],
+    "text": "Mateo Rahman left Marrow & Finch and now works at Quillfeather."
+   },
+   {
+    "entity": "Farah Pacheco",
+    "kind": "join",
+    "must": [
+     "Farah",
+     "Bramble-DB"
+    ],
+    "people": [
+     "Farah Pacheco"
+    ],
+    "text": "Farah joined Bramble-DB as a collaborator."
+   },
+   {
+    "entity": "Dmitri Okonkwo",
+    "kind": "meet",
+    "must": [
+     "Dmitri Okonkwo",
+     "the open-source sprint",
+     "Kiteline",
+     "Valparaiso"
+    ],
+    "people": [
+     "Dmitri Okonkwo"
+    ],
+    "text": "Met Dmitri Okonkwo at the open-source sprint. Dmitri is a security engineer at Kiteline, based in Valparaiso."
+   },
+   {
+    "entity": "Ivo Yilmaz",
+    "kind": "meet",
+    "must": [
+     "Ivo Yilmaz",
+     "the open-source sprint",
+     "Juniper Systems",
+     "Ljubljana"
+    ],
+    "people": [
+     "Ivo Yilmaz"
+    ],
+    "text": "Met Ivo Yilmaz at the open-source sprint. Ivo is a developer advocate at Juniper Systems, based in Ljubljana."
+   },
+   {
+    "entity": "Tamsin Ulloa",
+    "kind": "meet",
+    "must": [
+     "Tamsin Ulloa",
+     "the RustConf meetup",
+     "Pinecrest Data",
+     "Hobart"
+    ],
+    "people": [
+     "Tamsin Ulloa"
+    ],
+    "text": "Met Tamsin Ulloa at the RustConf meetup. Tamsin is a SRE at Pinecrest Data, based in Hobart."
+   },
+   {
+    "entity": "Mateo Rahman",
+    "kind": "touch",
+    "must": [
+     "Mateo Rahman"
+    ],
+    "people": [
+     "Mateo Rahman"
+    ],
+    "text": "Walk with Mateo Rahman; we talked about a book they are reading."
+   }
+  ],
+  "2026-06-29": [
+   {
+    "entity": "Felix Trevino",
+    "kind": "city",
+    "must": [
+     "Felix Trevino",
+     "Porto"
+    ],
+    "people": [
+     "Felix Trevino"
+    ],
+    "text": "Felix Trevino moved from Bergen to Porto."
+   },
+   {
+    "entity": "Orchard-Maps",
+    "kind": "deadline",
+    "must": [
+     "Orchard-Maps",
+     "August 24"
+    ],
+    "people": [],
+    "text": "Orchard-Maps deadline moved from July 31 to August 24."
+   },
+   {
+    "entity": "Zara Szabo",
+    "kind": "meet",
+    "must": [
+     "Zara Szabo",
+     "the open-source sprint",
+     "Quillfeather",
+     "Tallinn"
+    ],
+    "people": [
+     "Zara Szabo"
+    ],
+    "text": "Met Zara Szabo at the open-source sprint. Zara is a technical writer at Quillfeather, based in Tallinn."
+   },
+   {
+    "entity": "Farah Pacheco",
+    "kind": "school",
+    "must": [
+     "Farah Pacheco",
+     "Sciences Po"
+    ],
+    "people": [
+     "Farah Pacheco"
+    ],
+    "text": "Farah Pacheco studied at Sciences Po."
+   },
+   {
+    "entity": "Nadia Ashdown",
+    "kind": "school",
+    "must": [
+     "Nadia Ashdown",
+     "TU Delft"
+    ],
+    "people": [
+     "Nadia Ashdown"
+    ],
+    "text": "Nadia Ashdown studied at TU Delft."
+   }
+  ],
+  "2026-06-30": [
+   {
+    "entity": "Joaquin Vasquez",
+    "kind": "hobby_fix",
+    "must": [
+     "Joaquin Vasquez",
+     "trail running"
+    ],
+    "people": [
+     "Joaquin Vasquez"
+    ],
+    "text": "Correction: Joaquin Vasquez is into trail running, not sourdough baking; I had that wrong."
+   },
+   {
+    "entity": "Hana Wexler",
+    "kind": "touch",
+    "must": [
+     "Hana"
+    ],
+    "people": [
+     "Hana Wexler"
+    ],
+    "text": "Coffee with Hana; we talked about the job market."
+   }
+  ],
+  "2026-07-01": [
+   {
+    "entity": "Lior Fontaine",
+    "kind": "city",
+    "must": [
+     "Lior",
+     "Hobart"
+    ],
+    "people": [
+     "Lior Fontaine"
+    ],
+    "text": "Lior moved from Porto to Hobart."
+   },
+   {
+    "entity": "Nadia Ashdown",
+    "kind": "touch",
+    "must": [
+     "Nadia"
+    ],
+    "people": [
+     "Nadia Ashdown"
+    ],
+    "text": "Walk with Nadia; we talked about Kestrel-Sync."
+   }
+  ],
+  "2026-07-02": [
+   {
+    "entity": "Hana Wexler",
+    "kind": "touch",
+    "must": [
+     "Hana Wexler"
+    ],
+    "people": [
+     "Hana Wexler"
+    ],
+    "text": "Call with Hana Wexler; we talked about a book they are reading."
+   },
+   {
+    "entity": "Rosa Kowalczyk",
+    "kind": "touch",
+    "must": [
+     "Rosa Kowalczyk"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Call with Rosa Kowalczyk; we talked about a conference talk."
+   }
+  ],
+  "2026-07-03": [
+   {
+    "entity": "Dmitri Okonkwo",
+    "kind": "hobby_wrong",
+    "must": [
+     "Dmitri",
+     "fencing"
+    ],
+    "people": [
+     "Dmitri Okonkwo"
+    ],
+    "text": "Dmitri is really into fencing."
+   }
+  ],
+  "2026-07-06": [
+   {
+    "entity": "Tamsin Ulloa",
+    "kind": "hobby",
+    "must": [
+     "Tamsin Ulloa",
+     "pottery"
+    ],
+    "people": [
+     "Tamsin Ulloa"
+    ],
+    "text": "Tamsin Ulloa spends weekends on pottery."
+   },
+   {
+    "entity": "Zara Szabo",
+    "kind": "hobby_wrong",
+    "must": [
+     "Zara",
+     "film photography"
+    ],
+    "people": [
+     "Zara Szabo"
+    ],
+    "text": "Zara is really into film photography."
+   }
+  ],
+  "2026-07-07": [
+   {
+    "entity": "Kestrel-Sync",
+    "kind": "deadline",
+    "must": [
+     "Kestrel-Sync",
+     "July 18"
+    ],
+    "people": [],
+    "text": "Kestrel-Sync deadline moved from July 1 to July 18."
+   },
+   {
+    "entity": "Chioma Oyelaran",
+    "kind": "meet",
+    "must": [
+     "Chioma Oyelaran",
+     "PyData Porto",
+     "Northwind Labs",
+     "Tallinn",
+     "Priya Castellano"
+    ],
+    "people": [
+     "Chioma Oyelaran",
+     "Priya Castellano"
+    ],
+    "text": "Met Chioma Oyelaran at PyData Porto. Chioma is a frontend engineer at Northwind Labs, based in Tallinn. Priya Castellano introduced us."
+   },
+   {
+    "entity": "Bilal Varga",
+    "kind": "touch",
+    "must": [
+     "Bilal Varga"
+    ],
+    "people": [
+     "Bilal Varga"
+    ],
+    "text": "Lunch with Bilal Varga; we talked about Gullwing-Auth."
+   },
+   {
+    "entity": "Ivo Yilmaz",
+    "kind": "touch",
+    "must": [
+     "Ivo"
+    ],
+    "people": [
+     "Ivo Yilmaz"
+    ],
+    "text": "Walk with Ivo; we talked about a side project idea."
+   }
+  ],
+  "2026-07-08": [
+   {
+    "entity": "Bruno Delacroix",
+    "kind": "touch",
+    "must": [
+     "Bruno Delacroix"
+    ],
+    "people": [
+     "Bruno Delacroix"
+    ],
+    "text": "Call with Bruno Delacroix; we talked about on-call rotations."
+   },
+   {
+    "entity": "Mateo Rahman",
+    "kind": "touch",
+    "must": [
+     "Mateo Rahman"
+    ],
+    "people": [
+     "Mateo Rahman"
+    ],
+    "text": "Coffee with Mateo Rahman; we talked about pricing."
+   },
+   {
+    "entity": "Rosa Kowalczyk",
+    "kind": "touch",
+    "must": [
+     "Rosa Kowalczyk"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Coffee with Rosa Kowalczyk; we talked about Pebble-Shell."
+   }
+  ],
+  "2026-07-09": [
+   {
+    "entity": "Wendell Eriksen",
+    "kind": "join",
+    "must": [
+     "Dell",
+     "Kestrel-Sync"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Dell joined Kestrel-Sync as a collaborator."
+   },
+   {
+    "entity": "Orchard-Maps",
+    "kind": "owner",
+    "must": [
+     "Orchard-Maps",
+     "Hugo Rasmussen"
+    ],
+    "people": [
+     "Mateo Rahman",
+     "Hugo Rasmussen"
+    ],
+    "text": "Mateo Rahman handed Orchard-Maps over to Hugo Rasmussen, who owns it from now on."
+   },
+   {
+    "entity": "Hana Wexler",
+    "kind": "touch",
+    "must": [
+     "Hana Wexler"
+    ],
+    "people": [
+     "Hana Wexler"
+    ],
+    "text": "Call with Hana Wexler; we talked about a side project idea."
+   }
+  ],
+  "2026-07-10": [
+   {
+    "entity": "Yusuf Laurent",
+    "kind": "touch",
+    "must": [
+     "Yusuf Laurent"
+    ],
+    "people": [
+     "Yusuf Laurent"
+    ],
+    "text": "Coffee with Yusuf Laurent; we talked about a side project idea."
+   }
+  ],
+  "2026-07-13": [
+   {
+    "entity": "Heron-Eval",
+    "kind": "owner",
+    "must": [
+     "Heron-Eval",
+     "Yusuf Laurent"
+    ],
+    "people": [
+     "Ximena Brennan",
+     "Yusuf Laurent"
+    ],
+    "text": "Ximena Brennan handed Heron-Eval over to Yusuf Laurent, who owns it from now on."
+   },
+   {
+    "entity": "Bilal Varga",
+    "kind": "school",
+    "must": [
+     "Bilal Varga",
+     "ETH Zurich"
+    ],
+    "people": [
+     "Bilal Varga"
+    ],
+    "text": "Bilal Varga studied at ETH Zurich."
+   },
+   {
+    "entity": "Tidewater-API",
+    "kind": "status",
+    "must": [
+     "Tidewater-API",
+     "shipped"
+    ],
+    "people": [],
+    "text": "Tidewater-API is now shipped."
+   },
+   {
+    "entity": "Chioma Oyelaran",
+    "kind": "touch",
+    "must": [
+     "Chioma Oyelaran"
+    ],
+    "people": [
+     "Chioma Oyelaran"
+    ],
+    "text": "Call with Chioma Oyelaran; we talked about a book they are reading."
+   }
+  ],
+  "2026-07-14": [
+   {
+    "entity": "Elif Petrov",
+    "kind": "meet",
+    "must": [
+     "Elif Petrov",
+     "a climbing gym session",
+     "Cobalt Harbor",
+     "Bergen"
+    ],
+    "people": [
+     "Elif Petrov"
+    ],
+    "text": "Met Elif Petrov at a climbing gym session. Elif is a engineering manager at Cobalt Harbor, based in Bergen."
+   },
+   {
+    "entity": "Ines Nakamura",
+    "kind": "touch",
+    "must": [
+     "Ines Nakamura"
+    ],
+    "people": [
+     "Ines Nakamura"
+    ],
+    "text": "Call with Ines Nakamura; we talked about remote work."
+   },
+   {
+    "entity": "Tamsin Ulloa",
+    "kind": "touch",
+    "must": [
+     "Tam"
+    ],
+    "people": [
+     "Tamsin Ulloa"
+    ],
+    "text": "Call with Tam; we talked about remote work."
+   },
+   {
+    "entity": "Ana Zielinski",
+    "kind": "touch",
+    "must": [
+     "Ana Zielinski"
+    ],
+    "people": [
+     "Ana Zielinski"
+    ],
+    "text": "Coffee with Ana Zielinski; we talked about a side project idea."
+   },
+   {
+    "entity": "Dario Tanaka",
+    "kind": "touch",
+    "must": [
+     "Dario"
+    ],
+    "people": [
+     "Dario Tanaka"
+    ],
+    "text": "Coffee with Dario; we talked about hiring plans."
+   },
+   {
+    "entity": "Umar Iwasaki",
+    "kind": "touch",
+    "must": [
+     "Umar"
+    ],
+    "people": [
+     "Umar Iwasaki"
+    ],
+    "text": "Coffee with Umar; we talked about a side project idea."
+   },
+   {
+    "entity": "Tamsin Ulloa",
+    "kind": "touch",
+    "must": [
+     "Tam"
+    ],
+    "people": [
+     "Tamsin Ulloa"
+    ],
+    "text": "Lunch with Tam; we talked about remote work."
+   }
+  ],
+  "2026-07-15": [
+   {
+    "entity": "Saffron-Notes",
+    "kind": "lang",
+    "must": [
+     "Saffron-Notes",
+     "Swift"
+    ],
+    "people": [],
+    "text": "Saffron-Notes is being rewritten from Clojure in Swift; the Clojure version is retired."
+   },
+   {
+    "entity": "Celeste Mbeki",
+    "kind": "meet",
+    "must": [
+     "Celeste Mbeki",
+     "a conference hallway track",
+     "Brightwater AI",
+     "Cordoba",
+     "Mateo Rahman"
+    ],
+    "people": [
+     "Celeste Mbeki",
+     "Mateo Rahman"
+    ],
+    "text": "Met Celeste Mbeki at a conference hallway track. Celeste is a founder at Brightwater AI, based in Cordoba. Mateo Rahman introduced us."
+   },
+   {
+    "entity": "Ana Zielinski",
+    "kind": "pet",
+    "must": [
+     "Ana Zielinski",
+     "Turnip"
+    ],
+    "people": [
+     "Ana Zielinski"
+    ],
+    "text": "Ana Zielinski's dog is called Turnip."
+   },
+   {
+    "entity": "Tamsin Ulloa",
+    "kind": "touch",
+    "must": [
+     "Tamsin Ulloa"
+    ],
+    "people": [
+     "Tamsin Ulloa"
+    ],
+    "text": "Walk with Tamsin Ulloa; we talked about a book they are reading."
+   }
+  ],
+  "2026-07-16": [
+   {
+    "entity": "Ivo Yilmaz",
+    "kind": "city",
+    "must": [
+     "Ivo Yilmaz",
+     "Ljubljana"
+    ],
+    "people": [
+     "Ivo Yilmaz"
+    ],
+    "text": "Ivo Yilmaz moved from Leipzig to Ljubljana."
+   },
+   {
+    "entity": "Sven Sato",
+    "kind": "employer",
+    "must": [
+     "Sven",
+     "Kiteline"
+    ],
+    "people": [
+     "Sven Sato"
+    ],
+    "text": "Sven left Juniper Systems and now works at Kiteline."
+   },
+   {
+    "entity": "Tamsin Ulloa",
+    "kind": "touch",
+    "must": [
+     "Tam"
+    ],
+    "people": [
+     "Tamsin Ulloa"
+    ],
+    "text": "Lunch with Tam; we talked about on-call rotations."
+   },
+   {
+    "entity": "Chioma Oyelaran",
+    "kind": "touch",
+    "must": [
+     "Chioma Oyelaran"
+    ],
+    "people": [
+     "Chioma Oyelaran"
+    ],
+    "text": "Walk with Chioma Oyelaran; we talked about hiring plans."
+   },
+   {
+    "entity": "Joaquin Vasquez",
+    "kind": "touch",
+    "must": [
+     "Quino"
+    ],
+    "people": [
+     "Joaquin Vasquez"
+    ],
+    "text": "Walk with Quino; we talked about on-call rotations."
+   }
+  ],
+  "2026-07-17": [
+   {
+    "entity": "Hana Wexler",
+    "kind": "touch",
+    "must": [
+     "Hana Wexler"
+    ],
+    "people": [
+     "Hana Wexler"
+    ],
+    "text": "Call with Hana Wexler; we talked about on-call rotations."
+   },
+   {
+    "entity": "Hugo Rasmussen",
+    "kind": "touch",
+    "must": [
+     "Hugo Rasmussen"
+    ],
+    "people": [
+     "Hugo Rasmussen"
+    ],
+    "text": "Coffee with Hugo Rasmussen; we talked about on-call rotations."
+   },
+   {
+    "entity": "Yusuf Laurent",
+    "kind": "touch",
+    "must": [
+     "Yusuf Laurent"
+    ],
+    "people": [
+     "Yusuf Laurent"
+    ],
+    "text": "Coffee with Yusuf Laurent; we talked about travel plans."
+   },
+   {
+    "entity": "Ines Nakamura",
+    "kind": "touch",
+    "must": [
+     "Ines"
+    ],
+    "people": [
+     "Ines Nakamura"
+    ],
+    "text": "Walk with Ines; we talked about on-call rotations."
+   }
+  ],
+  "2026-07-20": [
+   {
+    "entity": "Elif Petrov",
+    "kind": "hobby",
+    "must": [
+     "Elif Petrov",
+     "woodworking"
+    ],
+    "people": [
+     "Elif Petrov"
+    ],
+    "text": "Elif Petrov spends weekends on woodworking."
+   },
+   {
+    "entity": "Ivo Yilmaz",
+    "kind": "hobby",
+    "must": [
+     "Ivo Yilmaz",
+     "sourdough baking"
+    ],
+    "people": [
+     "Ivo Yilmaz"
+    ],
+    "text": "Ivo Yilmaz spends weekends on sourdough baking."
+   },
+   {
+    "entity": "Oskar Moreau",
+    "kind": "meet",
+    "must": [
+     "Oskar Moreau",
+     "a climbing gym session",
+     "Pinecrest Data",
+     "Austin",
+     "Chioma Oyelaran"
+    ],
+    "people": [
+     "Oskar Moreau",
+     "Chioma Oyelaran"
+    ],
+    "text": "Met Oskar Moreau at a climbing gym session. Oskar is a SRE at Pinecrest Data, based in Austin. Chioma Oyelaran introduced us."
+   },
+   {
+    "entity": "Yusuf Laurent",
+    "kind": "pet",
+    "must": [
+     "Yusuf",
+     "Waffles"
+    ],
+    "people": [
+     "Yusuf Laurent"
+    ],
+    "text": "Yusuf's dog is called Waffles."
+   }
+  ],
+  "2026-07-21": [
+   {
+    "entity": "Rosa Kowalczyk",
+    "kind": "employer",
+    "must": [
+     "Rosa",
+     "Cobalt Harbor"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Rosa left Brightwater AI and now works at Cobalt Harbor."
+   },
+   {
+    "entity": "Lior Fontaine",
+    "kind": "employer",
+    "must": [
+     "Lior Fontaine",
+     "Kiteline"
+    ],
+    "people": [
+     "Lior Fontaine"
+    ],
+    "text": "Lior Fontaine left Juniper Systems and now works at Kiteline."
+   }
+  ],
+  "2026-07-22": [
+   {
+    "entity": "Pebble-Shell",
+    "kind": "lang",
+    "must": [
+     "Pebble-Shell",
+     "Elixir"
+    ],
+    "people": [],
+    "text": "Pebble-Shell is being rewritten from Go in Elixir; the Go version is retired."
+   },
+   {
+    "entity": "Bruno Delacroix",
+    "kind": "touch",
+    "must": [
+     "Bruno Delacroix"
+    ],
+    "people": [
+     "Bruno Delacroix"
+    ],
+    "text": "Call with Bruno Delacroix; we talked about the job market."
+   },
+   {
+    "entity": "Ines Nakamura",
+    "kind": "touch",
+    "must": [
+     "Ines"
+    ],
+    "people": [
+     "Ines Nakamura"
+    ],
+    "text": "Coffee with Ines; we talked about eval design."
+   },
+   {
+    "entity": "Dario Tanaka",
+    "kind": "touch",
+    "must": [
+     "Dario Tanaka"
+    ],
+    "people": [
+     "Dario Tanaka"
+    ],
+    "text": "Lunch with Dario Tanaka; we talked about pricing."
+   }
+  ],
+  "2026-07-23": [
+   {
+    "entity": "Kestrel-Sync",
+    "kind": "lang",
+    "must": [
+     "Kestrel-Sync",
+     "Clojure"
+    ],
+    "people": [],
+    "text": "Kestrel-Sync is being rewritten from Zig in Clojure; the Zig version is retired."
+   },
+   {
+    "entity": "Ines Nakamura",
+    "kind": "pet",
+    "must": [
+     "Ines",
+     "Juniper"
+    ],
+    "people": [
+     "Ines Nakamura"
+    ],
+    "text": "Ines's dog is called Juniper."
+   },
+   {
+    "entity": "Ana Jaramillo",
+    "kind": "touch",
+    "must": [
+     "Ana Jaramillo"
+    ],
+    "people": [
+     "Ana Jaramillo"
+    ],
+    "text": "Coffee with Ana Jaramillo; we talked about Kestrel-Sync."
+   },
+   {
+    "entity": "Mateo Rahman",
+    "kind": "touch",
+    "must": [
+     "Mateo"
+    ],
+    "people": [
+     "Mateo Rahman"
+    ],
+    "text": "Coffee with Mateo; we talked about Kestrel-Sync."
+   }
+  ],
+  "2026-07-24": [
+   {
+    "entity": "Chioma Oyelaran",
+    "kind": "touch",
+    "must": [
+     "Chioma Oyelaran"
+    ],
+    "people": [
+     "Chioma Oyelaran"
+    ],
+    "text": "Lunch with Chioma Oyelaran; we talked about travel plans."
+   },
+   {
+    "entity": "Chioma Oyelaran",
+    "kind": "touch",
+    "must": [
+     "Chioma Oyelaran"
+    ],
+    "people": [
+     "Chioma Oyelaran"
+    ],
+    "text": "Walk with Chioma Oyelaran; we talked about a conference talk."
+   }
+  ],
+  "2026-07-27": [
+   {
+    "entity": "Nadia Ashdown",
+    "kind": "touch",
+    "must": [
+     "Nadia"
+    ],
+    "people": [
+     "Nadia Ashdown"
+    ],
+    "text": "Call with Nadia; we talked about the job market."
+   },
+   {
+    "entity": "Zara Szabo",
+    "kind": "touch",
+    "must": [
+     "Zara Szabo"
+    ],
+    "people": [
+     "Zara Szabo"
+    ],
+    "text": "Call with Zara Szabo; we talked about pricing."
+   },
+   {
+    "entity": "Oskar Moreau",
+    "kind": "touch",
+    "must": [
+     "Oskar"
+    ],
+    "people": [
+     "Oskar Moreau"
+    ],
+    "text": "Coffee with Oskar; we talked about a book they are reading."
+   }
+  ],
+  "2026-07-28": [
+   {
+    "entity": "Hana Wexler",
+    "kind": "hobby_fix",
+    "must": [
+     "Hana Wexler",
+     "beekeeping"
+    ],
+    "people": [
+     "Hana Wexler"
+    ],
+    "text": "Correction: Hana Wexler is into beekeeping, not film photography; I had that wrong."
+   },
+   {
+    "entity": "Dario Tanaka",
+    "kind": "school",
+    "must": [
+     "Dario",
+     "the University of Cape Town"
+    ],
+    "people": [
+     "Dario Tanaka"
+    ],
+    "text": "Dario studied at the University of Cape Town."
+   },
+   {
+    "entity": "Chioma Oyelaran",
+    "kind": "touch",
+    "must": [
+     "Chioma Oyelaran"
+    ],
+    "people": [
+     "Chioma Oyelaran"
+    ],
+    "text": "Coffee with Chioma Oyelaran; we talked about a book they are reading."
+   },
+   {
+    "entity": "Elif Petrov",
+    "kind": "touch",
+    "must": [
+     "Elif Petrov"
+    ],
+    "people": [
+     "Elif Petrov"
+    ],
+    "text": "Lunch with Elif Petrov; we talked about travel plans."
+   },
+   {
+    "entity": "Farah Pacheco",
+    "kind": "touch",
+    "must": [
+     "Farah"
+    ],
+    "people": [
+     "Farah Pacheco"
+    ],
+    "text": "Walk with Farah; we talked about travel plans."
+   }
+  ],
+  "2026-07-29": [
+   {
+    "entity": "Zara Szabo",
+    "kind": "hobby_fix",
+    "must": [
+     "Zara",
+     "woodworking"
+    ],
+    "people": [
+     "Zara Szabo"
+    ],
+    "text": "Correction: Zara is into woodworking, not film photography; I had that wrong."
+   },
+   {
+    "entity": "Gullwing-Auth",
+    "kind": "status",
+    "must": [
+     "Gullwing-Auth",
+     "shipped"
+    ],
+    "people": [],
+    "text": "Gullwing-Auth is now shipped."
+   }
+  ],
+  "2026-07-30": [
+   {
+    "entity": "Chioma Oyelaran",
+    "kind": "pet",
+    "must": [
+     "Chioma",
+     "Noodle"
+    ],
+    "people": [
+     "Chioma Oyelaran"
+    ],
+    "text": "Chioma's dog is called Noodle."
+   },
+   {
+    "entity": "Elif Petrov",
+    "kind": "pet",
+    "must": [
+     "Elif",
+     "Waffles"
+    ],
+    "people": [
+     "Elif Petrov"
+    ],
+    "text": "Elif's dog is called Waffles."
+   },
+   {
+    "entity": "Dmitri Okonkwo",
+    "kind": "touch",
+    "must": [
+     "Dima"
+    ],
+    "people": [
+     "Dmitri Okonkwo"
+    ],
+    "text": "Call with Dima; we talked about travel plans."
+   },
+   {
+    "entity": "Elif Petrov",
+    "kind": "touch",
+    "must": [
+     "Elif"
+    ],
+    "people": [
+     "Elif Petrov"
+    ],
+    "text": "Lunch with Elif; we talked about hiring plans."
+   }
+  ],
+  "2026-07-31": [
+   {
+    "entity": "Ana Jaramillo",
+    "kind": "pet",
+    "must": [
+     "Ana Jaramillo",
+     "Comet"
+    ],
+    "people": [
+     "Ana Jaramillo"
+    ],
+    "text": "Ana Jaramillo's dog is called Comet."
+   },
+   {
+    "entity": "Ivo Yilmaz",
+    "kind": "pet",
+    "must": [
+     "Ivo",
+     "Pixel"
+    ],
+    "people": [
+     "Ivo Yilmaz"
+    ],
+    "text": "Ivo's dog is called Pixel."
+   },
+   {
+    "entity": "Zara Szabo",
+    "kind": "school",
+    "must": [
+     "Zara Szabo",
+     "McGill"
+    ],
+    "people": [
+     "Zara Szabo"
+    ],
+    "text": "Zara Szabo studied at McGill."
+   },
+   {
+    "entity": "Bramble-DB",
+    "kind": "status",
+    "must": [
+     "Bramble-DB",
+     "paused"
+    ],
+    "people": [],
+    "text": "Bramble-DB is now paused."
+   },
+   {
+    "entity": "Yusuf Laurent",
+    "kind": "touch",
+    "must": [
+     "Yusuf Laurent"
+    ],
+    "people": [
+     "Yusuf Laurent"
+    ],
+    "text": "Call with Yusuf Laurent; we talked about Heron-Eval."
+   }
+  ],
+  "2026-08-03": [
+   {
+    "entity": "Umar Iwasaki",
+    "kind": "pet",
+    "must": [
+     "Umar Iwasaki",
+     "Pepper"
+    ],
+    "people": [
+     "Umar Iwasaki"
+    ],
+    "text": "Umar Iwasaki's dog is called Pepper."
+   },
+   {
+    "entity": "Vera Abara",
+    "kind": "touch",
+    "must": [
+     "Vera"
+    ],
+    "people": [
+     "Vera Abara"
+    ],
+    "text": "Call with Vera; we talked about Gullwing-Auth."
+   },
+   {
+    "entity": "Oskar Moreau",
+    "kind": "touch",
+    "must": [
+     "Oskar Moreau"
+    ],
+    "people": [
+     "Oskar Moreau"
+    ],
+    "text": "Lunch with Oskar Moreau; we talked about eval design."
+   }
+  ],
+  "2026-08-04": [
+   {
+    "entity": "Chioma Oyelaran",
+    "kind": "city",
+    "must": [
+     "Chioma Oyelaran",
+     "Tallinn"
+    ],
+    "people": [
+     "Chioma Oyelaran"
+    ],
+    "text": "Chioma Oyelaran moved from Leipzig to Tallinn."
+   },
+   {
+    "entity": "Celeste Mbeki",
+    "kind": "pet",
+    "must": [
+     "Cece",
+     "Olive"
+    ],
+    "people": [
+     "Celeste Mbeki"
+    ],
+    "text": "Cece's dog is called Olive."
+   },
+   {
+    "entity": "Kestrel-Sync",
+    "kind": "status",
+    "must": [
+     "Kestrel-Sync",
+     "in beta"
+    ],
+    "people": [],
+    "text": "Kestrel-Sync is now in beta."
+   }
+  ],
+  "2026-08-05": [
+   {
+    "entity": "Ines Nakamura",
+    "kind": "employer",
+    "must": [
+     "Ines Nakamura",
+     "Embergate"
+    ],
+    "people": [
+     "Ines Nakamura"
+    ],
+    "text": "Ines Nakamura left Kiteline and now works at Embergate."
+   },
+   {
+    "entity": "Chioma Oyelaran",
+    "kind": "hobby",
+    "must": [
+     "Chioma Oyelaran",
+     "pottery"
+    ],
+    "people": [
+     "Chioma Oyelaran"
+    ],
+    "text": "Chioma Oyelaran spends weekends on pottery."
+   },
+   {
+    "entity": "Dario Tanaka",
+    "kind": "touch",
+    "must": [
+     "Dario Tanaka"
+    ],
+    "people": [
+     "Dario Tanaka"
+    ],
+    "text": "Walk with Dario Tanaka; we talked about travel plans."
+   }
+  ],
+  "2026-08-06": [
+   {
+    "entity": "Hugo Whitfield",
+    "kind": "join",
+    "must": [
+     "Hugo Whitfield",
+     "Saffron-Notes"
+    ],
+    "people": [
+     "Hugo Whitfield"
+    ],
+    "text": "Hugo Whitfield joined Saffron-Notes as a collaborator."
+   },
+   {
+    "entity": "Wendell Eriksen",
+    "kind": "pet",
+    "must": [
+     "Wendell Eriksen",
+     "Mochi"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Wendell Eriksen's dog is called Mochi."
+   }
+  ],
+  "2026-08-07": [
+   {
+    "entity": "Elif Petrov",
+    "kind": "touch",
+    "must": [
+     "Elif Petrov"
+    ],
+    "people": [
+     "Elif Petrov"
+    ],
+    "text": "Coffee with Elif Petrov; we talked about remote work."
+   },
+   {
+    "entity": "Ivo Yilmaz",
+    "kind": "touch",
+    "must": [
+     "Ivo"
+    ],
+    "people": [
+     "Ivo Yilmaz"
+    ],
+    "text": "Coffee with Ivo; we talked about a book they are reading."
+   }
+  ],
+  "2026-08-10": [
+   {
+    "entity": "Celeste Mbeki",
+    "kind": "hobby",
+    "must": [
+     "Celeste",
+     "film photography"
+    ],
+    "people": [
+     "Celeste Mbeki"
+    ],
+    "text": "Celeste spends weekends on film photography."
+   },
+   {
+    "entity": "Oskar Moreau",
+    "kind": "hobby",
+    "must": [
+     "Oskar Moreau",
+     "film photography"
+    ],
+    "people": [
+     "Oskar Moreau"
+    ],
+    "text": "Oskar Moreau spends weekends on film photography."
+   },
+   {
+    "entity": "Lior Fontaine",
+    "kind": "touch",
+    "must": [
+     "Lior"
+    ],
+    "people": [
+     "Lior Fontaine"
+    ],
+    "text": "Call with Lior; we talked about a side project idea."
+   }
+  ],
+  "2026-08-12": [
+   {
+    "entity": "Hugo Whitfield",
+    "kind": "school",
+    "must": [
+     "Hugo Whitfield",
+     "the University of Cape Town"
+    ],
+    "people": [
+     "Hugo Whitfield"
+    ],
+    "text": "Hugo Whitfield studied at the University of Cape Town."
+   },
+   {
+    "entity": "Sven Sato",
+    "kind": "touch",
+    "must": [
+     "Sven Sato"
+    ],
+    "people": [
+     "Sven Sato"
+    ],
+    "text": "Call with Sven Sato; we talked about travel plans."
+   },
+   {
+    "entity": "Hugo Rasmussen",
+    "kind": "touch",
+    "must": [
+     "Hugo Rasmussen"
+    ],
+    "people": [
+     "Hugo Rasmussen"
+    ],
+    "text": "Coffee with Hugo Rasmussen; we talked about Orchard-Maps."
+   },
+   {
+    "entity": "Rosa Kowalczyk",
+    "kind": "touch",
+    "must": [
+     "Rosa Kowalczyk"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Walk with Rosa Kowalczyk; we talked about hiring plans."
+   }
+  ],
+  "2026-08-13": [
+   {
+    "entity": "Dmitri Okonkwo",
+    "kind": "hobby_fix",
+    "must": [
+     "Dima",
+     "beekeeping"
+    ],
+    "people": [
+     "Dmitri Okonkwo"
+    ],
+    "text": "Correction: Dima is into beekeeping, not fencing; I had that wrong."
+   },
+   {
+    "entity": "Rosa Kowalczyk",
+    "kind": "hobby_fix",
+    "must": [
+     "Rosa Kowalczyk",
+     "competitive chess"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Correction: Rosa Kowalczyk is into competitive chess, not sourdough baking; I had that wrong."
+   },
+   {
+    "entity": "Dmitri Okonkwo",
+    "kind": "join",
+    "must": [
+     "Dima",
+     "Quarry-Vision"
+    ],
+    "people": [
+     "Dmitri Okonkwo"
+    ],
+    "text": "Dima joined Quarry-Vision as a collaborator."
+   }
+  ],
+  "2026-08-17": [
+   {
+    "entity": "Quarry-Vision",
+    "kind": "status",
+    "must": [
+     "Quarry-Vision",
+     "paused"
+    ],
+    "people": [],
+    "text": "Quarry-Vision is now paused."
+   },
+   {
+    "entity": "Rosa Kowalczyk",
+    "kind": "touch",
+    "must": [
+     "Rosa Kowalczyk"
+    ],
+    "people": [
+     "Rosa Kowalczyk"
+    ],
+    "text": "Call with Rosa Kowalczyk; we talked about Cinder-Queue."
+   }
+  ],
+  "2026-08-18": [
+   {
+    "entity": "Wendell Eriksen",
+    "kind": "join",
+    "must": [
+     "Wendell Eriksen",
+     "Pebble-Shell"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Wendell Eriksen joined Pebble-Shell as a collaborator."
+   },
+   {
+    "entity": "Sven Sato",
+    "kind": "touch",
+    "must": [
+     "Sven Sato"
+    ],
+    "people": [
+     "Sven Sato"
+    ],
+    "text": "Call with Sven Sato; we talked about hiring plans."
+   },
+   {
+    "entity": "Oskar Moreau",
+    "kind": "touch",
+    "must": [
+     "Oskar Moreau"
+    ],
+    "people": [
+     "Oskar Moreau"
+    ],
+    "text": "Walk with Oskar Moreau; we talked about a conference talk."
+   },
+   {
+    "entity": "Wendell Eriksen",
+    "kind": "touch",
+    "must": [
+     "Wendell Eriksen"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Walk with Wendell Eriksen; we talked about travel plans."
+   }
+  ],
+  "2026-08-20": [
+   {
+    "entity": "Gideon Galloway",
+    "kind": "touch",
+    "must": [
+     "Gideon"
+    ],
+    "people": [
+     "Gideon Galloway"
+    ],
+    "text": "Walk with Gideon; we talked about Cinder-Queue."
+   }
+  ],
+  "2026-08-21": [
+   {
+    "entity": "Oskar Moreau",
+    "kind": "employer",
+    "must": [
+     "Oskar Moreau",
+     "Pinecrest Data"
+    ],
+    "people": [
+     "Oskar Moreau"
+    ],
+    "text": "Oskar Moreau left Tessellate and now works at Pinecrest Data."
+   },
+   {
+    "entity": "Wendell Eriksen",
+    "kind": "employer",
+    "must": [
+     "Wendell Eriksen",
+     "Verdant Grid"
+    ],
+    "people": [
+     "Wendell Eriksen"
+    ],
+    "text": "Wendell Eriksen left Quillfeather and now works at Verdant Grid."
+   }
+  ],
+  "2026-08-24": [
+   {
+    "entity": "Oskar Moreau",
+    "kind": "pet",
+    "must": [
+     "Oskar",
+     "Basil"
+    ],
+    "people": [
+     "Oskar Moreau"
+    ],
+    "text": "Oskar's dog is called Basil."
+   },
+   {
+    "entity": "Tamsin Ulloa",
+    "kind": "touch",
+    "must": [
+     "Tamsin Ulloa"
+    ],
+    "people": [
+     "Tamsin Ulloa"
+    ],
+    "text": "Call with Tamsin Ulloa; we talked about eval design."
+   }
+  ],
+  "2026-08-25": [
+   {
+    "entity": "Celeste Mbeki",
+    "kind": "touch",
+    "must": [
+     "Celeste Mbeki"
+    ],
+    "people": [
+     "Celeste Mbeki"
+    ],
+    "text": "Coffee with Celeste Mbeki; we talked about a book they are reading."
+   },
+   {
+    "entity": "Quentin Calloway",
+    "kind": "touch",
+    "must": [
+     "Quentin"
+    ],
+    "people": [
+     "Quentin Calloway"
+    ],
+    "text": "Walk with Quentin; we talked about eval design."
+   }
+  ],
+  "2026-08-26": [
+   {
+    "entity": "Elif Petrov",
+    "kind": "touch",
+    "must": [
+     "Elif Petrov"
+    ],
+    "people": [
+     "Elif Petrov"
+    ],
+    "text": "Lunch with Elif Petrov; we talked about eval design."
+   }
+  ],
+  "2026-08-27": [
+   {
+    "entity": "Jun Haddad",
+    "kind": "city",
+    "must": [
+     "Jun Haddad",
+     "Krak\u00f3w"
+    ],
+    "people": [
+     "Jun Haddad"
+    ],
+    "text": "Jun Haddad moved from Cordoba to Krak\u00f3w."
+   },
+   {
+    "entity": "Vera Abara",
+    "kind": "school",
+    "must": [
+     "Vera",
+     "McGill"
+    ],
+    "people": [
+     "Vera Abara"
+    ],
+    "text": "Vera studied at McGill."
+   },
+   {
+    "entity": "Oskar Moreau",
+    "kind": "touch",
+    "must": [
+     "Oskar"
+    ],
+    "people": [
+     "Oskar Moreau"
+    ],
+    "text": "Coffee with Oskar; we talked about travel plans."
+   }
+  ],
+  "2026-08-28": [
+   {
+    "entity": "Elif Petrov",
+    "kind": "touch",
+    "must": [
+     "Elif Petrov"
+    ],
+    "people": [
+     "Elif Petrov"
+    ],
+    "text": "Coffee with Elif Petrov; we talked about hiring plans."
+   }
+  ]
+ },
+ "people": {
+  "Ana Jaramillo": {
+   "aliases": [],
+   "created": "2026-04-17",
+   "must": [
+    "Quillfeather",
+    "Leipzig",
+    "a friend's dinner party"
+   ],
+   "text": "Ana Jaramillo: SRE at Quillfeather, lives in Leipzig. Met at a friend's dinner party on April 17. "
+  },
+  "Bilal Varga": {
+   "aliases": [
+    "Bilal"
+   ],
+   "created": "2026-03-26",
+   "must": [
+    "Saltmarsh Studio",
+    "Osaka",
+    "the local AI reading group"
+   ],
+   "text": "Bilal Varga: frontend engineer at Saltmarsh Studio, lives in Osaka. Met at the local AI reading group on March 26. "
+  },
+  "Bruno Delacroix": {
+   "aliases": [
+    "Bruno"
+   ],
+   "created": "2026-04-23",
+   "must": [
+    "Embergate",
+    "Cordoba",
+    "a climbing gym session"
+   ],
+   "text": "Bruno Delacroix: technical writer at Embergate, lives in Cordoba. Met at a climbing gym session on April 23. Introduced by [[Jun Haddad]]."
+  },
+  "Celeste Mbeki": {
+   "aliases": [
+    "Celeste",
+    "Cece"
+   ],
+   "created": "2026-07-15",
+   "must": [
+    "Brightwater AI",
+    "Cordoba",
+    "a conference hallway track"
+   ],
+   "text": "Celeste Mbeki: founder at Brightwater AI, lives in Cordoba. Met at a conference hallway track on July 15. Introduced by [[Mateo Rahman]]."
+  },
+  "Dmitri Okonkwo": {
+   "aliases": [
+    "Dmitri",
+    "Dima"
+   ],
+   "created": "2026-06-26",
+   "must": [
+    "Kiteline",
+    "Valparaiso",
+    "the open-source sprint"
+   ],
+   "text": "Dmitri Okonkwo: security engineer at Kiteline, lives in Valparaiso. Met at the open-source sprint on June 26. "
+  },
+  "Elif Petrov": {
+   "aliases": [
+    "Elif"
+   ],
+   "created": "2026-07-14",
+   "must": [
+    "Cobalt Harbor",
+    "Bergen",
+    "a climbing gym session"
+   ],
+   "text": "Elif Petrov: engineering manager at Cobalt Harbor, lives in Bergen. Met at a climbing gym session on July 14. "
+  },
+  "Felix Trevino": {
+   "aliases": [
+    "Felix"
+   ],
+   "created": "2026-06-12",
+   "must": [
+    "Kiteline",
+    "Bergen",
+    "PyData Porto"
+   ],
+   "text": "Felix Trevino: frontend engineer at Kiteline, lives in Bergen. Met at PyData Porto on June 12. Introduced by [[Ines Nakamura]]."
+  },
+  "Gideon Galloway": {
+   "aliases": [
+    "Gideon",
+    "Gid"
+   ],
+   "created": "2026-04-09",
+   "must": [
+    "Brightwater AI",
+    "Bergen",
+    "the local AI reading group"
+   ],
+   "text": "Gideon Galloway: security engineer at Brightwater AI, lives in Bergen. Met at the local AI reading group on April 9. Introduced by [[Ximena Brennan]]."
+  },
+  "Hana Wexler": {
+   "aliases": [
+    "Hana"
+   ],
+   "created": "2026-05-21",
+   "must": [
+    "Saltmarsh Studio",
+    "Tallinn",
+    "a conference hallway track"
+   ],
+   "text": "Hana Wexler: data engineer at Saltmarsh Studio, lives in Tallinn. Met at a conference hallway track on May 21. "
+  },
+  "Hugo Rasmussen": {
+   "aliases": [],
+   "created": "2026-05-25",
+   "must": [
+    "Ostrander Robotics",
+    "Madison",
+    "a conference hallway track"
+   ],
+   "text": "Hugo Rasmussen: backend engineer at Ostrander Robotics, lives in Madison. Met at a conference hallway track on May 25. Introduced by [[Sven Sato]]."
+  },
+  "Hugo Whitfield": {
+   "aliases": [],
+   "created": "2026-05-07",
+   "must": [
+    "Kiteline",
+    "Nairobi",
+    "the open-source sprint"
+   ],
+   "text": "Hugo Whitfield: data engineer at Kiteline, lives in Nairobi. Met at the open-source sprint on May 7. "
+  },
+  "Ines Nakamura": {
+   "aliases": [
+    "Ines"
+   ],
+   "created": "2026-06-03",
+   "must": [
+    "Kiteline",
+    "Austin",
+    "the local AI reading group"
+   ],
+   "text": "Ines Nakamura: technical writer at Kiteline, lives in Austin. Met at the local AI reading group on June 3. Introduced by [[Hana Wexler]]."
+  },
+  "Jun Haddad": {
+   "aliases": [
+    "Jun"
+   ],
+   "created": "2026-03-17",
+   "must": [
+    "Marrow & Finch",
+    "Cordoba",
+    "the Halloween hackathon"
+   ],
+   "text": "Jun Haddad: engineering manager at Marrow & Finch, lives in Cordoba. Met at the Halloween hackathon on March 17. "
+  },
+  "Kavya Lindqvist": {
+   "aliases": [
+    "Kavya"
+   ],
+   "created": "2026-05-13",
+   "must": [
+    "Pinecrest Data",
+    "Hobart",
+    "the open-source sprint"
+   ],
+   "text": "Kavya Lindqvist: PhD student at Pinecrest Data, lives in Hobart. Met at the open-source sprint on May 13. "
+  },
+  "Mateo Rahman": {
+   "aliases": [
+    "Mateo"
+   ],
+   "created": "2026-05-14",
+   "must": [
+    "Marrow & Finch",
+    "Porto",
+    "PyData Porto"
+   ],
+   "text": "Mateo Rahman: product designer at Marrow & Finch, lives in Porto. Met at PyData Porto on May 14. Introduced by [[Jun Haddad]]."
+  },
+  "Nadia Ashdown": {
+   "aliases": [
+    "Nadia"
+   ],
+   "created": "2026-04-13",
+   "must": [
+    "Halcyon Bio",
+    "Ljubljana",
+    "the open-source sprint"
+   ],
+   "text": "Nadia Ashdown: backend engineer at Halcyon Bio, lives in Ljubljana. Met at the open-source sprint on April 13. Introduced by [[Bilal Varga]]."
+  },
+  "Priya Castellano": {
+   "aliases": [
+    "Priya"
+   ],
+   "created": "2026-04-30",
+   "must": [
+    "Juniper Systems",
+    "Hobart",
+    "a startup demo night"
+   ],
+   "text": "Priya Castellano: security engineer at Juniper Systems, lives in Hobart. Met at a startup demo night on April 30. Introduced by [[Ana Jaramillo]]."
+  },
+  "Quentin Calloway": {
+   "aliases": [
+    "Quentin",
+    "Q"
+   ],
+   "created": "2026-04-30",
+   "must": [
+    "Brightwater AI",
+    "Montreal",
+    "PyData Porto"
+   ],
+   "text": "Quentin Calloway: product designer at Brightwater AI, lives in Montreal. Met at PyData Porto on April 30. Introduced by [[Priya Castellano]]."
+  },
+  "Sven Sato": {
+   "aliases": [
+    "Sven"
+   ],
+   "created": "2026-05-22",
+   "must": [
+    "Juniper Systems",
+    "Leipzig",
+    "the board game cafe"
+   ],
+   "text": "Sven Sato: SRE at Juniper Systems, lives in Leipzig. Met at the board game cafe on May 22. Introduced by [[Farah Pacheco]]."
+  },
+  "Tamsin Ulloa": {
+   "aliases": [
+    "Tamsin",
+    "Tam"
+   ],
+   "created": "2026-06-26",
+   "must": [
+    "Pinecrest Data",
+    "Hobart",
+    "the RustConf meetup"
+   ],
+   "text": "Tamsin Ulloa: SRE at Pinecrest Data, lives in Hobart. Met at the RustConf meetup on June 26. "
+  },
+  "Vera Abara": {
+   "aliases": [
+    "Vera"
+   ],
+   "created": "2026-03-19",
+   "must": [
+    "Halcyon Bio",
+    "Porto",
+    "PyData Porto"
+   ],
+   "text": "Vera Abara: PhD student at Halcyon Bio, lives in Porto. Met at PyData Porto on March 19. "
+  },
+  "Wendell Eriksen": {
+   "aliases": [
+    "Wendell",
+    "Dell"
+   ],
+   "created": "2026-03-02",
+   "must": [
+    "Quillfeather",
+    "Valparaiso",
+    "the board game cafe"
+   ],
+   "text": "Wendell Eriksen: ML researcher at Quillfeather, lives in Valparaiso. Met at the board game cafe on March 2. "
+  },
+  "Yusuf Laurent": {
+   "aliases": [
+    "Yusuf"
+   ],
+   "created": "2026-05-29",
+   "must": [
+    "Halcyon Bio",
+    "Montreal",
+    "a friend's dinner party"
+   ],
+   "text": "Yusuf Laurent: frontend engineer at Halcyon Bio, lives in Montreal. Met at a friend's dinner party on May 29. Introduced by [[Hugo Rasmussen]]."
+  },
+  "Zara Szabo": {
+   "aliases": [
+    "Zara"
+   ],
+   "created": "2026-06-29",
+   "must": [
+    "Quillfeather",
+    "Tallinn",
+    "the open-source sprint"
+   ],
+   "text": "Zara Szabo: technical writer at Quillfeather, lives in Tallinn. Met at the open-source sprint on June 29. "
+  }
+ },
+ "projects": {
+  "Bramble-DB": {
+   "created": "2026-03-05",
+   "must": [
+    "Wendell Eriksen",
+    "Elixir",
+    "SourceHut",
+    "Rosa Kowalczyk"
+   ],
+   "text": "Bramble-DB. Owner: Wendell Eriksen. Language: Elixir. Repo on SourceHut. Target date: 2026-05-23. Collaborators: Rosa Kowalczyk.",
+   "updates": [
+    "Update 2026-04-06: deadline changed from 2026-05-23 to 2026-06-06.",
+    "Update 2026-07-31: status changed from active to paused."
+   ]
+  },
+  "Cinder-Queue": {
+   "created": "2026-04-24",
+   "must": [
+    "Gideon Galloway",
+    "TypeScript",
+    "SourceHut",
+    "Ximena Brennan",
+    "Rosa Kowalczyk"
+   ],
+   "text": "Cinder-Queue. Owner: Gideon Galloway. Language: TypeScript. Repo on SourceHut. Target date: 2026-06-07. Collaborators: Ximena Brennan, Rosa Kowalczyk.",
+   "updates": [
+    "Update 2026-05-04: deadline changed from 2026-06-07 to 2026-06-19."
+   ]
+  },
+  "Gullwing-Auth": {
+   "created": "2026-04-09",
+   "must": [
+    "Vera Abara",
+    "OCaml",
+    "GitLab",
+    "Ximena Brennan",
+    "Bilal Varga"
+   ],
+   "text": "Gullwing-Auth. Owner: Vera Abara. Language: OCaml. Repo on GitLab. Target date: 2026-07-02. Collaborators: Ximena Brennan, Bilal Varga.",
+   "updates": []
+  },
+  "Heron-Eval": {
+   "created": "2026-04-01",
+   "must": [
+    "Ximena Brennan",
+    "Elixir",
+    "Codeberg",
+    "Jun Haddad",
+    "Wendell Eriksen"
+   ],
+   "text": "Heron-Eval. Owner: Ximena Brennan. Language: Elixir. Repo on Codeberg. Target date: 2026-05-20. Collaborators: Jun Haddad, Wendell Eriksen.",
+   "updates": []
+  },
+  "Kestrel-Sync": {
+   "created": "2026-05-19",
+   "must": [
+    "Ana Jaramillo",
+    "Zig",
+    "GitLab",
+    "Nadia Ashdown",
+    "Mateo Rahman"
+   ],
+   "text": "Kestrel-Sync. Owner: Ana Jaramillo. Language: Zig. Repo on GitLab. Target date: 2026-07-01. Collaborators: Nadia Ashdown, Mateo Rahman.",
+   "updates": [
+    "Update 2026-07-07: deadline changed from 2026-07-01 to 2026-07-18.",
+    "Update 2026-07-23: lang changed from Zig to Clojure.",
+    "Update 2026-08-04: status changed from active to in beta."
+   ]
+  },
+  "Lantern-CI": {
+   "created": "2026-03-24",
+   "must": [
+    "Farah Pacheco",
+    "OCaml",
+    "GitLab",
+    "Ximena Brennan",
+    "Wendell Eriksen"
+   ],
+   "text": "Lantern-CI. Owner: Farah Pacheco. Language: OCaml. Repo on GitLab. Target date: 2026-06-10. Collaborators: Ximena Brennan, Wendell Eriksen.",
+   "updates": []
+  },
+  "Mosaic-Ledger": {
+   "created": "2026-04-07",
+   "must": [
+    "Farah Pacheco",
+    "Elixir",
+    "SourceHut",
+    "Rosa Kowalczyk",
+    "Vera Abara"
+   ],
+   "text": "Mosaic-Ledger. Owner: Farah Pacheco. Language: Elixir. Repo on SourceHut. Target date: 2026-05-24. Collaborators: Rosa Kowalczyk, Vera Abara.",
+   "updates": []
+  },
+  "Orchard-Maps": {
+   "created": "2026-05-18",
+   "must": [
+    "Mateo Rahman",
+    "Swift",
+    "GitLab",
+    "Quentin Calloway",
+    "Kavya Lindqvist"
+   ],
+   "text": "Orchard-Maps. Owner: Mateo Rahman. Language: Swift. Repo on GitLab. Target date: 2026-07-31. Collaborators: Quentin Calloway, Kavya Lindqvist.",
+   "updates": []
+  },
+  "Pebble-Shell": {
+   "created": "2026-04-06",
+   "must": [
+    "Rosa Kowalczyk",
+    "Go",
+    "SourceHut",
+    "Farah Pacheco",
+    "Jun Haddad"
+   ],
+   "text": "Pebble-Shell. Owner: Rosa Kowalczyk. Language: Go. Repo on SourceHut. Target date: 2026-06-16. Collaborators: Farah Pacheco, Jun Haddad.",
+   "updates": []
+  },
+  "Quarry-Vision": {
+   "created": "2026-03-20",
+   "must": [
+    "Wendell Eriksen",
+    "Go",
+    "GitHub",
+    "Jun Haddad",
+    "Vera Abara"
+   ],
+   "text": "Quarry-Vision. Owner: Wendell Eriksen. Language: Go. Repo on GitHub. Target date: 2026-05-14. Collaborators: Jun Haddad, Vera Abara.",
+   "updates": []
+  },
+  "Saffron-Notes": {
+   "created": "2026-03-13",
+   "must": [
+    "Rosa Kowalczyk",
+    "Clojure",
+    "GitLab",
+    "Wendell Eriksen"
+   ],
+   "text": "Saffron-Notes. Owner: Rosa Kowalczyk. Language: Clojure. Repo on GitLab. Target date: 2026-06-05. Collaborators: Wendell Eriksen.",
+   "updates": [
+    "Update 2026-04-22: deadline changed from 2026-06-05 to 2026-07-09.",
+    "Update 2026-07-15: lang changed from Clojure to Swift.",
+    "Update 2026-06-22: status changed from active to in beta."
+   ]
+  },
+  "Tidewater-API": {
+   "created": "2026-04-09",
+   "must": [
+    "Wendell Eriksen",
+    "OCaml",
+    "GitHub",
+    "Rosa Kowalczyk",
+    "Ximena Brennan"
+   ],
+   "text": "Tidewater-API. Owner: Wendell Eriksen. Language: OCaml. Repo on GitHub. Target date: 2026-07-06. Collaborators: Rosa Kowalczyk, Ximena Brennan.",
+   "updates": []
+  }
+ }
+}
