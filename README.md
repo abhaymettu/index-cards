@@ -31,17 +31,14 @@ index-cards demo
 `./index-cards-demo`, builds its cards in about 0.1 s and prints one card and the context it builds for a question:
 
 ```
-2026-11-01T05:42:27 entities=36 cards=36 changed=36 kept_gone=0 sources=197 unsourced=0 catalog_changed=True 0.1s
+2026-11-01T07:17:25 entities=36 cards=36 changed=36 kept_gone=0 sources=197 unsourced=0 catalog_changed=True 0.1s
 
 Context for "What is the current deadline for Kestrel-Sync?" (budget 600 tokens):
 
 [index-cards/project/kestrel-sync.md] Kestrel-Sync (project), 11 entries, newest first
 - 2026-08-04 13:30 · 00-Inbox/Daily/2026-08-04 · Kestrel-Sync status
-- 2026-05-19 · 01-Projects/Kestrel-Sync · Kestrel-Sync (defining note)
+- 2026-07-07 09:15 · 00-Inbox/Daily/2026-07-07 · Deadline shift: Kestrel-Sync is no longer due July 1, pushed out to July 18. Breathing room, but don't let it turn into slack.
 ...
-[00-Inbox/Daily/2026-07-07.md | 2026-07-07]
-**09:15 Deadline shift**
-Kestrel-Sync is no longer due July 1, pushed out to July 18. Breathing room, but don't let it turn into slack.
 ```
 
 On your own vault:
@@ -52,7 +49,7 @@ index-cards sweep                       # builds <vault>/index-cards/
 index-cards context "who owns the billing rewrite now?" --budget 4000
 ```
 
-Then tell your agent where the cards are. One sentence in `CLAUDE.md` or `AGENTS.md` is enough: "Index cards:
+Then tell your agent where the cards are. One sentence in `CLAUDE.md` or `AGENTS.md` does it. "Index cards:
 `<vault>/index-cards/` holds one card per person and project (list in `_catalog.md`). Look for a card on the
 question's subject first, then read the sources it lists." Python 3.9+, no dependencies.
 
@@ -196,4 +193,4 @@ retrieval and agent-written memory. https://github.com/abhaymettu/index-cards. P
 
 ## License
 
-MIT, see `LICENSE`.
+MIT (`LICENSE`).

@@ -21,15 +21,11 @@ appears verbatim. The result is 251 notes and about 112k tokens. The questions c
 answer is known, and so is every superseded value. When a system answers with an old deadline, that counts as a
 stale error, not just a wrong answer.
 
-Every system gets the same answering model, the same prompt and the same budget of context tokens:
-
-- **grep**: blocks containing the question's words.
-- **BM25**.
-- **embedding RAG**: nomic-embed-text, run locally.
-- **hybrid**: BM25 and RAG fused by reciprocal rank.
-- **a memory file in the style of Claude Code's auto memory**: the model read the vault week by week and kept its own
-  `MEMORY.md` under the same budget.
-- **index-cards**: the cards the question names, then the notes they point to, then cards one hop away.
+Every system gets the same answering model, the same prompt and the same budget of context tokens. The contenders
+are grep over the question's words, BM25, embedding retrieval with nomic-embed-text run locally, a hybrid of those
+two fused by reciprocal rank, and a memory file in the style of Claude Code's auto memory, which the model kept
+itself while reading the vault week by week, under the same budget. index-cards reads the cards the question names,
+then the notes they point to, then cards one hop away.
 
 ## What happened
 
@@ -65,7 +61,7 @@ prompt says to trust the newest, the model picks the current value whenever the 
 tokens of a 112k-token vault, it nearly always is. Almost every miss was "unknown": the right note never made it
 into the context.
 
-The first version of the retriever ignored the question's words inside a card. The demo caught it: asked for a
+The first version of the retriever ignored the question's words inside a card. The demo caught it. Asked for a
 project's current deadline at a small budget, it showed the project's oldest notes and missed the one where the
 deadline moved. I fixed it, but by then I had already seen test results on that world. So I generated a second
 world from a new seed and ran every system on it once, with no changes after. Those are the numbers above. My first

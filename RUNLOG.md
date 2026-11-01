@@ -114,3 +114,19 @@ Questions about people without a card: cards 85.7, rag 95.2 (42 q); with a card 
 The seed-8 memory file grew to 22,511 characters against a 16,000-character budget and was cut at question time.
 
 Paper built with tectonic from generated numbers.tex / table-main.tex / table-agent.tex: paper/index-cards.pdf.
+
+## 07:18 fresh-clone check
+
+`git clone https://github.com/abhaymettu/index-cards` into a temp dir; `uv pip install git+https://github.com/abhaymettu/index-cards`
+into a clean venv; `index-cards demo d` exited 0 and built 36 cards in 0.1 s; its context for the Kestrel-Sync
+deadline question includes the block where the deadline moved to July 18. From the clone,
+`BENCH_ROOT=bench/runs/seed8 python3 bench/score.py --split test` printed:
+
+```
+grep       4000  257  73.5% [67.8%,78.6%]   0.0% 26.6%    94%     3%    99%    84%   100%    95%    3648    7539     2.7    4.8
+bm25       4000  257  77.0% [71.5%,81.8%]   1.1% 23.2%   100%    10%    99%    92%   100%    95%    3457    7729     0.9    9.9
+hybrid     4000  257  79.8% [74.4%,84.2%]   0.0% 21.5%   100%    16%   100%    96%   100%   100%    3922    8592    22.0    8.3
+rag        4000  257  82.1% [77.0%,86.3%]   1.1% 17.7%    98%    31%   100%    88%   100%   100%    3921    8548    22.8    5.1
+memory     4000  257  63.0% [57.0%,68.7%]   2.3% 29.5%    47%    69%    71%    24%    63%   100%    4000    9161     0.0    5.6
+cards      4000  257  89.5% [85.1%,92.7%]   1.1%  9.3%    98%    70%    94%    92%   100%    95%    3641    8213     4.8    6.2
+```
