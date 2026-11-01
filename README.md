@@ -1,6 +1,7 @@
 # index-cards
 
 A deterministic memory layer for coding agents over a plain markdown vault, and a benchmark that measures it.
+Best when the agent's memory has to fit a fixed token budget.
 
 ![Accuracy at a 4,000-token context budget: index-cards 89.5%, embedding RAG 82.1%, hybrid 79.8%, BM25 77.0%, grep 73.5%, a Claude Code style memory file 63.0%, no memory 7.8%](docs/img/accuracy-4000.png)
 
@@ -8,8 +9,8 @@ Code keeps one markdown **card** per person and project, listing every note that
 first. No model is called to build it. Asked a question, the agent reads the cards the question names, then the
 notes they point to.
 
-On 257 held-out questions about a fictional six-month vault (114k tokens), generated after the retriever was
-frozen, with the same model, prompt and 4,000-token budget for every system, cards answer **89.5%**. Embedding
+On 257 held-out questions about a fictional six-month vault (114k tokens, every person and project with a unique
+full name, benchmark designed by me), generated after the retriever was frozen, with the same model, prompt and 4,000-token budget for every system, cards answer **89.5%**. Embedding
 retrieval gets 82.1% (paired bootstrap p = 0.003), grep 73.5%, and a Claude Code style memory file 63.0%. The gap
 comes from questions that need two notes, like "which city does the current owner of Kelp-DB live in?": cards get
 70% of these and embedding retrieval 31%. The lead holds from 2,000 to 4,000 tokens. At 1,000 tokens embedding
